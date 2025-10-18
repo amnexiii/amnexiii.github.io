@@ -1,4 +1,4 @@
-⬆️ _Haz click en "ikergl" para volver a la página de inicio._ <br><br>
+⬆️ _Haz click en "amnexiii" para volver a la página de inicio._ <br><br>
 
 # ¡Hola!
 
@@ -17,4 +17,4 @@ Tras irradiar esta patética crisis de la mediana edad, sólo resta decirte... �
 <br>
 
 ___
-Iker García Lafuente, 6 sep 2025
+amnexiii, 6 sep 2025

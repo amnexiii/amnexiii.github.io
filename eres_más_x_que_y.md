@@ -1,4 +1,4 @@
-⬆️ _Haz click en "ikergl" para volver a la página de inicio._ <br><br>
+⬆️ _Haz click en "amnexiii" para volver a la página de inicio._ <br><br>
 
 # Eres más x que y
 
@@ -14,4 +14,4 @@ No es que me ponga a pensarlas... es que eventualmente me pasan por la cabeza, a
 <br>
 
 ___
-Iker García Lafuente, 18 sep 2025
+amnexiii, 18 sep 2025

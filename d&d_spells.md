@@ -1,4 +1,4 @@
-⬆️ _Haz click en "ikergl" para volver a la página de inicio._ <br><br>
+⬆️ _Haz click en "amnexiii" para volver a la página de inicio._ <br><br>
 
 # D&D Spells
 
@@ -21,4 +21,4 @@ P.D.2: Si juegas con una clase diferente a Wizard, es decir con una clase **infe
 <br>
 
 ___
-Iker García Lafuente, 8 sep 2025
+amnexiii, 8 sep 2025
