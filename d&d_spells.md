@@ -8,7 +8,7 @@
 
 Hazlo bien anda, como si fueras tan estudioso como tu PJ 📚. Filtra aquí, filtra allá, añade tus columnas de comentarios, y hazte un buen libro de conjuros.
 
-De nada 😊
+De nada 😊.
 
 ## P.D.
 

@@ -5,7 +5,7 @@
 - Eres más **desordenado** que la carpeta de descargas.
 - Eres más **viejo** que el icono de guardar.
 
-Eventualmente me pasan por la cabeza estas chorradas 😅
+Eventualmente me pasan por la cabeza estas chorradas 😅.
 
 <br>
 

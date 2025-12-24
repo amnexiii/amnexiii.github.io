@@ -10,7 +10,7 @@ No sé tú, pero yo, para hacer la maleta, si tengo una hora, tardo una hora; si
 
 Adapta el excel a tus necesidades y p'alante...
 
-De nada 😊
+De nada 😊.
 
 
 
