@@ -1,6 +1,6 @@
 ⬆️ _Haz click en "amnexiii" para volver a la página de inicio._ <br><br>
 
-# D&D Spells
+# D&D spells
 
 ¡Mago! 🧙‍♂️
 
