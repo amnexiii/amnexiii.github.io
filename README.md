@@ -8,7 +8,7 @@
   - [Eres más x que y](https://amnexiii.github.io/eres_más_x_que_y.html)
 - **Excelman**
   - [d&d_spells.xlsx](https://amnexiii.github.io/d&d_spells.html)
-  - [checklist_viajes_maleta.xlsx](https://amnexiii.github.io/checklist_viajes_maleta.html)
+  - [checklist_maleta.xlsx](https://amnexiii.github.io/checklist_maleta.html)
 
 <br>
 
