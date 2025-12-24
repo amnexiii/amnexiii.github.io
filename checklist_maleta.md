@@ -4,9 +4,8 @@
 
 No sé tú, pero yo, para hacer la maleta, si tengo una hora, tardo una hora; si tengo cuatro, tardo cuatro. Como no me gusta, pajareo.
 
-¿Solución? ¡Industrializarlo!
+¿Solución? ¡Industrializarlo! Ya no pienso para hacerla; voy mirando el checklist y ejecutando cual ameba.
 
-Ya no pienso para hacerla; voy mirando el checklist y metiendo las cosas, punto pelota.
 | [Descargar checklist_maleta.xlsx](checklist_maleta.xlsx)
 
 Adapta el excel a tus necesidades y p'alante...
