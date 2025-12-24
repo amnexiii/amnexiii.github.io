@@ -15,6 +15,6 @@
 ___
 amnexiii
 
-_Este contenido se comenzó a crear el 6 de septiembre de 2025._
+_Web creada el 6 de septiembre de 2025._
 
 
