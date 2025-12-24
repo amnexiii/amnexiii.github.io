@@ -3,7 +3,7 @@
 
 [¡Hola!](https://amnexiii.github.io/hola.html)
 
-- **Excelman**
+- **Excelman** 💾
   - [D&D spells](https://amnexiii.github.io/d&d_spells.html)
   - [Checklist para hacer la maleta](https://amnexiii.github.io/checklist_maleta.html)
 - **LOL** (o no 😅)
