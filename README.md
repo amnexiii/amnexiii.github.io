@@ -1,7 +1,7 @@
 <br>
   
 
-[¡Hola!](https://amnexiii.github.io/hola.html)
+[¡Hola!](https://amnexiii.github.io/hola.html) 👋
 
 - **Excelman** 💾
   - [D&D spells](https://amnexiii.github.io/d&d_spells.html)
