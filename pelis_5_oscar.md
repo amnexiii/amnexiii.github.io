@@ -8,7 +8,7 @@ Si piensas que tus gustos son sólo tuyos, ¿por qué buscas referencias de terc
 
 _Todas_ las premiadas de la historia son muchas, pero las que tienen 5 o más premios –hasta la ceremonia de 2025 inclusive– son “sólo” 69 pelis: manejable. Ahí te van:
 
-https://ampasstorage.blob.core.windows.net/ampassearch/Gen-Films5awards.pdf
+[https://ampasstorage.blob.core.windows.net/ampassearch/Gen-Films5awards.pdf](https://ampasstorage.blob.core.windows.net/ampassearch/Gen-Films5awards.pdf)
 
 De nada ☺️.
 
