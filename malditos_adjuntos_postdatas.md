@@ -13,7 +13,7 @@ Si, por el contrario, sabes que esa acción guarda el fichero en tu carpeta OneD
 
 ### P. D. 2: Ruego a Microchóf
 
-¡Aquí falta la opción "**"Puede editar, pero no descargar"**", por Tutatis! Sería una manera estupenda de impedir herejías...
+¡Aquí falta la opción **"Puede editar, pero no descargar"**, por Tutatis! Sería una manera estupenda de impedir herejías...
 
 ![](malditos_adjuntos_m365_options.png)
 
