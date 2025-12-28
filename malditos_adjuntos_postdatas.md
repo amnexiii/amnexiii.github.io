@@ -1,8 +1,8 @@
-⬆️ _Haz click en "ikergl" para volver a la página de inicio._ <br><br>
+⬆️ _Haz click en "amnexiii" para volver a la página de inicio._ <br><br>
 
 # Malditos adjuntos... ¡adjuntos malditos!
 
-[Volver al artículo principal](https://ikergl.github.io/malditos_adjuntos.html)
+[Volver al artículo principal](https://amnexiii.github.io/malditos_adjuntos.html)
 
 
 ### P. D. 1: sobre adjuntar ficheros en chats de Teams

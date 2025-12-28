@@ -1,4 +1,4 @@
-⬆️ _Haz click en "ikergl" para volver a la página de inicio._ <br><br>
+⬆️ _Haz click en "amnexiii" para volver a la página de inicio._ <br><br>
 
 # No Hello
 
@@ -6,7 +6,6 @@
 
 [https://nohello.net/es/](https://nohello.net/es/)
 
-Lo pongo aquí sólo por hacer más completa mi lista de ["Productivitips"](https://ikergl.github.io/).
 
 <br>
 

@@ -1,4 +1,4 @@
-⬆️ _Haz click en "ikergl" para volver a la página de inicio._ <br><br>
+⬆️ _Haz click en "amnexiii" para volver a la página de inicio._ <br><br>
 
 # Malditos adjuntos... ¡adjuntos malditos!
 
