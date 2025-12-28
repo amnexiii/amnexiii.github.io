@@ -12,7 +12,7 @@
   - [Pan rallado](https://amnexiii.github.io/pan_rallado.html)
   - [Eres más x que y](https://amnexiii.github.io/eres_más_x_que_y.html)
 
-- **IT: Productivitips**
+- **IT Productivitips**
   - [Malditos adjuntos...](https://amnexiii.github.io/malditos_adjuntos.html)
   - [No Hello](https://amnexiii.github.io/no_hello.html)
 
