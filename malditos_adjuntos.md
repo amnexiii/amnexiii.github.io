@@ -2,6 +2,8 @@
 
 # Malditos adjuntos... ¡adjuntos malditos!
 
+## El problema
+
 Te podrían quemar en una hoguera por enviarme ese PowerPoint, Excel o Word como adjunto en un mail. ¡Hereje! 🔥
 
 Hay dos casos:
