@@ -25,7 +25,7 @@ _Fuente:_ [_https://xkcd.com/3064/_](https://xkcd.com/3064/)
 ## La solución
 
 Lo más probable es que ya la conozcas, ¡sólo úsala! 🙏
-- Paso 0 (cero porque es "no hacer"): **NO pongas número de versión ni fecha en el nombre del fichero**. Sería redundante: tanto el versionado como la fecha de última modificación los gestiona automáticamente la nube por nosotros. Mira qué maja. Keep it simple!
+- Paso 0 (cero porque es "no hacer"): **NO pongas número de versión ni fecha en el nombre del fichero**. Sería redundante: tanto el versionado como la fecha de última modificación los gestiona automáticamente la nube por nosotros. Mira qué maja.
 - Paso 1: **súbelo a internet**.
   - En Microsoft 365: aloja el fichero .pptx/.xlsx/.docx en tu OneDrive o en un SharePoint (asociado o no a un Teams).
   - En Google Workspace: convierte tu .pptx/.xlsx/.docx a .gslides/.gsheet/.gdoc, respectivamente.
