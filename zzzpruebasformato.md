@@ -11,13 +11,6 @@ Febrero | x | x
 Marzo | |
 Abril| |
 Mayo | |
-Junio | |
-Julio | |
-Agosto | |
-Septiembre | |
-Octubre | |
-Noviembre | |
-Diciembre | |
 
 ## Mermaid
 
@@ -32,13 +25,54 @@ Importar java:
 	});
 </script>
 
-Pintar gráfico:
+Pintar gráfico 1:
 <pre class="mermaid">
 flowchart TD
      A-->B
 </pre>
 
+Pintar gráfico 2:
+<pre class="mermaid">
+graph LR
+    %% Evento de Inicio
+    Start(( )) --- OpenGate{ }
 
+    subgraph Pool_Desayuno [Proceso de Desayuno Imperativo]
+        direction LR
+        
+        %% Compuerta paralela (AND)
+        OpenGate{ } --> Lane_A[<b>Persona A:</b> Preparar Bebida]
+        OpenGate{ } --> Lane_B[<b>Persona B:</b> Preparar Comida]
+
+        %% Carril Persona A
+        subgraph Lane_A
+            direction LR
+            A1[Poner cafetera] --> A2[Calentar leche]
+            A2 --> A3[Mezclar café y leche]
+        end
+
+        %% Carril Persona B
+        subgraph Lane_B
+            direction LR
+            B1[Tostar pan] --> B2[Sacar ingredientes]
+            B2 --> B3[Untar mantequilla y mermelada]
+        end
+
+        %% Sincronización (AND Join)
+        A3 --> CloseGate{ }
+        B3 --> CloseGate{ }
+
+        %% Tarea final y fin
+        CloseGate{ } --> FinalTask[Colocar en mesa]
+        FinalTask --> End(( ))
+    end
+
+    %% Estilos BPMN
+    style Start fill:#dfd,stroke:#3c3,stroke-width:2px
+    style End fill:#fdd,stroke:#c33,stroke-width:4px
+    style OpenGate fill:#ff9,stroke:#990,stroke-width:2px
+    style CloseGate fill:#ff9,stroke:#990,stroke-width:2px
+</pre>
 
 <br>
 

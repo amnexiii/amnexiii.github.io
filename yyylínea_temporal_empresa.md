@@ -2,8 +2,8 @@
 
 Mes | Actividad | Productividad real (entrega de resultados)
 -|-|-
-Enero | Superar la gripe navideña. <br> Contar qué tal en las vacas. <br> Pensar qué hacer este año. | 0%
-Febrero | x | x
+Enero | Superar la gripe navideña. <br> Contar qué tal en las vacas. <br> "Limpiar mails". | 0%
+Febrero | Pensar qué hacer este año. | x
 Marzo | Ejecutar el kick off de mil proyectos (juntarnos para decir qué tenemos que hacer). | 0%
 Abril | |
 Mayo | |
