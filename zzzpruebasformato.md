@@ -16,7 +16,7 @@ Mayo | |
 
 Según https://akuszyk.com/2023-05-03-yet-another-mermaid-in-github-pages-guide.html?utm_source=chatgpt.com
 
-Importar java:
+[Importar java]
 <script type="module">
 	import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
 	mermaid.initialize({
@@ -27,7 +27,7 @@ Importar java:
 
 Pintar gráfico 1:
 <pre class="mermaid">
-flowchart TD
+flowchart LR
      A-->B
 </pre>
 
