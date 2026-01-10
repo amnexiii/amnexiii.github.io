@@ -1,5 +1,3 @@
-⬆️ _Haz click en "amnexiii" para volver a la página de inicio._ <br><br>
-
 # Checklist para preparar la maleta
 
 No sé tú, pero yo, para hacer la maleta, si tengo una hora, tardo una hora; si tengo cuatro, tardo cuatro. Como no me gusta, pajareo.

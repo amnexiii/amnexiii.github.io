@@ -1,5 +1,3 @@
-⬆️ _Haz click en "amnexiii" para volver a la página de inicio._ <br><br>
-
 # D&D spells
 
 ¡Mago! 🧙‍♂️ ¿Has elegido a ojo tus conjuros porque la lista de D&D es demasiado larga? ¡Claro, porque no tenías el excel de tito amnexiii!
