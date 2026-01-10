@@ -5,7 +5,17 @@ https://amnexiii.github.io/yyylínea_temporal_empresa.html
 
 ## Texto
 
+*texto en cursiva*
+
+_texto en cursiva_
+
+**texto en negrita**
+
 ~~texto tachado~~
+
+`código`
+
+—
 
 
 ## Tabla
