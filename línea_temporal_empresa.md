@@ -16,5 +16,5 @@ Noviembre | ▪️¿Tienes que enviar resultados de objetivos ya? ¡Pero si los 
 Diciembre | ▪️La primera mitad del mes intentas reconducir el proyecto, sin demasiado éxito, y ya empiezas a pensar que el año que viene te tocará pringar con otro nuevo; no puedes "vender" lo mismo otra vez. Qué dura es la vida 😢. <br> ▪️La segunda mitad no haces demasiado porque estás fundido y, total, el año ya se acaba: ¡LA NAVIDAD ESTÁ A LA VUELTA DE LA ESQUINA! 💃🧑‍🎄 | 8 | "100%" | 0%
 Durante todo el año | ▪️Envías muchos mails y das tu opinión en muchas reuniones. | - | - | 0%
 Durante todo el año | ▪️Intentas cerrar los "flecos" de proyectos de años anteriores sin levantar sospechas 🥸. Tienes que pedir favores porque el presupuesto de aquellos ya se gastó. El día a día es agotador... 😤 <br> ▪️Trabajas en temas abiertos de manera continuista, pico y pala sin parar ⛏️, [sin replantearte si lo que estás haciendo hace falta](https://www.youtube.com/watch?v=LSp8n78ONNA) 🍌💧🙈... | - | - | 10% <br><br> _(Del 20% de entregables de proyectos pasados que logras finalizar, aunque sea tarde, la mitad siguen siendo necesarios 😅.)_
-**Total** | **-** | **1750h** | **100%** | **10%**
+**Total** | **-** | **1750h** | **"100%"** | **10%**
 
