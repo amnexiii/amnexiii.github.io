@@ -3,6 +3,11 @@
 https://amnexiii.github.io/zzzpruebasformato.html
 https://amnexiii.github.io/yyylínea_temporal_empresa.html
 
+## Texto
+
+~~texto tachado~~
+
+
 ## Tabla
 
 Mes | Actividad | Productividad real (entrega de resultados)
