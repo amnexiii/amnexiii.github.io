@@ -1,5 +1,3 @@
-⬆️ _Haz click en "amnexiii" para volver a la página de inicio._ <br><br>
-
 # No Hello
 
 ¡Esto no es mío, pero lo defiendo!

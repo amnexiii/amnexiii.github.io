@@ -1,5 +1,3 @@
-⬆️ _Haz click en "amnexiii" para volver a la página de inicio._ <br><br>
-
 # Pelis con 5 o más premios Óscar
 
 Me dirás: “Los Óscar no valen para nada… ¡anda que no ganan pelis que son basura!” Y tendrás razón. Pero, por extensión, no sirve para nada ningún tipo de premios, evaluaciones o críticas, universales o de supuestos expertos.

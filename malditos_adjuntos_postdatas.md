@@ -1,5 +1,3 @@
-⬆️ _Haz click en "amnexiii" para volver a la página de inicio._ <br><br>
-
 # Malditos adjuntos... ¡adjuntos malditos!
 
 [Volver al artículo principal](https://amnexiii.github.io/malditos_adjuntos.html)
