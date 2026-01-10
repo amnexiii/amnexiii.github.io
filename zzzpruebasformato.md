@@ -16,7 +16,7 @@ Noviembre | |
 Diciembre | |
 
 
-prueba mermaid
+prueba mermaid importar java
 <script type="module">
 	import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
 	mermaid.initialize({
@@ -25,6 +25,12 @@ prueba mermaid
 	});
 </script>
 
+prueba mermaid pintar
+
+<pre class="mermaid">
+flowchart TD
+     A-->B
+</pre>
 
 
 
