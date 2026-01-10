@@ -15,16 +15,3 @@ Octubre | |
 Noviembre | |
 Diciembre | |
 
-
-<div class="mermaid">
-graph TD;
-    A-->B;
-    B-->C;
-</div>
-
-
-
-
-<br>
-
-https://amnexiii.github.io/zzzpruebasformato.html
