@@ -1,5 +1,9 @@
 # PRUEBAS DE FORMATO
 
+https://amnexiii.github.io/zzzpruebasformato.html
+
+## Tabla
+
 Mes | Actividad | Productividad real (entrega de resultados)
 -|-|-
 Enero | Superar la gripe navideña. <br> Contar qué tal en las vacas. <br> Pensar qué hacer este año. | 0%
@@ -15,8 +19,11 @@ Octubre | |
 Noviembre | |
 Diciembre | |
 
+## Mermaid
 
-prueba mermaid importar java
+Según https://akuszyk.com/2023-05-03-yet-another-mermaid-in-github-pages-guide.html?utm_source=chatgpt.com
+
+Importar java:
 <script type="module">
 	import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
 	mermaid.initialize({
@@ -25,8 +32,7 @@ prueba mermaid importar java
 	});
 </script>
 
-prueba mermaid pintar
-
+Pintar gráfico:
 <pre class="mermaid">
 flowchart TD
      A-->B
@@ -36,4 +42,3 @@ flowchart TD
 
 <br>
 
-https://amnexiii.github.io/zzzpruebasformato.html
