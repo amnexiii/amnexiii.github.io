@@ -40,4 +40,4 @@ Lo más probable es que ya la conozcas, ¡sólo úsala! 🙏
 <br>
 
 ___
-amnexiii, 17 sep 2025
+17 sep 2025

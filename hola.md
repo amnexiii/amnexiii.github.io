@@ -15,7 +15,7 @@ Por tanto: ¿perdurará el conocimiento de la humanidad cerca del fin de los tie
 <br>
 
 ___
-amnexiii, 6 sep 2025
+6 sep 2025
 
 
 

@@ -10,4 +10,4 @@
 <br>
 
 ___
-amnexiii, 18 sep 2025
+18 sep 2025

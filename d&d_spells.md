@@ -18,4 +18,4 @@ De nada 😊.
 <br>
 
 ___
-amnexiii, 8 sep 2025
+8 sep 2025

@@ -24,4 +24,4 @@ Si, por el contrario, sabes que esa acción guarda el fichero en tu carpeta OneD
 <br>
 
 ___
-amnexiii, 17 sep 2025
+17 sep 2025

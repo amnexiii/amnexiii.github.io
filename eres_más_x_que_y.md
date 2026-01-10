@@ -10,5 +10,5 @@ Eventualmente me pasan por la cabeza estas chorradas 😅.
 <br>
 
 ___
-amnexiii, 18 sep 2025+
+18 sep 2025+
 

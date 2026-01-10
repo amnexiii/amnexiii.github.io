@@ -7,4 +7,4 @@
 <br>
 
 ___
-amnexiii, 7 sep 2025
+7 sep 2025
