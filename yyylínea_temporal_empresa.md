@@ -1,4 +1,4 @@
-# La línea temporal de tu empresa
+# La línea temporal de un jefe de proyecto
 
 Si estás en una pyme/startup, será diferente. Pero si estás en una grande, más o menos esto es lo que vives:
 
