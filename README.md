@@ -10,7 +10,7 @@
   - [Malditos adjuntos...](https://amnexiii.github.io/malditos_adjuntos.html)
   - [No Hello](https://amnexiii.github.io/no_hello.html)
 - **LOL** (o no 😅)
-  - [La línea temporal en tu empresa tocha](https://amnexiii.github.io/línea_temporal_empresa.html)
+  - [Línea temporal de tu empresa tocha](https://amnexiii.github.io/línea_temporal_empresa.html)
   - [Pan rallado](https://amnexiii.github.io/pan_rallado.html)
   - [Eres más x que y](https://amnexiii.github.io/eres_más_x_que_y.html)
   - [Frases rehechas](https://amnexiii.github.io/frases_rehechas.html)

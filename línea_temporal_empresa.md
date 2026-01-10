@@ -1,4 +1,4 @@
-# La línea temporal en tu empresa tocha
+# Línea temporal de tu empresa tocha
 
 
 Mes | Actividad | Horas/día | "Avance" de proyecto | Productividad real (% de resultados para tu empresa sobre lo esperado este año)
