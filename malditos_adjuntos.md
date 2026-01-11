@@ -11,7 +11,7 @@ Te podrían quemar en una hoguera por enviarme ese PowerPoint, Excel o Word como
   - Nos volveremos locos creando copias con diferentes versiones y fechas 😭.
 
 
-Esta viñeta ilustra el segundo caso. Para entenderla hay que conocer un dato imprescindible en la vida 😅: el pez pulmonado (lungfish) tiene la mayor longitud de genoma conocido, ¡con un total de 130 mil millones de pares de bases!:
+Esta viñeta ilustra el segundo caso. Para entenderla hay que conocer un dato imprescindible en la vida 😅: el pez pulmonado (lungfish) tiene la mayor longitud de genoma conocido, con un total de ¡130 mil millones de pares de bases!:
 
 ![](malditos_adjuntos_lungfish.png)
 
