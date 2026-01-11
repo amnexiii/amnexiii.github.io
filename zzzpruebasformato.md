@@ -35,6 +35,11 @@ _texto en cursiva_
 
 `código`
 
+Uso código como si fueran tags. `código`
+
+`código` Uso código como si fueran tags.
+
+Uso código como si fueran tags. `código` Uso código como si fueran tags. `código`
 —
 
 
