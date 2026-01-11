@@ -3,8 +3,8 @@
 
 Mes | Actividad | Horas/día | "Avance" de proyecto | Productividad real (% de resultados para tu empresa sobre lo esperado este año)
 -|-|-|-|-
-Enero | ▪️Superas la gripe navideña 🎄. <br> ▪️Cuentas al resto qué tal en las vacas 🧑‍🎄. <br> ▪️"Limpias mails" para empezar el año con buen pie ✉️.  | 8 | 0% | 0%
-Febrero | ▪️Si eres jefe o medio jefe, comunicas el resultado de los objetivos del año anterior 💵. <br> ▪️Empiezas a pensar qué hay que hacer este año 🤔, pero aún no lo escribes. ¡Si todavía mi jefe no me ha dicho lo que se espera de mí! | 8 | 0% | 0%
+Enero | ▪️Superas la gripe navideña 🥵. <br> ▪️Cuentas al resto qué tal en las vacas 🎄. <br> ▪️"Limpias mails" ✉️para empezar el año con buen pie.  | 8 | 0% | 0%
+Febrero | ▪️Si eres jefe o medio jefe, comunicas el resultado de los objetivos del año anterior 💵. <br> ▪️Empiezas a pensar qué hay que hacer este año 🤔, pero aún no lo escribes. _¡Si todavía mi jefe no me ha dicho qué hay que conseguir este año!_ | 8 | 0% | 0%
 Marzo | ▪️¡Ya has calentado! Empiezas a preparar la RFP para tu proyecto estrella de este año. Aunque no tienes el alcance nada claro, adelantas curro porque sabes que para adjudicar a un proveedor externo los tiempos son largos, ¡estos de compras!... Menos mal que eres perro viejo 🐶. <br> ▪️Tu jefe no te dió una dirección, pero se acaba el plazo de RRHH a final de mes, así que escribes tus propios objetivos para este año 🎯. | 8 | 3%  | 0%
 Abril | ▪️Planificas tu proyecto, compitiendo con otros mil. Hay cuellos de botella en Compras, Legal, Proyectos..., así que persigues implacablemente con chats y convocatorias  a tus conocidos para que te pongan sellos ✅. ¡El tiempo es oro 🕐🪙! . <br> ▪️¡SEMANA SANTA! 💃 Un bien merecido descanso tras tantas horas currando. <br> ▪️A finales de mes, de milagro y pisando otras reuniones sin compasión 🗡️, haces la tuya de kick-off. ¡Menudas agendas! 📅 Aún no hemos adjudicado así que el proveedor externo no puede asistir, pero no puedes posponerlo más; para contar lo que se va a hacer a los stakeholders, ya tiras tú... | 8 | 6% <br> (<span style="color:green">+3%</span>) | 0%
 Mayo | ▪️¡Arrancamos por fin! Empieza el trabajo, a tope. Repites el kick-off, pero con el proveedor. No entienden la mitad; claro, no conocen tu empresa. Menos mal que aún quedan 7 meses 🕐🪙...  <br> ▪️Vaya, ¡el equipo de proyecto no es autónomo! 😢 Descubres dependencias con varios y variados equipos transversales: arquitectos, ingenieros, legal, ciberseguridad, TI... _Pero bueno, que tiren con recursos de su empresa; ya los integraremos en nuestros estándares corporativos 😎. No tengo claro el avance pero pongo 20%, que ya han pasado cinco meses. Que si no, en las reus de "reporting", mi jefe me cruje 😇..._ | 8 | "20%" <br> (<span style="color:green">+"14%"</span>) | 0%
@@ -22,3 +22,4 @@ Durante todo el año | ▪️Intentas cerrar los "flecos" de proyectos de años 
 
 ___
 10 ene 2026
+
