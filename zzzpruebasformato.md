@@ -8,25 +8,15 @@ https://amnexiii.github.io/bandeja_vacía.html
 
 ## Imágenes
 
-📐 Tamaño recomendado (en píxeles)
-🔹 Ancho
-
-800–1000 px → ideal para la mayoría de artículos
-
-1200 px → buena opción si el tema usa ancho completo (full-width)
-
-Evita más de 1600 px salvo que sea un diagrama muy detallado
-
-👉 Regla general:
-ancho ≈ 1.2–1.5× del ancho real de la columna de texto
-
-La mayoría de temas tienen columnas de 650–800 px.
+✔ Ancho: 1000 px → ideal para la mayoría de artículos
+✔ Peso: < 300 KB
+✔ Responsive: max-width:100%
 
 Imagen sólo con ![]
-![](bandeja_vacía_feedly.jpg)
+![](bandeja_vacía.png)
 
 Imagen con HTML max-width:100%
-<img src="bandeja_vacía_feedly.jpg" alt="Descripción" style="max-width:100%; height:auto;">
+<img src="bandeja_vacía.png" style="max-width:100%; height:auto;">
 
 
 ## Texto
