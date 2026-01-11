@@ -7,7 +7,7 @@ Si eres del montón restante —como yo—, este tip quizá te sirva.
 Una de las ideas buenas y que no se han quedado obsoletas del viejo método GTD: Getting Things Done (David Allen, 2001) es **analizar** brevemente **todo** lo que te llega. Y conseguir una maravillosa bandeja vacía que te dará paz mental. ¿No te parecen preciosas? Son las mías:
 
 ![](bandeja_vacía.png)
-Bandejas vacías de GMail, Feedly, 
+_Bandejas vacías o filtro de no leídos de GMail, Feedly, Outlook y Teams, respectivamente._
 
 Las palabras en negrita son importantes.
 
