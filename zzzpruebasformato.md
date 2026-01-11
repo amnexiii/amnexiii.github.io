@@ -22,6 +22,12 @@ ancho ≈ 1.2–1.5× del ancho real de la columna de texto
 
 La mayoría de temas tienen columnas de 650–800 px.
 
+Imagen sólo con ![]
+![](bandeja_vacía_feedly.jpg)
+
+Imagen con HTML max-width:100%
+<img src="bandeja_vacía_feedly.jpg" alt="Descripción" style="max-width:100%; height:auto;">
+
 
 ## Texto
 
