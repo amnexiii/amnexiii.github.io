@@ -1,6 +1,6 @@
 # Bandeja vacía + backlog = paz mental
 
-Si eres de esas personas que (1) marcan miles de mails como leídos en la bandeja de entrada, sin sentir estrés y sin olvidar nada importante; (2) resisten a la tentación de contestar al último mail, sólo por ser el último; (3) tienen claridad absoluta respecto a su única prioridad en todo momento; y (4) son capaces de centrar su trabajo en dicha prioridad, este artículo no es para ti.
+Si eres de esas personas que (1) marcan miles de mails como leídos en la bandeja de entrada, sin sentir estrés y sin olvidar nada importante; (2) resisten a la tentación de contestar al último mail o chat, sólo por ser el último; (3) tienen claridad absoluta respecto a su única prioridad en todo momento; y (4) son capaces de centrar su trabajo en dicha prioridad, este artículo no es para ti.
 
 Si eres del montón restante, como yo, este artículo quizá te sirva.
 
