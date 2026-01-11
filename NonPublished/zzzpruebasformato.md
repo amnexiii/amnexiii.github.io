@@ -17,7 +17,9 @@ https://amnexiii.github.io/bandeja_vacía.html
 ## Imágenes
 
 ✔ Ancho: 1000 px → ideal para la mayoría de artículos
+
 ✔ Peso: < 300 KB
+
 ✔ Responsive: max-width:100%
 
 Imagen sólo con ![]
