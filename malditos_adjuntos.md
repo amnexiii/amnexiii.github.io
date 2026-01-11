@@ -8,7 +8,7 @@ Te podrían quemar en una hoguera por enviarme ese PowerPoint, Excel o Word como
   - Perderemos tiempo con idas y venidas adjuntando evoluciones del fichero en mails o chats.
   - Tendremos dudas sobre cuál es la última versión. 
   - Seremos más lentos porque nos esperaremos uno al otro para avanzar. O peor: cruzaremos ficheros y ninguno tendrá el último contenido. 
-  - Y sobre todo, ¡nos volveremos locos creando copias con diferentes versiones y fechas! 😭
+  - Nos volveremos locos creando copias con diferentes versiones y fechas 😭.
 
 
 Esta viñeta ilustra el segundo caso. Para entenderla hay que conocer un dato imprescindible en la vida 😅: el pez pulmonado (lungfish) tiene la mayor longitud de genoma conocido, ¡con un total de 130 mil millones de pares de bases!:
