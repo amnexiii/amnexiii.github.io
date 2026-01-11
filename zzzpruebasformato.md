@@ -4,6 +4,14 @@ https://amnexiii.github.io/zzzpruebasformato.html
 
 https://amnexiii.github.io/bandeja_vacía.html
 
+## Texto
+
+—
+
+~~texto tachado~~
+
+`código` o uso como `tag1` `tag2`
+
 
 
 ## Imágenes
@@ -19,25 +27,6 @@ Imagen con HTML max-width:100%
 <img src="bandeja_vacía.png" style="max-width:100%; height:auto;">
 
 
-## Texto
-
-*texto en cursiva*
-
-_texto en cursiva_
-
-**texto en negrita**
-
-~~texto tachado~~
-
-`código`
-
-Uso código como si fueran tags. `tag`
-
-`tag1` `tag2` Uso código como si fueran tags.
-
-Uso código como si fueran tags. `tag1` Uso código como si fueran tags. `tag2` `tag3`
-
-—
 
 
 ## Tabla
