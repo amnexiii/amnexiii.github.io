@@ -8,8 +8,7 @@ Una de las ideas buenas y que no se han quedado obsoletas del viejo método GTD:
 
 ![](bandeja_vacía.png)
 
-P.D. 
-"
+P.D. Una de las cosas de GTD que te recomiendo es aquello de "si dura menos de dos de menos minutos, hazlo ya". ¿Cuántas veces has acertado y realmente ha supuesto menos de dos minutos? ¿Cuántas "pequeñas tareas" (o distracciones) tienes a lo largo de la semana y cuánto tiempo suman al final? ¿Cuánto valor aportan; eran imprescindibles?
 
 ___
 11 ene  2026
