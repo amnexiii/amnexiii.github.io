@@ -1,7 +1,8 @@
 # Línea temporal en tu empresa tocha
 
+No te ralles, ya te he planificado yo todo el año 😬:
 
-Mes | Actividad | Horas/día | "Avance" de proyecto | Productividad real (% de resultados para tu empresa sobre lo esperado este año)
+Mes | Actividad | Horas/día | %  de "avance" del proyecto | % de productividad real (de resultados)
 -|-|-|-|-
 Enero | ▪️Superas la gripe navideña. 🥵 <br> ▪️Cuentas al resto qué tal en las vacas. 🎄 <br> ▪️"Limpias mails" para empezar el año con buen pie. ✉️<br> ▪️_¿Cómo es posible que tenga ya tantas reuniones? ¡Ni hemos calentado!_ | 8 | 0% | 0%
 Febrero | ▪️Si eres jefe o medio jefe, comunicas el resultado de los objetivos del año anterior. 💵 _Más reuniones..._ <br> ▪️Empiezas a pensar qué hay que hacer este año, pero no lo escribes. _¡Si todavía mi jefe no me ha contado el plan!_ 🤔 | 8 | 0% | 0%
