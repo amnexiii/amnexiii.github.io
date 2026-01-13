@@ -22,5 +22,5 @@ Durante todo el año | ▪️Intentas cerrar los "flecos" de proyectos de años 
 <br>
 
 ___
-10 ene 2026
+10 ene 2026'
 
