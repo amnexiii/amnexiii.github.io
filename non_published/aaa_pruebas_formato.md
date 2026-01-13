@@ -12,6 +12,7 @@ https://amnexiii.github.io/bandeja_vacía.html
 
 `código` o uso como `tag1` `tag2`
 
+<mark>resaltado</mark>
 
 
 ## Imágenes
