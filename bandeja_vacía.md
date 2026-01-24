@@ -35,7 +35,7 @@ Lo que puse en azul es clave:
 
 <br>
 
-Obviamente, lo de "vaciar bandejas" es sólo un medio. La clave es **compatibilizar ser productivo con reducir el estrés**. Lo primero por conseguir más resultados gracias a priorizar, y lo segundo por tener la tranquilidad de saber que estás haciendo lo que debes en todo momento.
+Obviamente, lo de "vaciar bandejas" es sólo un medio. La clave es **compatibilizar ser productivo con reducir el estrés**. Lo primero por conseguir más resultados —gracias a priorizar—, y lo segundo por tener la tranquilidad de saber que estás haciendo lo que debes en todo momento.
 
 "Zero inbox" no es para todos, pero espero que a ti te funcione 😊.
  
