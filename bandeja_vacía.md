@@ -10,7 +10,7 @@ Mi propuesta es:
 
 | **Eventualmente, <span style="color:blue">lee</span> en diagonal <span style="color:blue">todo</span> lo que te llega. Añade al <span style="color:blue">backlog</span> lo que proceda.**.
 
-Conseguirás una maravillosa bandeja de entrada vacía que te dará paz mental. Todas las semanas, en algún momento, consigo lo de la imagen. ¿No te parece una belleza? 😍
+Conseguirás una maravillosa bandeja de entrada vacía que te dará paz mental. Yo casi todas las semanas consigo lo de la imagen. ¿No te parece una belleza? 😍
 
 ![](bandeja_vacía.png)
 _Bandejas vacías de GMail, Feedly, Outlook y Teams, respectivamente. El último, más concretamente, es el filtro de no leídos._
