@@ -5,7 +5,7 @@
 
 ## P. D. 1: ¿si es poca cosa, lo hago ya?
 
-El viejo método GTD (Getting Things Done - David Allen, 2001) recomienda aquello de **"si dura menos de dos de menos minutos, hazlo ya"**. Tras muchos años aplicándolo, no estoy 100% de acuerdo; depende de cada caso.
+El viejo método GTD (Getting Things Done - David Allen, 2001) recomienda aquello de **"si supone menos de dos minutos, hazlo ya"**. Tras muchos años aplicándolo, no estoy 100% de acuerdo; depende de cada caso.
 
 Si recibes mucho menudeo, puede que sea contraproducente. Pregúntante: ¿Cuántas veces has acertado y _realmente_ ha supuesto menos de dos minutos? ¿No son la mayoría de veces cinco, diez o quince? ¿Cuántas veces tardas menos de dos minutos... pero das una respuesta rápida y poco profunda que resulta en una nueva respuesta, robando _otros dos minutos_? ¿Cuántas "pequeñas tareas" (o distracciones) tienes a lo largo de la semana y cuánto tiempo suman al final?
 
