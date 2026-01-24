@@ -8,7 +8,7 @@ Si eres del montón restante, como yo, quizá te sirva.
 
 Mi propuesta es:
 
-| **Eventualmente, <span style="color:blue">lee</span> en diagonal <span style="color:blue">todo</span> lo que te llega. Añade al <span style="color:blue">backlog</span> lo que proceda.**.
+| **Eventualmente, <span style="color:blue">lee</span> en diagonal <span style="color:blue">todo</span> lo que te llega. Añade al <span style="color:blue">backlog</span> lo que proceda.**
 
 Conseguirás una maravillosa bandeja de entrada vacía que te dará paz mental. Yo casi todas las semanas consigo lo de la imagen. ¿No te parece una belleza? 😍
 
