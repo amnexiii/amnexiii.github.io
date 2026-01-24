@@ -4,7 +4,7 @@
 
 Pues tiene un montón de truquillos que, como buen excelman, he recogido aquí:
 
-| [Abathor - fases y trucos.gsheet](https://docs.google.com/spreadsheets/d/1gzv9V7PMTel6KelWx7lIUzZqdqJC2_hs3_zcX63YEtE/edit?usp=sharing)
+| [Abathor - fases y trucos.gsheet](https://docs.google.com/spreadsheets/d/1VWaYV5P8uDXtRGXnXS1A_C-hsuPMOcPdyWMLYMN7Y6Y/edit?usp=sharing)
 
 De nada 😊.
 
