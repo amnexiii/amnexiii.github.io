@@ -8,7 +8,7 @@ Si eres del montón restante, como yo, quizá te sirva.
 
 Mi propuesta es:
 
-| **Eventualmente, <span style="color:blue">lee</span> _en diagonal_ <span style="color:blue">todo</span> lo que te llega. Añade al <span style="color:blue">backlog</span> _sólo_ lo que proceda.**
+| **De vez en cuando, <span style="color:blue">todo</span> lo que has recibido <span style="color:blue">léelo</span>, pero hazlo en diagonal, preguntándote únicamente qué prioridad tiene. Añade al <span style="color:blue">backlog</span> sólo lo que proceda.**
 
 Conseguirás lo de la imagen, y te dará paz mental. ¿No te parece una belleza? 😍
 
