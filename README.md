@@ -3,6 +3,7 @@
 [¡Hola!](https://amnexiii.github.io/hola.html) 👋
 
 - **Excelman** 💾 (a.k.a. "el listas") 
+  - [Abathor: fases y trucos](https://amnexiii.github.io/abathor.html)
   - [D&D spells](https://amnexiii.github.io/d&d_spells.html)
   - [Checklist para hacer la maleta](https://amnexiii.github.io/checklist_maleta.html)
   - [Pelis con 5 o más premios Óscar](https://amnexiii.github.io/pelis_5_oscar.html)
