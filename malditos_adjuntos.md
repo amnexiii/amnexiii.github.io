@@ -1,6 +1,6 @@
-# Malditos adjuntos
+# Malditos adjuntos...
 
-¡Adjuntos malditos!
+...¡adjuntos malditos!
 
 ## El problema
 
