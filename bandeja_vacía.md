@@ -8,12 +8,12 @@ Si eres del montón restante, como yo, quizá te sirva.
 
 Mi propuesta es:
 
-| **Eventualmente, <span style="color:blue">lee</span> en diagonal <span style="color:blue">todo</span> lo que te llega. Añade al <span style="color:blue">backlog</span> lo que proceda.**
+| **Eventualmente, <span style="color:blue">lee</span> _en diagonal_ <span style="color:blue">todo</span> lo que te llega. Añade al <span style="color:blue">backlog</span> _sólo_ lo que proceda.**
 
 Conseguirás una maravillosa bandeja de entrada vacía que te dará paz mental. Yo casi todas las semanas consigo lo de la imagen. ¿No te parece una belleza? 😍
 
 ![](bandeja_vacía.png)
-_Bandejas vacías de GMail, Feedly, Outlook y Teams, respectivamente. El último, más concretamente, es el filtro de no leídos._
+_Bandejas vacías de Outlook, Teams, GMail y Feedly, respectivamente._
 
 Lo que puse en azul es clave: 
 
@@ -21,7 +21,7 @@ Lo que puse en azul es clave:
 
   - **Cúanto: controlar el nivel de profundidad de la lectura.** Usé conscientemente la palabra _leer_ en lugar de _analizar_. Piensa que el objetivo es sólo priorizar. Normalmente, es suficiente con leer _en diagonal_. No necesitas conocer en profundidad lo que te ha llegado, sino entender de qué va, _a muy alto nivel_; y ese nivel se puede concretar. Debe ser el mínimo necesario para contestar esta pregunta: ¿desplaza esto _ahora_ a mi prioridad nº1, o es el nuevo primer paso dentro de dicha prioridad? Piensa sólo eso. No contestes al mensaje. No diseñes una solución en tu cabeza para lo que plantea, aunque sepas hacerlo. No te cabrees si el mensaje es una estupidez supina. No te dejes llevar por ese "lo necesito para mañana" que ha soltado alguien que no conoce la complejidad de lo solicitado, y a quien le da igual tu agenda, porque sólo piensa en la suya. Tu mente te llevará hacia esos derroteros; el juego es resistir la tentación.
 
-  - **Cuándo: controlar el momento de leer.** Necesitas conocer _lo que hay sobre la mesa_ en un porcentaje alto, pero no durante el 100% del tiempo. Piensa que si buscases el 100%, necesitarías consultar la bandeja de entrada cada segundo que pasa, porque tú no puedes controlar ni cuánto ni cuándo te escribirán terceras personas. Si lo hicieras de manera continua, los cambios de contexto te matarían y te fragmentarían tu tiempo de concentración en la prioridad, "romperían tu flow". La solución es acotar los momentos adecuados para leer. En mi caso, siempre leo después de comer, que no me rompe ningún foco profundo; y mi objetivo de bandeja vacía es "todos los viernes". Bloqueo huecos en mi calendario para fomentarlo. Antaño vaciaba las bandejas diariamente, pero eso afectaba a mi conciliación, porque en días de mucho input era  imposible ni siquiera leer todo lo que entraba sin alargar el final de la jornada. Cada cual debe buscar su cadencia.
+  - **Cuándo: controlar el momento de leer.** Necesitas conocer _lo que hay sobre la mesa_ a menudo, pero no el 100% del tiempo. Eso supondría consultar la bandeja de entrada cada segundo que pasa, porque no puedes controlar cuánto ni cuándo te escribirán terceras personas. No tendría sentido: los cambios de contexto fragmentarían tu tiempo de concentración en la prioridad, "romperían tu flow". La solución es acotar los momentos adecuados para leer. En mi caso, siempre leo después de comer, que no me rompe ningún foco profundo; y mi objetivo de bandeja vacía es "todos los viernes". Bloqueo huecos en mi calendario para fomentarlo. Antaño vaciaba las bandejas diariamente, pero eso afectaba a mi conciliación, porque en días de mucho input era  imposible ni siquiera leer todo lo que entraba sin alargar el final de la jornada. Cada cual debe buscar su cadencia.
 
   - **Resumen: _Tu día a día y tu prioridad la controlas tú, no terceras personas. Busca momentos para leer en diagonal lo que entra._**
 
