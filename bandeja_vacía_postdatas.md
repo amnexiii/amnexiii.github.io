@@ -11,7 +11,7 @@ Si recibes mucho menudeo, puede que sea contraproducente. Pregúntante: ¿Cuánt
 
 Y sobre todo, ¿cuánto valor aportaron realmente? Muchísimos marcos de trabajo de priorización se basan en la fórmula "valor dividido entre esfuerzo". Tiene sentido. Pero muchos elementos de esfuerzo inferior a dos minutos puede que no sumen valor, sino que lo resten.
 
-**Piensa no sólo si es pequeño, sino si vale la pena.**
+**Piensa no sólo si es pequeño, sino también si vale la pena.**
 
 
 ## P. D. 2: eliminar inputs
