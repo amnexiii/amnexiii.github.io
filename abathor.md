@@ -1,19 +1,19 @@
 # Abathor: fases y trucos
 
-¡Mago! 🧙‍♂️ ¿Has elegido a ojo tus conjuros porque la lista de D&D es demasiado larga? ¡Claro, porque no tenías el excel de tito amnexiii!
+¿Has elegido darle a este JUEGAZO?
 
-| [Descargar d&d_spells.xlsx](d&d_spells.xlsx)
+| [Abathor](https://tesuragames.com/juegos/abathor/)
+
+Pues tiene un montón de truquillos que, como buen excelman, he recogido aquí:
+
+| [Abathor - fases y trucos.gsheet](https://docs.google.com/spreadsheets/d/1gzv9V7PMTel6KelWx7lIUzZqdqJC2_hs3_zcX63YEtE/edit?usp=sharing)
 
 Hazlo bien anda, como si fueras tan estudioso como tu PJ 📚. Filtra aquí, filtra allá, añade tus columnas de comentarios, y hazte un buen libro de conjuros.
 
 De nada 😊.
 
-## P.D.
-
-- Ambos sabemos que, con ércel o sin él, seguirás pillando Fireball 🤣... no pasa nada, semos persianas.
-- Si juegas con una clase diferente a Wizard, es decir con una clase **inferior** 😎... también te sirve. Precisamente, lo que añadí yo al excel original (créditos dentro del fichero) fue qué clase puede usar qué conjuros.
 
 <br>
 
 ___
-8 sep 2025
+25 ene 2026
