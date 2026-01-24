@@ -4,9 +4,9 @@
 
  
 
-## P. D. 1: 
+## P. D. 1: eliminar inputs
 
-También puedes trabajar en **eliminar inputs**. Es decir, reducir de manera estructural el volumen de lo que te llega. Ejemplos:
+También puedes trabajar en **eliminar por completo parte de lo que te llega**. Es decir, reducir de manera estructural el volumen de lo que te llega. Ejemplos:
 - Cambiaste de rol y te siguen pidiendo ayuda. Como eres buena gente y conoces la respuesta, la das. Rara vez es un pequeño mensaje y ya; siempre se complica. En lugar de eso, mejor explica tu cambio de rol y ayuda reconduciendo a quien ahora deba dar la respuesta. No shame. Obviamente, esto requiere tener claras tus responsabilidades. ¿Las tienes?
 - Recomendación adicional, sobre todo para GenZ/GenAlpha 😅: date de baja de esa cantidad infinita de contenido basura. Si tu vida es un tsunami de infoxicación digital, tendrás _demasiado que leer, incluso en diagonal_. Para lo que mantengas, controla tú cuándo consumirlo: quita las notificaciones, quita los banners que saltan en el escritorio, quita los iconos rojos con nºs de elementos sin leer. No estés todo el día consumiendo, que construir es también gratificante... [no todo va a ser dopamina en la vida](https://www.youtube.com/watch?v=jHPfM7GIAxY) 😋.
 
