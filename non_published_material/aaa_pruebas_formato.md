@@ -2,7 +2,7 @@
 
 https://amnexiii.github.io/non_published_material/aaa_pruebas_formato.html
 
-https://amnexiii.github.io/non_published_wip/bandeja_vacía.html
+https://amnexiii.github.io/bandeja_vacía.html
 
 
 

@@ -10,7 +10,7 @@ Mi propuesta es:
 
 | **Eventualmente, <span style="color:blue">lee</span> _en diagonal_ <span style="color:blue">todo</span> lo que te llega. Añade al <span style="color:blue">backlog</span> _sólo_ lo que proceda.**
 
-Conseguirás una maravillosa bandeja de entrada vacía que te dará paz mental. Yo casi todas las semanas consigo lo de la imagen. ¿No te parece una belleza? 😍
+Conseguirás lo de la imagen, y te dará paz mental. ¿No te parece una belleza? 😍
 
 ![](bandeja_vacía.png)
 _Bandejas vacías de Outlook, Teams, GMail y Feedly, respectivamente._
