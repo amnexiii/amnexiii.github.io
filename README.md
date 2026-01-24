@@ -13,9 +13,8 @@
 - **LOL** (o no 😅)
   - [Línea temporal en tu empresa tocha](https://amnexiii.github.io/línea_temporal_empresa.html)
   - [Pan rallado](https://amnexiii.github.io/pan_rallado.html)
-  - [Frases rehechas](https://amnexiii.github.io/frases_rehechas.html)
-  - [Eres más x que y](https://amnexiii.github.io/eres_más_x_que_y.html)
-
+  - [Frases chorras](https://amnexiii.github.io/frases_chorras.html)
+  
 <br>
 
 ___

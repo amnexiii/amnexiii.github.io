@@ -1,10 +1,10 @@
 # Bandeja vacía + backlog = paz mental
 
-Si eres de esas personas que (1) marcan miles de mails como leídos en la bandeja de entrada, sin sentir estrés y sin olvidar nada importante; (2) resisten a la tentación de contestar al último mail o chat, sólo por ser el último; (3) tienen claridad absoluta respecto a su única prioridad en todo momento; y (4) son capaces de centrar su trabajo en dicha prioridad, este artículo no es para ti.
+Si eres de esas personas que (1) marcan miles de mails como leídos en la bandeja de entrada, sin sentir estrés y sin olvidar nada importante; (2) resisten a la tentación de contestar al último mail o chat, sólo por ser el último; (3) tienen claridad absoluta respecto a _una_ prioridad en todo momento; y (4) son capaces de centrar su trabajo en dicha prioridad, este artículo no es para ti.
 
-Si eres del montón restante, como yo, este artículo quizá te sirva.
+Si eres del montón restante, como yo, quizá te sirva.
 
-Una de las ideas en mi experiencia buenas —y que no se han quedado obsoletas— del viejo método GTD (Getting Things Done - David Allen, 2001) es **analizar** brevemente **todo** lo que te llega. Y conseguir así una maravillosa bandeja de entrada vacía que te dará paz mental. Todas las semanas, en algún momento, consigo lo de la imagen. ¿No te parece precioso? Es casi una experiencia religiosa. 🎵😋
+Una de las ideas en mi experiencia buenas —y que no se han quedado obsoletas— del viejo método GTD (Getting Things Done - David Allen, 2001) es **analizar** brevemente **todo** lo que te llega. Y conseguir así una maravillosa bandeja de entrada vacía que te dará paz mental. Todas las semanas, en algún momento, consigo lo de la imagen. ¿No te parece una belleza? 😍
 
 ![](bandeja_vacía.png)
 _Bandejas vacías de GMail, Feedly, Outlook y Teams, respectivamente. El último, más concretamente, es el filtro de no leídos._
