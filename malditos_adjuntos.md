@@ -1,4 +1,6 @@
-# Malditos adjuntos... ¡adjuntos malditos!
+# Malditos adjuntos
+
+¡Adjuntos malditos!
 
 ## El problema
 
