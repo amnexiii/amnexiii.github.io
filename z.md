@@ -9,10 +9,13 @@ https://amnexiii.github.io/bandeja_vacía.html
 
 
 <details>
-
   <summary>Sección 1</summary>
 
+  <div>
+
 **Al menos una vez por semana, <span style="color:blue">lee</span> _en diagonal_ <span style="color:blue">todos</span> los mensajes que hayas recibido. _En diagonal_ significa "la lectura mínima necesaria para evaluar su prioridad". Añade tu <span style="color:blue">backlog</span> priorizado sólo la información útil que proceda. Una vez vaciadas las bandejas, continúa trabajando en _la_ entrada más prioritaria.**
+
+  </div>
 
 </details>
 
@@ -21,6 +24,8 @@ https://amnexiii.github.io/bandeja_vacía.html
 
 <details>
 <summary>Sección 2</summary>
+
+  <div>
 
 <p>Esto es HTML puro.</p>
 
@@ -37,6 +42,8 @@ Y aquí Markdown normal:
   Incluso <em>divs</em>, imágenes, etc.
 </div>
 
+</div>
+
 </details>
 
 
@@ -44,6 +51,8 @@ Y aquí Markdown normal:
 <details>
 
 <summary>Sección 3: prueba real</summary>
+
+  <div>
 
 | **Al menos una vez por semana, <span style="color:blue">lee</span> _en diagonal_ <span style="color:blue">todos</span> los mensajes que hayas recibido. _En diagonal_ significa "la lectura mínima necesaria para evaluar su prioridad". Añade tu <span style="color:blue">backlog</span> priorizado sólo la información útil que proceda. Una vez vaciadas las bandejas, continúa trabajando en _la_ entrada más prioritaria.**
 
@@ -65,6 +74,8 @@ Y aquí Markdown normal:
 
 <br>
   
+</div>
+
 </details>
 
 
