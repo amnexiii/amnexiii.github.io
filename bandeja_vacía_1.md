@@ -8,7 +8,7 @@ Si eres del montón restante, como yo, quizá te sirva.
 
 Tengo una propuesta, a la que he llegado tras muchos años probando diferentes métodos. Aún no la domino del todo y no será la única, pero es la que mejor me ha funcionado. Aplica principalmente al ámbito laboral, pero también al personal. Ahí va:
 
-| **Al menos una vez por semana, <span style="color:blue">lee</span> _en diagonal_ <span style="color:blue">todos</span> los mensajes que hayas recibido. _En diagonal_ significa "la lectura mínima necesaria para evaluar su prioridad". Añade tu <span style="color:blue">backlog</span> priorizado sólo la información útil que proceda. Una vez vaciadas las bandejas, continúa trabajando en _la_ entrada más prioritaria.**
+| **Al menos una vez por semana, <span style="color:blue">lee</span> _en diagonal_ <span style="color:blue">todos</span> los mensajes que hayas recibido. _En diagonal_ significa "la lectura mínima necesaria para evaluar su prioridad". Añade a tu <span style="color:blue">backlog</span> priorizado sólo la información útil que proceda. Una vez vaciadas las bandejas, continúa trabajando en _la_ entrada más prioritaria.**
 
 Lo que puse en azul es clave; si quieres más detalles y el por qué de mi propuesta, [continúa leyendo](https://amnexiii.github.io/bandeja_vacía_2.html).
 
