@@ -26,9 +26,7 @@ https://amnexiii.github.io/bandeja_vacía.html
 <details>
 <summary>Sección 2</summary>
 
-  <div>
-
-<p>Esto es HTML puro.</p>
+<div>
 
 <strong>Negrita HTML</strong>
 
@@ -38,10 +36,6 @@ Y aquí Markdown normal:
 - **Negrita**
 
 `código`
-
-<div style="border:1px solid #ccc; padding:10px">
-  Incluso <em>divs</em>, imágenes, etc.
-</div>
 
 </div>
 
