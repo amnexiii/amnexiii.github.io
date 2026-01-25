@@ -27,6 +27,7 @@ https://amnexiii.github.io/bandeja_vacía.html
 - La palabra **<span style="color:blue">backlog</span>** es la que permite priorizar con bandeja vacía. Una vez entendida la prioridad, anota la información clave o el título del mail en la entrada del backlog correspondiente. Te recomiendo dos niveles de backlog. El más abstracto debe contener todos los grandes temas o "épicas", simplificando la priorización, y en cada épica anota la información más de detalle, incluida esa que recibes de fuera, representando el segundo nivel. Puede que te preguntes por qué hacer esto es lugar de, simplemente, "marcar como leídos" los mails y dejarlos ahí para más adelante. La diferencia es clave: **en un backlog puedes ordenar los elementos por prioridad**. En tu bandeja de mail, no. Si acumulas en tu mail cientos de elementos, ¿cómo seleccionas el siguiente más importante? Además, no sólo tienes mail, sino esas decenas o cientos de chats... Con un backlog que eventualmente priorices, las entradas de arriba del todo son la prioridad. Coge la primera; ahora es el momento de leer los mensajes asociados con el nivel de profundidad analítica que requieren.
 
   - **Resumen: <span style="color:blue">_Apunta lo que suponga trabajo en un backlog priorizado. Trabaja en lo de arriba, no en el último mail que llegó._**
+  
 </details>
 
 
