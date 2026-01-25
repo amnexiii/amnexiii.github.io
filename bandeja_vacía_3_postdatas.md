@@ -1,6 +1,6 @@
 # Bandeja vacía + backlog = paz mental
 
-[Volver al artículo principal](https://amnexiii.github.io/bandeja_vacía.html)
+[Volver](https://amnexiii.github.io/bandeja_vacía_2.html)
  
 
 ## P. D. 1: ¿si es poca cosa, lo hago ya?
