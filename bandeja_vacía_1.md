@@ -14,7 +14,7 @@ Lo que puse en azul es clave; si quieres más detalles y el por qué de mi propu
 
 Si consigues aplicarlo, además de conseguir más resultados por centrarte en lo prioritario, conseguirás lo de la imagen. ¿No te parece una belleza? 😍. Te dará paz mental, porque sabrás que estás haciendo lo que debes. 
 
-"Zero inbox" no es para todos, pero espero que a ti te funcione 😊.
+"Inbox zero" no es para todos, pero espero que a ti te funcione 😊.
 
 ![](bandeja_vacía.png)
 _Bandejas vacías de Outlook, Teams, GMail y Feedly, respectivamente._
