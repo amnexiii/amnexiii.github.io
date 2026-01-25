@@ -17,23 +17,26 @@ https://amnexiii.github.io/bandeja_vacía.html
 </details>
 
 <details>
-  <summary>Más información</summary>
+<summary>Más información</summary>
 
-  <p>Esto es HTML puro.</p>
+<p>Esto es HTML puro.</p>
 
-  <strong>Negrita HTML</strong>
+<strong>Negrita HTML</strong>
 
-  Y aquí Markdown normal:
+Y aquí Markdown normal:
+- Lista
+- Enlaces
+- **Negrita**
 
-  - Lista
-  - Enlaces
-  - **Negrita**
-  - `código`
+`código`
 
-  <div style="border:1px solid #ccc; padding:10px">
-    Incluso <em>divs</em>, imágenes, etc.
-  </div>
+<div style="border:1px solid #ccc; padding:10px">
+  Incluso <em>divs</em>, imágenes, etc.
+</div>
+
 </details>
+
+
 
 <details>
 
