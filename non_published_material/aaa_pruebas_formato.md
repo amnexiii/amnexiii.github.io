@@ -9,13 +9,13 @@ https://amnexiii.github.io/bandeja_vacía.html
 
 
 <details>
-  <summary>**Sección 1**</summary>
+  <summary>Sección 1</summary>
 
 **Al menos una vez por semana, <span style="color:blue">lee</span> _en diagonal_ <span style="color:blue">todos</span> los mensajes que hayas recibido. _En diagonal_ significa "la lectura mínima necesaria para evaluar su prioridad". Añade tu <span style="color:blue">backlog</span> priorizado sólo la información útil que proceda. Una vez vaciadas las bandejas, continúa trabajando en _la_ entrada más prioritaria.**
 
+</details>
 
-<details>
-  <summary>Sección 2</summary>
+<summary>Sección 2</summary>
 
 **Al menos una vez por semana, <span style="color:blue">lee</span> _en diagonal_ <span style="color:blue">todos</span> los mensajes que hayas recibido. _En diagonal_ significa "la lectura mínima necesaria para evaluar su prioridad". Añade tu <span style="color:blue">backlog</span> priorizado sólo la información útil que proceda. Una vez vaciadas las bandejas, continúa trabajando en _la_ entrada más prioritaria.**
 
