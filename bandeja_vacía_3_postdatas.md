@@ -9,7 +9,7 @@ El viejo método GTD (Getting Things Done - David Allen, 2001) sugiere: "si supo
 
 Si recibes mucho menudeo, puede que sea contraproducente. Pregúntate: ¿Cuántas veces has acertado y _realmente_ ha supuesto menos de dos minutos? ¿No son la mayoría de veces cinco, diez... o más? ¿Cuántas veces tardas menos de dos minutos... pero das una respuesta rápida y poco profunda que resulta en una nueva respuesta, robando _otros dos minutos_? ¿Cuántas "pequeñas tareas" (o distracciones) tienes a lo largo de la semana y cuánto tiempo suman al final?
 
-Y sobre todo, ¿cuánto valor aportaron realmente? Muchísimos marcos de trabajo de priorización se basan en la fórmula "valor dividido entre esfuerzo". Tiene sentido. Pero hacer algo ya por ser sencillo, sólo tiene en cuenta el denominador. Si sumas muchos que no sumen valor, es probable que lo resten.
+Y sobre todo, ¿cuánto valor aportaron realmente? Muchísimos marcos de trabajo de priorización se basan en la fórmula "valor dividido entre esfuerzo". Tiene sentido. Pero hacer algo ya por ser sencillo, sólo tiene en cuenta el denominador. Si sumas muchos casos que no aporten valor, es probable que lo resten.
 
 **Piensa no sólo si es pequeño, sino también si vale la pena.**
 
