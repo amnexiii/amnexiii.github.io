@@ -35,6 +35,7 @@ https://amnexiii.github.io/bandeja_vacía.html
   </div>
 </details>
 
+<details>
 
 <summary>Sección 2</summary>
 
