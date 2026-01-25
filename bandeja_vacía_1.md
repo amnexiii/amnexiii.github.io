@@ -6,7 +6,7 @@ Si eres del montón restante, como yo, quizá te sirva.
 
 ¿Cómo se puede compatibilizar **ser productivo** con **reducir el estrés**?
 
-No sé si es la mejor, pero esta es mi propuesta, a la que he llegado tras muchos años probando diferentes métodos. Aplica principalmente al ámbito laboral, pero también puedes usarlo en el personal:
+No sé si es la mejor, pero esta es mi propuesta, a la que he llegado tras muchos años probando diferentes métodos. Aún no la domino del todo, pero sigo mejorando. Aplica principalmente al ámbito laboral, pero también puedes usarlo en el personal:
 
 | **Al menos una vez por semana, <span style="color:blue">lee</span> _en diagonal_ <span style="color:blue">todos</span> los mensajes que hayas recibido. _En diagonal_ significa "la lectura mínima necesaria para evaluar su prioridad". Añade tu <span style="color:blue">backlog</span> priorizado sólo la información útil que proceda. Una vez vaciadas las bandejas, continúa trabajando en _la_ entrada más prioritaria.**
 
