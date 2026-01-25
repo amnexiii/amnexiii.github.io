@@ -12,11 +12,11 @@
 
   - **Cuándo: controlar el momento de leer.** Necesitas conocer _lo que hay sobre la mesa_ a menudo, pero no el 100% del tiempo. Eso supondría consultar la bandeja de entrada cada segundo que pasa, porque no puedes controlar cuándo te escribirán terceras personas. No tendría sentido: los cambios de contexto fragmentarían tu tiempo de concentración dedicados a lo prioritario, "romperían tu flow". La solución es acotar los momentos adecuados para leer. En mi caso, siempre leo después de comer, que no me rompe ningún foco profundo; y mi objetivo de bandeja vacía es "todos los viernes". Bloqueo huecos en mi calendario para fomentarlo. Antaño vaciaba las bandejas diariamente, pero eso afectaba a mi conciliación, porque en días de mucho input era  imposible ni siquiera leer todo lo que entraba sin alargar el final de la jornada. Cada cual debe buscar su cadencia.
 
-  - **Resumen: <span style="color:blue">_Tu día a día y tu prioridad la controlas tú, no terceros. Busca momentos para leer en diagonal lo que entra._**
+  - **Resumen: <span style="color:blue">_Tu día a día y tu prioridad la controlas tú, no terceros. Busca momentos para leer en diagonal lo que entra._</span>**
 
 - La palabra **<span style="color:blue">backlog</span>** es la que permite priorizar con bandeja vacía. Una vez entendida la prioridad, anota la información clave o el título del mail en la entrada del backlog correspondiente. Te recomiendo dos niveles de backlog. El más abstracto debe contener todos los grandes temas o "épicas", simplificando la priorización, y en cada épica anota la información más de detalle, incluida esa que recibes de fuera, representando el segundo nivel. Puede que te preguntes por qué hacer esto es lugar de, simplemente, "marcar como leídos" los mails y dejarlos ahí para más adelante. La diferencia es clave: **en un backlog puedes ordenar los elementos por prioridad**. En tu bandeja de mail, no. Si acumulas en tu mail cientos de elementos, ¿cómo seleccionas el siguiente más importante? Además, no sólo tienes mail, sino esas decenas o cientos de chats... Con un backlog que eventualmente priorices, las entradas de arriba del todo son la prioridad. Coge la primera; ahora es el momento de leer los mensajes asociados con el nivel de profundidad analítica que requieren.
 
-  - **Resumen: <span style="color:blue">_Apunta lo que suponga trabajo en un backlog priorizado. Trabaja en lo de arriba, no en el último mail que llegó._**
+  - **Resumen: <span style="color:blue">_Apunta lo que suponga trabajo en un backlog priorizado. Trabaja en lo de arriba, no en el último mail que llegó._</span>**
 
 <br>
 
