@@ -2,6 +2,16 @@
 
 ## Amplitud Vs. Definición
 
+<script type="module">
+	import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+	mermaid.initialize({
+		startOnLoad: true,
+		theme: 'dark'
+	});
+</script>
+
+<pre class="mermaid">
+
 quadrantChart
     title Mapa conceptual: Amplitud vs Definición
 
@@ -18,7 +28,7 @@ quadrantChart
     Idea filosófica: [0.3, 0.25]
     Caso particular vago: [0.75, 0.3]
 
-
+</pre>
 
 <br>
 
