@@ -76,11 +76,11 @@
 <!-- Arriba izquierda -->
 <rect x="200" y="0" width="300" height="300" fill="#ff4d4d" opacity="0.1"/>
 <!-- Arriba derecha -->
-<rect x="500" y="0" width="300" height="300" fill="#39ff14" opacity="0.18"/>
+<rect x="500" y="0" width="300" height="300" fill="#39ff14" opacity="0.2"/>
 <!-- Abajo izquierda -->
 <rect x="200" y="300" width="300" height="300" fill="#7CFF7C" opacity="0.1"/>
 <!-- Abajo derecha -->
-<rect x="500" y="300" width="300" height="300" fill="#ff4d4d" opacity="0.1"/>
+<rect x="500" y="300" width="300" height="300" fill="#39ff14" opacity="0.2"/>
 
 
 
@@ -131,12 +131,12 @@ Si lo consigues, te toca empezar ahí y aterrizarlo hacia la derecha... ¡suerte
 
   <!-- Arriba izquierda -->
   <text x="350" y="170" font-size="34" font-weight="bold" text-anchor="middle">
-    Caos [1]
+    Caos (1)
   </text>
 
   <!-- Arriba derecha -->
   <text x="650" y="170" font-size="34" font-weight="bold" text-anchor="middle">
-    ¡Éxito! [3]
+    ¡Éxito! (3)
   </text>
 
   <!-- Abajo izquierda -->
@@ -144,7 +144,7 @@ Si lo consigues, te toca empezar ahí y aterrizarlo hacia la derecha... ¡suerte
     Ordeno y
   </text>
   <text x="350" y="490" font-size="34" font-weight="bold" text-anchor="middle">
-    mando [2]
+    mando (2)
   </text>
 
   <!-- Abajo derecha -->
