@@ -2,8 +2,8 @@
 
 ## Ámbito Vs. Concreción
 
-El cuadrante de arriba a la derecha es contraintuitivo, pero existe. <br>
-Dile a tu jefe que concrete esa ambición generalista que tiene, que pa eso le pagan... 😈
+El cuadrante de arriba a la izquierda es contraintuitivo, pero existe. <br>
+Dile a tu jefe que concrete esa ambición generalista que tiene de cuadrante malo (inferior izquierda), que pa eso le pagan... 😈
 
 <svg viewBox="-140 50 900 700"
      width="400"
@@ -45,7 +45,7 @@ Dile a tu jefe que concrete esa ambición generalista que tiene, que pa eso le p
     Concreto
   </text>
   <text x="200" y="255" font-size="34" font-weight="bold" text-anchor="middle" fill="orange">
-    Acotado
+    General
   </text>
 
   <!-- Arriba derecha -->
@@ -53,7 +53,7 @@ Dile a tu jefe que concrete esa ambición generalista que tiene, que pa eso le p
     Concreto
   </text>
   <text x="500" y="255" font-size="34" font-weight="bold" text-anchor="middle" fill="orange">
-    General
+    Acotado
   </text>
 
   <!-- Abajo izquierda -->
@@ -61,7 +61,7 @@ Dile a tu jefe que concrete esa ambición generalista que tiene, que pa eso le p
     Abstracto
   </text>
   <text x="200" y="540" font-size="34" font-weight="bold" text-anchor="middle" fill="orange">
-    Acotado
+    General
   </text>
 
   <!-- Abajo derecha -->
@@ -69,7 +69,7 @@ Dile a tu jefe que concrete esa ambición generalista que tiene, que pa eso le p
     Abstracto
   </text>
   <text x="500" y="540" font-size="34" font-weight="bold" text-anchor="middle" fill="orange">
-    General
+    Acotado
   </text>
 
 </svg>
