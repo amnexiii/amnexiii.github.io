@@ -1,12 +1,8 @@
 # Cuadrantes
 
-Por convención mía para esta página, el "cuadrante bueno"" es siempre arriba a la derecha 😊
+Por convención mía para esta página, el "cuadrante bueno"" es siempre arriba a la derecha. Porque yo lo valgo. 😊
 
 ## Delimitación Vs. Concreción
-
-El cuadrante de arriba a la izquierda es contraintuitivo, pero existe. <br>
-Dile a tu jefe que lo use: que concrete esa ambición generalista de cuadrante malo (inferior izquierda) con la que te da la turra. Que pa eso le pagan... 😈😇 <br>
-A ti te toca empezar ahí y aterrizarlo hacia la derecha 😉
 
 <svg viewBox="0 0 900 700"
      width="400"
@@ -26,7 +22,7 @@ A ti te toca empezar ahí y aterrizarlo hacia la derecha 😉
   <!-- Etiqueta eje Y -->
   <text x="0" y="300"
         font-size="34"
-        fill="#1f4fd8"
+       
         font-weight="bold"
         dominant-baseline="middle">
     Concreción
@@ -44,7 +40,7 @@ A ti te toca empezar ahí y aterrizarlo hacia la derecha 😉
   <!-- ===== CUADRANTES ===== -->
 
   <!-- Arriba izquierda -->
-  <text x="350" y="170" font-size="34" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
+  <text x="350" y="170" font-size="34" font-weight="bold" text-anchor="middle">
     Concreto
   </text>
   <text x="350" y="205" font-size="34" font-weight="bold" text-anchor="middle" fill="orange">
@@ -52,7 +48,7 @@ A ti te toca empezar ahí y aterrizarlo hacia la derecha 😉
   </text>
 
   <!-- Arriba derecha -->
-  <text x="650" y="170" font-size="34" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
+  <text x="650" y="170" font-size="34" font-weight="bold" text-anchor="middle">
     Concreto
   </text>
   <text x="650" y="205" font-size="34" font-weight="bold" text-anchor="middle" fill="orange">
@@ -60,7 +56,7 @@ A ti te toca empezar ahí y aterrizarlo hacia la derecha 😉
   </text>
 
   <!-- Abajo izquierda -->
-  <text x="350" y="455" font-size="34" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
+  <text x="350" y="455" font-size="34" font-weight="bold" text-anchor="middle">
     Abstracto
   </text>
   <text x="350" y="490" font-size="34" font-weight="bold" text-anchor="middle" fill="orange">
@@ -68,7 +64,7 @@ A ti te toca empezar ahí y aterrizarlo hacia la derecha 😉
   </text>
 
   <!-- Abajo derecha -->
-  <text x="650" y="455" font-size="34" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
+  <text x="650" y="455" font-size="34" font-weight="bold" text-anchor="middle">
     Abstracto
   </text>
   <text x="650" y="490" font-size="34" font-weight="bold" text-anchor="middle" fill="orange">
@@ -78,13 +74,11 @@ A ti te toca empezar ahí y aterrizarlo hacia la derecha 😉
 </svg>
 
 
+El cuadrante de arriba a la izquierda es contraintuitivo, pero existe. <br>
+Dile a tu jefe que lo use: que concrete esa ambición generalista de cuadrante malo (inferior izquierda) con la que te da la turra. Que pa eso le pagan... 😈😇 <br>
+A ti te toca empezar ahí y aterrizarlo hacia la derecha 😉
 
 ## Estandarización Vs. Flexibilidad
-
-Un proceso son entradas, pasos y salidas. Algunos procesos están orientados a máquinas, a código. Otros, que yo llamo "procesos humanos", están orientados a que los lea un humano... o un agente de IA. <br>
-**Definir un proceso humano no implica matar la flexibilidad.** Eso sólo ocurre si defines cada minúsculo detalle, si cubres todas las infinitas posibilidades. Pero eso no es un proceso, es un flujograma. Definir un proceso no es tirar código. <br>
-Si lo haces a un nivel de abstracción adecuado, evitarás el caos. Si defines el "qué", dejando al mismo tiempo la flexibilidad de ejecutar cada paso de diferentes maneras —el "cómo"—, estarás en el cuadrante bueno, arriba a la derecha. <br>
-Para ello, te puede ayudar aplicar el principio declarativo de desarrollo de código a procesos humanos... 👌
 
 <svg viewBox="0 0 900 700"
      width="400"
@@ -104,7 +98,6 @@ Para ello, te puede ayudar aplicar el principio declarativo de desarrollo de có
   <!-- Etiqueta eje Y -->
   <text x="0" y="300"
         font-size="34"
-        fill="#1f4fd8"
         font-weight="bold"
         dominant-baseline="middle">
     Flexibilidad
@@ -113,7 +106,6 @@ Para ello, te puede ayudar aplicar el principio declarativo de desarrollo de có
   <!-- Etiqueta eje X -->
   <text x="500" y="645"
         font-size="34"
-        fill="orange"
         font-weight="bold"
         text-anchor="middle">
     Estandarización
@@ -122,26 +114,32 @@ Para ello, te puede ayudar aplicar el principio declarativo de desarrollo de có
   <!-- ===== CUADRANTES ===== -->
 
   <!-- Arriba izquierda -->
-  <text x="350" y="170" font-size="34" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
+  <text x="350" y="170" font-size="34" font-weight="bold" text-anchor="middle">
     Concreto
   </text>
 
   <!-- Arriba derecha -->
-  <text x="650" y="170" font-size="34" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
+  <text x="650" y="170" font-size="34" font-weight="bold" text-anchor="middle">
     Concreto
   </text>
 
   <!-- Abajo izquierda -->
-  <text x="350" y="455" font-size="34" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
+  <text x="350" y="455" font-size="34" font-weight="bold" text-anchor="middle">
     Caos
   </text>
 
   <!-- Abajo derecha -->
-  <text x="650" y="455" font-size="34" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
+  <text x="650" y="455" font-size="34" font-weight="bold" text-anchor="middle">
     Abstracto
   </text>
 
 </svg>
+
+Un proceso son entradas, pasos y salidas. Algunos procesos están orientados a máquinas, a código. Otros, que yo llamo "procesos humanos", están orientados a que los lea un humano... o un agente de IA. <br>
+**Definir un proceso humano no implica matar la flexibilidad.** Eso sólo ocurre si defines cada minúsculo detalle, si cubres todas las infinitas posibilidades. Pero eso no es un proceso, es un flujograma. Definir un proceso no es tirar código. <br>
+Si lo haces a un nivel de abstracción adecuado, evitarás el caos. Si defines el "qué", dejando al mismo tiempo la flexibilidad de ejecutar cada paso de diferentes maneras —el "cómo"—, estarás en el cuadrante bueno, arriba a la derecha. <br>
+Para ello, te puede ayudar aplicar el principio declarativo de desarrollo de código a procesos humanos... 👌
+
 
 
 <br>
