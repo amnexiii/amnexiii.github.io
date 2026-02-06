@@ -11,24 +11,33 @@
 </script>
 
 <pre class="mermaid">
+flowchart TD
 
-quadrantChart
-    title Mapa conceptual: Amplitud vs Definición
+    %% Ejes
+    Y[Definición<br/>↑<br/>Concreto]:::axis
+    X[Amplitud → Específico]:::axis
 
-    x-axis General --> Específico
-    y-axis Abstracto --> Concreto
+    %% Cuadrantes
+    Q1["Específico<br/>Concreto"]:::quad
+    Q2["General<br/>Concreto"]:::quad
+    Q3["General<br/>Abstracto"]:::quad
+    Q4["Específico<br/>Abstracto"]:::quad
 
-    quadrant-1 Específico y Concreto
-    quadrant-2 General y Concreto
-    quadrant-3 General y Abstracto
-    quadrant-4 Específico y Abstracto
+    %% Layout
+    Y --> Q1
+    Y --> Q2
+    X --> Q1
+    X --> Q4
 
-    Ejemplo técnico: [0.8, 0.85]
-    Categoría amplia: [0.25, 0.7]
-    Idea filosófica: [0.3, 0.25]
-    Caso particular vago: [0.75, 0.3]
+    Q2 --- Q1
+    Q2 --- Q3
+    Q3 --- Q4
 
+    %% Estilos
+    classDef quad fill:#f5f5f5,stroke:#333,stroke-width:1px;
+    classDef axis fill:#fff,stroke:#000,stroke-width:0px;
 </pre>
+
 
 <br>
 
