@@ -30,7 +30,7 @@ Dile a tu jefe que concrete esa ambición generalista que tiene de cuadrante mal
   </text>
 
   <!-- Etiqueta eje X -->
-  <text x="350" y="685"
+  <text x="350" y="695"
         font-size="34"
         fill="orange"
         font-weight="bold"
