@@ -21,8 +21,8 @@
 
   <!-- Etiquetas ejes -->
 
-  <text x="300" y="680" font-size="12">Amplitud</text>
-  <text x="10" y="340" font-size="12">Definición</text>
+  <text x="360" y="680" font-size="12">Amplitud</text>
+  <text x="0" y="340" font-size="12">Definición</text>
 
   <!-- Cuadrantes -->
   <text x="200" y="200" font-size="16" text-anchor="middle">
