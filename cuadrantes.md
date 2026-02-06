@@ -3,7 +3,8 @@
 ## Delimitación Vs. Concreción
 
 El cuadrante de arriba a la izquierda es contraintuitivo, pero existe. <br>
-Dile a tu jefe que lo use, que concrete esa ambición generalista que tiene de cuadrante malo (inferior izquierda). Que pa eso le pagan... 😈😇
+Dile a tu jefe que lo use, que concrete esa ambición generalista que tiene de cuadrante malo (inferior izquierda). Que pa eso le pagan... 😈😇 <br>
+A ti te toca empezar ahí y aterrizarlo hacia la derecha 😉
 
 <svg viewBox="-150 0 900 700"
      width="400"
