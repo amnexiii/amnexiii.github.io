@@ -40,26 +40,26 @@
   <!-- ===== CUADRANTES ===== -->
 
   <!-- Arriba izquierda -->
-  <text x="350" y="170" font-size="34" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
+  <text x="350" y="170" font-size="34" text-anchor="middle" fill="#1f4fd8">
     Concreto
   </text>
-  <text x="350" y="205" font-size="34" font-weight="bold" text-anchor="middle" fill="orange">
+  <text x="350" y="205" font-size="34" text-anchor="middle" fill="orange">
     General
   </text>
 
   <!-- Arriba derecha -->
-  <text x="650" y="170" font-size="34" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
+  <text x="650" y="170" font-size="34" text-anchor="middle" fill="#1f4fd8">
     Concreto
   </text>
-  <text x="650" y="205" font-size="34" font-weight="bold" text-anchor="middle" fill="orange">
+  <text x="650" y="205" font-size="34" text-anchor="middle" fill="orange">
     Delimitado
   </text>
 
   <!-- Abajo izquierda -->
-  <text x="350" y="455" font-size="34" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
+  <text x="350" y="455" font-size="34" text-anchor="middle" fill="#1f4fd8">
     Abstracto
   </text>
-  <text x="350" y="490" font-size="34" font-weight="bold" text-anchor="middle" fill="orange">
+  <text x="350" y="490" font-size="34" text-anchor="middle" fill="orange">
     General
   </text>
 
@@ -128,12 +128,12 @@ El cuadrante de arriba a la izquierda es contraintuitivo, pero existe. Dile a tu
   <!-- ===== CUADRANTES ===== -->
 
   <!-- Arriba izquierda -->
-  <text x="350" y="170" font-size="34" font-weight="bold" text-anchor="middle">
+  <text x="350" y="170" font-size="34" text-anchor="middle">
     Caos (1)
   </text>
 
   <!-- Arriba derecha -->
-  <text x="650" y="170" font-size="34" font-weight="bold" text-anchor="middle">
+  <text x="650" y="170" font-size="34" text-anchor="middle">
     ¡Éxito! (3)
   </text>
 
