@@ -2,61 +2,63 @@
 
 ## Amplitud Vs. Definición
 
-<script type="module">
-	import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-	mermaid.initialize({
-		startOnLoad: true,
-		theme: 'dark'
-	});
-</script>
 
-<pre class="mermaid">
-flowchart TB
+<svg viewBox="0 0 700 700"
+     width="700"
+     height="700"
+     xmlns="http://www.w3.org/2000/svg"
+     style="max-width:100%;height:auto;font-family:Arial,sans-serif">
 
-%% =========================
-%% CUADRÍCULA 2x2
-%% =========================
+  <!-- Marco -->
+  <rect x="50" y="50" width="600" height="600" fill="#ffffff" stroke="#000"/>
 
-subgraph ROW1[" "]
-direction LR
-Q2["General<br/>Concreto"]
-Q1["Específico<br/>Concreto"]
-end
+  <!-- Ejes -->
+  <line x1="350" y1="50" x2="350" y2="650" stroke="#000" stroke-width="2"/>
+  <line x1="50" y1="350" x2="650" y2="350" stroke="#000" stroke-width="2"/>
 
-subgraph ROW2[" "]
-direction LR
-Q3["General<br/>Abstracto"]
-Q4["Específico<br/>Abstracto"]
-end
+  <!-- Flechas -->
+  <polygon points="345,50 355,50 350,35" fill="#000"/>
+  <polygon points="650,345 650,355 665,350" fill="#000"/>
 
-ROW1 --- ROW2
+  <!-- Etiquetas ejes -->
+  <text x="365" y="40" font-size="14">Definición → Concreto</text>
+  <text x="480" y="340" font-size="14">Amplitud → Específico</text>
 
-%% =========================
-%% EJES
-%% =========================
+  <text x="360" y="680" font-size="12">Abstracto</text>
+  <text x="10" y="340" font-size="12">General</text>
 
-Y1["Definición ↑<br/>Concreto"]
-Y2["Abstracto"]
+  <!-- Cuadrantes -->
+  <text x="200" y="200" font-size="16" text-anchor="middle">
+    General
+  </text>
+  <text x="200" y="220" font-size="14" text-anchor="middle">
+    Concreto
+  </text>
 
-X1["General"]
-X2["Amplitud → Específico"]
+  <text x="500" y="200" font-size="16" text-anchor="middle">
+    Específico
+  </text>
+  <text x="500" y="220" font-size="14" text-anchor="middle">
+    Concreto
+  </text>
 
-Y2 --> Y1
-X1 --> X2
+  <text x="200" y="500" font-size="16" text-anchor="middle">
+    General
+  </text>
+  <text x="200" y="520" font-size="14" text-anchor="middle">
+    Abstracto
+  </text>
 
-Y1 --- Q2
-X2 --- Q4
+  <text x="500" y="500" font-size="16" text-anchor="middle">
+    Específico
+  </text>
+  <text x="500" y="520" font-size="14" text-anchor="middle">
+    Abstracto
+  </text>
 
-%% =========================
-%% ESTILOS
-%% =========================
+</svg>
 
-classDef quad fill:#f7f7f7,stroke:#333,stroke-width:1px;
-class Q1,Q2,Q3,Q4 quad;
 
-style ROW1 fill:transparent,stroke-width:0;
-style ROW2 fill:transparent,stroke-width:0;
-</pre>
 
 
 <br>
