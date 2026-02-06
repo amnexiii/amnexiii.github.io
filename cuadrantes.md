@@ -64,10 +64,10 @@
   </text>
 
   <!-- Abajo derecha -->
-  <text x="650" y="455" font-size="34" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
+  <text x="650" y="455" font-size="34" text-anchor="middle" fill="#1f4fd8">
     Abstracto
   </text>
-  <text x="650" y="490" font-size="34" font-weight="bold" text-anchor="middle" fill="orange">
+  <text x="650" y="490" font-size="34" text-anchor="middle" fill="orange">
     Delimitado
   </text>
 
@@ -138,18 +138,18 @@ El cuadrante de arriba a la izquierda es contraintuitivo, pero existe. Dile a tu
   </text>
 
   <!-- Abajo izquierda -->
-  <text x="350" y="455" font-size="34" font-weight="bold" text-anchor="middle">
+  <text x="350" y="455" font-size="34" text-anchor="middle">
     Ordeno y
   </text>
-  <text x="350" y="490" font-size="34" font-weight="bold" text-anchor="middle">
+  <text x="350" y="490" font-size="34" text-anchor="middle">
     mando (2)
   </text>
 
   <!-- Abajo derecha -->
-  <text x="650" y="455" font-size="34" font-weight="bold" text-anchor="middle">
+  <text x="650" y="455" font-size="34" text-anchor="middle">
     ¡Esto es
   </text>
-  <text x="650" y="490" font-size="34" font-weight="bold" text-anchor="middle">
+  <text x="650" y="490" font-size="34" text-anchor="middle">
     código! 😋
   </text>
 
