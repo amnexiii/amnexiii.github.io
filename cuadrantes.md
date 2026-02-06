@@ -11,31 +11,51 @@
 </script>
 
 <pre class="mermaid">
-flowchart TD
+flowchart TB
 
-    %% Ejes
-    Y[Definición<br/>↑<br/>Concreto]:::axis
-    X[Amplitud → Específico]:::axis
+%% =========================
+%% CUADRÍCULA 2x2
+%% =========================
 
-    %% Cuadrantes
-    Q1["Específico<br/>Concreto"]:::quad
-    Q2["General<br/>Concreto"]:::quad
-    Q3["General<br/>Abstracto"]:::quad
-    Q4["Específico<br/>Abstracto"]:::quad
+subgraph ROW1[" "]
+direction LR
+Q2["General<br/>Concreto"]
+Q1["Específico<br/>Concreto"]
+end
 
-    %% Layout
-    Y --> Q1
-    Y --> Q2
-    X --> Q1
-    X --> Q4
+subgraph ROW2[" "]
+direction LR
+Q3["General<br/>Abstracto"]
+Q4["Específico<br/>Abstracto"]
+end
 
-    Q2 --- Q1
-    Q2 --- Q3
-    Q3 --- Q4
+ROW1 --- ROW2
 
-    %% Estilos
-    classDef quad fill:#f5f5f5,stroke:#333,stroke-width:1px;
-    classDef axis fill:#fff,stroke:#000,stroke-width:0px;
+%% =========================
+%% EJES
+%% =========================
+
+Y1["Definición ↑<br/>Concreto"]
+Y2["Abstracto"]
+
+X1["General"]
+X2["Amplitud → Específico"]
+
+Y2 --> Y1
+X1 --> X2
+
+Y1 --- Q2
+X2 --- Q4
+
+%% =========================
+%% ESTILOS
+%% =========================
+
+classDef quad fill:#f7f7f7,stroke:#333,stroke-width:1px;
+class Q1,Q2,Q3,Q4 quad;
+
+style ROW1 fill:transparent,stroke-width:0;
+style ROW2 fill:transparent,stroke-width:0;
 </pre>
 
 
