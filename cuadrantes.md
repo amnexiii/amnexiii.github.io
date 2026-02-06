@@ -5,7 +5,7 @@
 El cuadrante de arriba a la derecha es contraintuitivo, pero existe. <br>
 Dile a tu jefe que concrete esa ambición generalista que tiene, que pa eso le pagan... 😈
 
-<svg viewBox="-120 50 900 700"
+<svg viewBox="-140 50 900 700"
      width="400"
      height="400"
      xmlns="http://www.w3.org/2000/svg"
@@ -21,8 +21,8 @@ Dile a tu jefe que concrete esa ambición generalista que tiene, que pa eso le p
   <!-- ===== ETIQUETAS EJES ===== -->
 
   <!-- Etiqueta eje Y -->
-  <text x="-120" y="350"
-        font-size="28"
+  <text x="-140" y="350"
+        font-size="34"
         fill="#1f4fd8"
         font-weight="bold"
         dominant-baseline="middle">
@@ -31,7 +31,7 @@ Dile a tu jefe que concrete esa ambición generalista que tiene, que pa eso le p
 
   <!-- Etiqueta eje X -->
   <text x="350" y="685"
-        font-size="28"
+        font-size="34"
         fill="orange"
         font-weight="bold"
         text-anchor="middle">
@@ -41,34 +41,34 @@ Dile a tu jefe que concrete esa ambición generalista que tiene, que pa eso le p
   <!-- ===== CUADRANTES ===== -->
 
   <!-- Arriba izquierda -->
-  <text x="200" y="220" font-size="30" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
+  <text x="200" y="220" font-size="34" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
     Concreto
   </text>
-  <text x="200" y="255" font-size="30" font-weight="bold" text-anchor="middle" fill="orange">
+  <text x="200" y="255" font-size="34" font-weight="bold" text-anchor="middle" fill="orange">
     Acotado
   </text>
 
   <!-- Arriba derecha -->
-  <text x="500" y="220" font-size="30" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
+  <text x="500" y="220" font-size="34" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
     Concreto
   </text>
-  <text x="500" y="255" font-size="30" font-weight="bold" text-anchor="middle" fill="orange">
+  <text x="500" y="255" font-size="34" font-weight="bold" text-anchor="middle" fill="orange">
     General
   </text>
 
   <!-- Abajo izquierda -->
-  <text x="200" y="505" font-size="30" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
+  <text x="200" y="505" font-size="34" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
     Abstracto
   </text>
-  <text x="200" y="540" font-size="30" font-weight="bold" text-anchor="middle" fill="orange">
+  <text x="200" y="540" font-size="34" font-weight="bold" text-anchor="middle" fill="orange">
     Acotado
   </text>
 
   <!-- Abajo derecha -->
-  <text x="500" y="505" font-size="30" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
+  <text x="500" y="505" font-size="34" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
     Abstracto
   </text>
-  <text x="500" y="540" font-size="30" font-weight="bold" text-anchor="middle" fill="orange">
+  <text x="500" y="540" font-size="34" font-weight="bold" text-anchor="middle" fill="orange">
     General
   </text>
 
