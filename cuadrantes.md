@@ -131,22 +131,22 @@ A ti te toca empezar ahí y aterrizarlo hacia la derecha 😉
 
   <!-- Arriba izquierda -->
   <text x="350" y="170" font-size="34" font-weight="bold" text-anchor="middle">
-    Concreto
+    El Caos. Si dices "fluir", parece bueno... pero no 😅.
   </text>
 
   <!-- Arriba derecha -->
   <text x="650" y="170" font-size="34" font-weight="bold" text-anchor="middle">
-    Concreto
+    ¡Un proceso bien definido y flexible!
   </text>
 
   <!-- Abajo izquierda -->
   <text x="350" y="455" font-size="34" font-weight="bold" text-anchor="middle">
-    Caos
+    El ordeno y mando. ¡Vete a casa! 🪖
   </text>
 
   <!-- Abajo derecha -->
   <text x="650" y="455" font-size="34" font-weight="bold" text-anchor="middle">
-    Abstracto
+    Esto es código, no proceso 😊
   </text>
 
 </svg>
