@@ -87,9 +87,12 @@
 
 </svg>
 
-¡Hay que ser concretos en la vida! (vaaaale, salvo para el arte). <br>
-El cuadrante de arriba a la izquierda es contraintuitivo, pero existe. <br>
-Dile a tu jefe que lo use: que concrete esa ambición abstracta con la que te da tanto la turra. ¡Que pa eso le pagan! 😈😇 <br>
+¡Hay que ser concretos en la vida! (vaaaale, salvo para el arte).
+
+El cuadrante de arriba a la izquierda es contraintuitivo, pero existe.
+
+Dile a tu jefe que lo use: que concrete esa ambición abstracta con la que te da tanto la turra. ¡Que pa eso le pagan! 😈😇
+
 Si lo consigues, te toca empezar ahí y aterrizarlo hacia la derecha... ¡suerte! 😉
 
 
@@ -121,7 +124,6 @@ Si lo consigues, te toca empezar ahí y aterrizarlo hacia la derecha... ¡suerte
   <!-- Etiqueta eje X -->
   <text x="500" y="645"
         font-size="34"
-        fill="orange"
         font-weight="bold"
         text-anchor="middle">
     Estandarización
@@ -154,13 +156,16 @@ Si lo consigues, te toca empezar ahí y aterrizarlo hacia la derecha... ¡suerte
 
 </svg>
 
-- (1) Si dices "fluir", parece que es bueno... pero NO 😅. <br>
-- (2) ...si es con criterio, todavía... pero... entonces ¿para qué te contrató? (sí, eso, la [frase](https://www.reddit.com/r/quotes/comments/1no01a4/it_doesnt_make_sense_to_hire_smart_people_and/?tl=es-419) de "Esteban Curritos" 😋). <br>
-- (3) ¡Un proceso bien definido y al mismo tiempo flexible, felicidades! <br>
+- (1) Si dices "fluir", parece que es bueno... pero NO 😅.
+- (2) ...si es con criterio, todavía... pero... entonces ¿para qué te contrató? (sí, eso, la [frase](https://www.reddit.com/r/quotes/comments/1no01a4/it_doesnt_make_sense_to_hire_smart_people_and/?tl=es-419) de "Esteban Curritos" 😋).
+- (3) ¡Un proceso bien definido y al mismo tiempo flexible, felicidades!
 
-Un proceso son entradas, pasos y salidas. Algunos procesos están orientados a máquinas, a código. Otros, que yo llamo "procesos humanos", están orientados a que los lea un humano... o un agente de IA. <br>
-**Definir un proceso humano no implica matar la flexibilidad.** Eso sólo ocurre si defines cada minúsculo detalle, si cubres todas las infinitas posibilidades. Pero eso no es un proceso, es un flujograma. Definir un proceso no es tirar código. <br>
-Si lo haces a un nivel de abstracción adecuado, evitarás el caos. Si defines el "qué", dejando al mismo tiempo la flexibilidad de ejecutar cada paso de diferentes maneras —el "cómo"—, estarás en el cuadrante bueno, arriba a la derecha. <br>
+Un proceso son entradas, pasos y salidas. Algunos procesos están orientados a máquinas, a código. Otros, que yo llamo "procesos humanos", están orientados a que los lea un humano... o un agente de IA.
+
+**Definir un proceso humano no implica matar la flexibilidad.** Eso sólo ocurre si defines cada minúsculo detalle, si cubres todas las infinitas posibilidades. Pero eso no es un proceso, es un flujograma. Definir un proceso no es tirar código.
+
+Si lo haces a un nivel de abstracción adecuado, evitarás el caos. Si defines el "qué", dejando al mismo tiempo la flexibilidad de ejecutar cada paso de diferentes maneras —el "cómo"—, estarás en el cuadrante bueno, arriba a la derecha.
+
 Para ello, te puede ayudar aplicar el principio declarativo de desarrollo de código a procesos humanos... 👌
 
 <br>
