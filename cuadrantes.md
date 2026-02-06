@@ -2,8 +2,9 @@
 
 ## Ámbito Vs. Concreción
 
-El cuadrante de arriba a la derecha puede ser contraintuitivo, pero existe.
-Dile a tu jefe que concrete esa ambición generalista que tiene...
+El cuadrante de arriba a la derecha es contraintuitivo, pero existe.
+
+Dile a tu jefe que concrete esa ambición generalista que tiene, que pa eso le pagan...
 
 <svg viewBox="-200 0 1000 700"
      width="400"
