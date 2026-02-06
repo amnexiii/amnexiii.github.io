@@ -1,8 +1,8 @@
 # Cuadrantes
 
-## Amplitud Vs. Definición
+## Ámbito Vs. Concreción
 
-<svg viewBox="0 0 700 700"
+<svg viewBox="-120 0 820 700"
      width="400"
      height="400"
      xmlns="http://www.w3.org/2000/svg"
@@ -23,7 +23,7 @@
         fill="#1f4fd8"
         font-weight="bold"
         dominant-baseline="middle">
-    Definición
+    Concreción
   </text>
 
   <!-- Abajo: eje X -->
