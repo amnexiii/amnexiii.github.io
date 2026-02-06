@@ -151,13 +151,16 @@ Si lo consigues, te toca empezar ahí y aterrizarlo hacia la derecha... ¡suerte
 
   <!-- Abajo derecha -->
   <text x="650" y="455" font-size="34" font-weight="bold" text-anchor="middle">
-    Código
+    ¡Esto es
+  </text>
+  <text x="650" y="490" font-size="34" font-weight="bold" text-anchor="middle">
+    código! 😋
   </text>
 
 </svg>
 
 - (1) Si dices "fluir", parece que es bueno... pero NO 😅.
-- (2) ...si es con criterio, todavía... pero... entonces ¿para qué te contrató? (sí, eso, la [frase](https://www.reddit.com/r/quotes/comments/1no01a4/it_doesnt_make_sense_to_hire_smart_people_and/?tl=es-419) de "Esteban Curritos" 😋).
+- (2) ...si es con criterio, todavía... pero no debería... porque en ese caso, ¿para qué te contrató a ti? (sí, eso, la [frase](https://www.reddit.com/r/quotes/comments/1no01a4/it_doesnt_make_sense_to_hire_smart_people_and/?tl=es-419) de "Esteban Curritos" 😋).
 - (3) ¡Un proceso bien definido y al mismo tiempo flexible, felicidades!
 
 Un proceso son entradas, pasos y salidas. Algunos procesos están orientados a máquinas, a código. Otros, que yo llamo "procesos humanos", están orientados a que los lea un humano... o un agente de IA.
