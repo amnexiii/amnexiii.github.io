@@ -13,11 +13,11 @@ Dile a tu jefe que concrete esa ambición generalista que tiene, que pa eso le p
      style="font-family:Arial,sans-serif">
 
   <!-- Marco -->
-  <rect x="50" y="50" width="600" height="600" fill="#ffffff" stroke="#000"/>
+  <rect x="0" y="0" width="600" height="600" fill="#ffffff" stroke="#000"/>
 
   <!-- Ejes (el "+") -->
-  <line x1="350" y1="50" x2="350" y2="650" stroke="#000" stroke-width="2"/>
-  <line x1="50" y1="350" x2="650" y2="350" stroke="#000" stroke-width="2"/>
+  <line x1="350" y1="0" x2="350" y2="650" stroke="#000" stroke-width="2"/>
+  <line x1="0" y1="350" x2="650" y2="350" stroke="#000" stroke-width="2"/>
 
   <!-- ===== ETIQUETAS EJES ===== -->
 
