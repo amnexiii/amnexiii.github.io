@@ -131,25 +131,32 @@ A ti te toca empezar ahí y aterrizarlo hacia la derecha 😉
 
   <!-- Arriba izquierda -->
   <text x="350" y="170" font-size="34" font-weight="bold" text-anchor="middle">
-    El Caos. Si dices "fluir", parece bueno... pero no 😅.
+    Caos [1]
   </text>
 
   <!-- Arriba derecha -->
   <text x="650" y="170" font-size="34" font-weight="bold" text-anchor="middle">
-    ¡Un proceso bien definido y flexible!
+    ¡Éxito! [3]
   </text>
 
   <!-- Abajo izquierda -->
   <text x="350" y="455" font-size="34" font-weight="bold" text-anchor="middle">
-    El ordeno y mando. ¡Vete a casa! 🪖
+    Ordeno y
+  </text>
+  <text x="350" y="490" font-size="34" font-weight="bold" text-anchor="middle">
+    mando [2]
   </text>
 
   <!-- Abajo derecha -->
   <text x="650" y="455" font-size="34" font-weight="bold" text-anchor="middle">
-    Esto es código, no proceso 😊
+    Código
   </text>
 
 </svg>
+
+[1] Si dices "fluir", parece que es bueno... pero NO 😅.
+[2] ...si es con criterio, todavía... pero... entonces ¿para qué te contrató? (sí, eso, la [frase](https://www.reddit.com/r/quotes/comments/1no01a4/it_doesnt_make_sense_to_hire_smart_people_and/?tl=es-419) de "Esteban Curritos" 😋)
+[3] ¡Un proceso bien definido y al mismo tiempo flexible, felicidades!
 
 Un proceso son entradas, pasos y salidas. Algunos procesos están orientados a máquinas, a código. Otros, que yo llamo "procesos humanos", están orientados a que los lea un humano... o un agente de IA. <br>
 **Definir un proceso humano no implica matar la flexibilidad.** Eso sólo ocurre si defines cada minúsculo detalle, si cubres todas las infinitas posibilidades. Pero eso no es un proceso, es un flujograma. Definir un proceso no es tirar código. <br>
