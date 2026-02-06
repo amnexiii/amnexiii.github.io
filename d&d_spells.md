@@ -11,7 +11,7 @@ De nada 😊.
 ## P.D.
 
 - Ambos sabemos que, con ércel o sin él, seguirás pillando Fireball 🤣... no pasa nada, semos persianas.
-- Si juegas con una clase diferente a Wizard, es decir con una clase **inferior** 😎... también te sirve. Precisamente, lo que añadí yo al excel original (créditos dentro del fichero) fue qué clase puede usar qué conjuros.
+- Si juegas con una clase diferente a Wizard, es decir con una clase **inferior** 😎... también te sirve. Precisamente, lo que añadí yo fue qué clase puede usar qué conjuros. Créditos del excel original dentro del fichero.
 
 <br>
 
