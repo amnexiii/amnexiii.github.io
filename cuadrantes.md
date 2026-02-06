@@ -171,7 +171,7 @@ El cuadrante de arriba a la izquierda es contraintuitivo, pero existe. Dile a tu
 - (2) Te lo ha mandado tu jefe "porque él sabe". Si realmente sabe, ¿qué pasará cuando se jubile o cuando le pille un tractor? Si te ha mandado una soplapollez, ¿será que no conoce [la mítica frase de "Esteban Curritos"](https://www.reddit.com/r/quotes/comments/1no01a4/it_doesnt_make_sense_to_hire_smart_people_and/?tl=es-419)? 😋
 - (3) **¡Un proceso bien definido y al mismo tiempo flexible, felicidades!**
 
-Un proceso son entradas, pasos y salidas. Algunos procesos están orientados a máquinas, a código. Otros, los "procesos para humanos", están orientados a que los lean personas... o agentes de IA.
+Un proceso son entradas, pasos y salidas (y responsables). Algunos procesos están orientados a máquinas, a código. Otros, los "procesos para humanos", están orientados a que los lean personas... o agentes de IA.
 
 **Definir un proceso para humanos no implica matar la flexibilidad.** Eso sólo ocurre si defines cada minúsculo detalle, si cubres todas las infinitas posibilidades. Pero eso no es un proceso; es o bien código, o bien un flujograma infumable. En el segundo caso, suponiendo que sea correcto, ¿a qué esperas para meterlo en algún software de workflows para que lo ejecute una máquina? Porque eso no se lo va a leer ni el tato... 😎
 
