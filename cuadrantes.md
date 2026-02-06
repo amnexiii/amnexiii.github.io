@@ -89,11 +89,7 @@
 
 ¡Hay que ser concretos en la vida! (vaaaale, salvo para el arte).
 
-El cuadrante de arriba a la izquierda es contraintuitivo, pero existe.
-
-Dile a tu jefe que lo use: que concrete esa ambición abstracta con la que te da tanto la turra. ¡Que pa eso le pagan! 😈😇
-
-Si lo consigues, te toca empezar ahí y aterrizarlo hacia la derecha... ¡suerte! 😉
+El cuadrante de arriba a la izquierda es contraintuitivo, pero existe. Dile a tu jefe que lo use: que concrete esa ambición abstracta con la que te da tanto la turra. ¡Que pa eso le pagan! 😈😇 Si lo consigues, te toca empezar ahí y aterrizarlo hacia la derecha... ¡suerte! 😉
 
 
 ## Estandarización Vs. Flexibilidad
@@ -175,13 +171,11 @@ Si lo consigues, te toca empezar ahí y aterrizarlo hacia la derecha... ¡suerte
 - (2) ...si es con criterio, todavía... pero no debería... porque en ese caso, ¿para qué te contrató a ti? (sí, eso, la [frase](https://www.reddit.com/r/quotes/comments/1no01a4/it_doesnt_make_sense_to_hire_smart_people_and/?tl=es-419) de "Esteban Curritos" 😋).
 - (3) ¡Un proceso bien definido y al mismo tiempo flexible, felicidades!
 
-Un proceso son entradas, pasos y salidas. Algunos procesos están orientados a máquinas, a código. Otros, que yo llamo "procesos humanos", están orientados a que los lea un humano... o un agente de IA.
+Un proceso son entradas, pasos y salidas. Algunos procesos están orientados a máquinas, a código. Otros, los "procesos para humanos", están orientados a que los lean personas... o agentes de IA.
 
-**Definir un proceso humano no implica matar la flexibilidad.** Eso sólo ocurre si defines cada minúsculo detalle, si cubres todas las infinitas posibilidades. Pero eso no es un proceso, es un flujograma. Definir un proceso no es tirar código.
+**Definir un proceso para humanos no implica matar la flexibilidad.** Eso sólo ocurre si defines cada minúsculo detalle, si cubres todas las infinitas posibilidades. Pero eso no es un proceso; es o bien código, o bien un flujograma infumable que nadie va a leer. En el segundo caso, si es correcto, ¿a qué esperas a meterlo en algún software de workflows para que lo ejecute una máquina? Eso no se lo va a leer ni el tato 😎
 
-Si lo haces a un nivel de abstracción adecuado, evitarás el caos. Si defines el "qué", dejando al mismo tiempo la flexibilidad de ejecutar cada paso de diferentes maneras —el "cómo"—, estarás en el cuadrante bueno, arriba a la derecha.
-
-Para ello, te puede ayudar aplicar el principio declarativo de desarrollo de código a procesos humanos... 👌
+Si lo haces a un nivel de abstracción adecuado, evitarás el caos. Si defines el "qué", dejando al mismo tiempo la flexibilidad de ejecutar cada paso de diferentes maneras —el "cómo"—, estarás en el cuadrante bueno 😉. Para ello, te puede ayudar aplicar el principio declarativo de desarrollo de código a procesos para humanos 👌... Es material buenísimo para un paper, ahí te lo dejo pa que brilles tú.
 
 <br>
 
