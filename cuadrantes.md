@@ -5,7 +5,7 @@
 El cuadrante de arriba a la izquierda es contraintuitivo, pero existe. <br>
 Dile a tu jefe que concrete esa ambición generalista que tiene de cuadrante malo (inferior izquierda), que pa eso le pagan... 😈
 
-<svg viewBox="-140 50 900 700"
+<svg viewBox="-150 50 900 700"
      width="400"
      height="400"
      xmlns="http://www.w3.org/2000/svg"
@@ -21,7 +21,7 @@ Dile a tu jefe que concrete esa ambición generalista que tiene de cuadrante mal
   <!-- ===== ETIQUETAS EJES ===== -->
 
   <!-- Etiqueta eje Y -->
-  <text x="-140" y="350"
+  <text x="-150" y="350"
         font-size="34"
         fill="#1f4fd8"
         font-weight="bold"
