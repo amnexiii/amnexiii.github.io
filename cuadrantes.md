@@ -6,7 +6,7 @@ El cuadrante de arriba a la derecha es contraintuitivo, pero existe.
 
 Dile a tu jefe que concrete esa ambición generalista que tiene, que pa eso le pagan...
 
-<svg viewBox="-90 0 900 700"
+<svg viewBox="-120 0 900 700"
      width="400"
      height="400"
      xmlns="http://www.w3.org/2000/svg"
@@ -21,8 +21,8 @@ Dile a tu jefe que concrete esa ambición generalista que tiene, que pa eso le p
 
   <!-- ===== ETIQUETAS EJES ===== -->
 
-  <!-- Izquierda: eje Y -->
-  <text x="-90" y="350"
+  <!-- Etiqueta eje Y -->
+  <text x="-120" y="350"
         font-size="28"
         fill="#1f4fd8"
         font-weight="bold"
@@ -30,7 +30,7 @@ Dile a tu jefe que concrete esa ambición generalista que tiene, que pa eso le p
     Concreción
   </text>
 
-  <!-- Abajo: eje X -->
+  <!-- Etiqueta eje X -->
   <text x="350" y="685"
         font-size="28"
         fill="orange"
