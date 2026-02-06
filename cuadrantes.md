@@ -3,8 +3,8 @@
 ## Amplitud Vs. Definición
 
 <svg viewBox="0 0 700 700"
-     width="300"
-     height="300"
+     width="500"
+     height="500"
      xmlns="http://www.w3.org/2000/svg"
      style="max-width:100%;height:auto;font-family:Arial,sans-serif">
 
@@ -20,11 +20,9 @@
   <polygon points="650,345 650,355 665,350" fill="#000"/>
 
   <!-- Etiquetas ejes -->
-  <text x="365" y="40" font-size="14">Definición → Concreto</text>
-  <text x="480" y="340" font-size="14">Amplitud → Específico</text>
 
-  <text x="360" y="680" font-size="12">Abstracto</text>
-  <text x="10" y="340" font-size="12">General</text>
+  <text x="360" y="680" font-size="12">Amplitud</text>
+  <text x="10" y="340" font-size="12">Definición</text>
 
   <!-- Cuadrantes -->
   <text x="200" y="200" font-size="16" text-anchor="middle">
