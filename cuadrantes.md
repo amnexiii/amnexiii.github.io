@@ -74,13 +74,13 @@
 <!-- ===== FONDOS CUADRANTES ===== -->
 
 <!-- Arriba izquierda -->
-<rect x="200" y="0" width="300" height="300" fill="#ff4d4d" opacity="0.2"/>
+<rect x="200" y="0" width="300" height="300" fill="#ff4d4d" opacity="0.1"/>
 <!-- Arriba derecha -->
-<rect x="500" y="0" width="300" height="300" fill="#7CFF7C" opacity="0.5"/>
+<rect x="500" y="0" width="300" height="300" fill="#7CFF7C" opacity="0.3"/>
 <!-- Abajo izquierda -->
-<rect x="200" y="300" width="300" height="300" fill="#7CFF7C" opacity="0.2"/>
+<rect x="200" y="300" width="300" height="300" fill="#7CFF7C" opacity="0.1"/>
 <!-- Abajo derecha -->
-<rect x="500" y="300" width="300" height="300" fill="#ff4d4d" opacity="0.2"/>
+<rect x="500" y="300" width="300" height="300" fill="#ff4d4d" opacity="0.1"/>
 
 
 
@@ -154,9 +154,9 @@ Si lo consigues, te toca empezar ahí y aterrizarlo hacia la derecha... ¡suerte
 
 </svg>
 
-[1] Si dices "fluir", parece que es bueno... pero NO 😅.
-[2] ...si es con criterio, todavía... pero... entonces ¿para qué te contrató? (sí, eso, la [frase](https://www.reddit.com/r/quotes/comments/1no01a4/it_doesnt_make_sense_to_hire_smart_people_and/?tl=es-419) de "Esteban Curritos" 😋)
-[3] ¡Un proceso bien definido y al mismo tiempo flexible, felicidades!
+- (1) Si dices "fluir", parece que es bueno... pero NO 😅. <br>
+- (2) ...si es con criterio, todavía... pero... entonces ¿para qué te contrató? (sí, eso, la [frase](https://www.reddit.com/r/quotes/comments/1no01a4/it_doesnt_make_sense_to_hire_smart_people_and/?tl=es-419) de "Esteban Curritos" 😋). <br>
+- (3) ¡Un proceso bien definido y al mismo tiempo flexible, felicidades! <br>
 
 Un proceso son entradas, pasos y salidas. Algunos procesos están orientados a máquinas, a código. Otros, que yo llamo "procesos humanos", están orientados a que los lea un humano... o un agente de IA. <br>
 **Definir un proceso humano no implica matar la flexibilidad.** Eso sólo ocurre si defines cada minúsculo detalle, si cubres todas las infinitas posibilidades. Pero eso no es un proceso, es un flujograma. Definir un proceso no es tirar código. <br>
