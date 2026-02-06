@@ -74,11 +74,16 @@ El "cuadrante bueno" es siempre arriba a la derecha. Porque yo lo valgo 😊.
 
 <!-- ===== FONDOS CUADRANTES ===== -->
 
-<rect x="200" y="0" width="300" height="300" fill="#e8f0ff" opacity="0.5"/>
-<rect x="500" y="0" width="300" height="300" fill="#fff0e0" opacity="0.5"/>
+<!-- Arriba izquierda -->
+<rect x="200" y="0" width="300" height="300" fill="# " opacity="0.8"/>
+<!-- Arriba derecha -->
+<rect x="500" y="0" width="300" height="300" fill="#39ff14" opacity="0.8"/>
+<!-- Abajo izquierda -->
+<rect x="200" y="300" width="300" height="300" fill="#7CFF7C" opacity="0.8"/>
+<!-- Abajo derecha -->
+<rect x="500" y="300" width="300" height="300" fill="#ff4d4d" opacity="0.8"/>
 
-<rect x="200" y="300" width="300" height="300" fill="#eefae8" opacity="0.5"/>
-<rect x="500" y="300" width="300" height="300" fill="#f6e8ff" opacity="0.5"/>
+
 
 
 </svg>
