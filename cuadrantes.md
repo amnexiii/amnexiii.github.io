@@ -168,7 +168,7 @@ El cuadrante de arriba a la izquierda es contraintuitivo, pero existe. Dile a tu
 </svg>
 
 - (1) Si dices "fluir", parece que es bueno... pero NO 😅.
-- (2) Te lo ha mandado tu jefe "porque él sabe". Si fuera cierto, ¿qué pasará cuando se jubile o cuando le pille un tractor? Si es incierto porque te ha mandado una soplapollez, estarás pensando en [la mítica frase de "Esteban Curritos" 😋](https://www.reddit.com/r/quotes/comments/1no01a4/it_doesnt_make_sense_to_hire_smart_people_and/?tl=es-419).
+- (2) Te lo ha mandado tu jefe "porque él sabe". Si realmente sabe, ¿qué pasará cuando se jubile o cuando le pille un tractor? Si te ha mandado una soplapollez, ¿será que no conoce [la mítica frase de "Esteban Curritos"](https://www.reddit.com/r/quotes/comments/1no01a4/it_doesnt_make_sense_to_hire_smart_people_and/?tl=es-419)? 😋
 - (3) **¡Un proceso bien definido y al mismo tiempo flexible, felicidades!**
 
 Un proceso son entradas, pasos y salidas. Algunos procesos están orientados a máquinas, a código. Otros, los "procesos para humanos", están orientados a que los lean personas... o agentes de IA.
