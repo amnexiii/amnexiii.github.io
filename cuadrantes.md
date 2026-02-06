@@ -79,4 +79,4 @@ Dile a tu jefe que concrete esa ambición generalista que tiene de cuadrante mal
 <br>
 
 ___
-3 feb 2026+
+6 feb 2026+
