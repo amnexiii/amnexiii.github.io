@@ -3,10 +3,10 @@
 ## Amplitud Vs. Definición
 
 <svg viewBox="0 0 700 700"
-     width="500"
-     height="500"
+     width="200"
+     height="200"
      xmlns="http://www.w3.org/2000/svg"
-     style="max-width:100%;height:auto;font-family:Arial,sans-serif">
+     style="font-family:Arial,sans-serif">
 
   <!-- Marco -->
   <rect x="50" y="50" width="600" height="600" fill="#ffffff" stroke="#000"/>
@@ -15,46 +15,61 @@
   <line x1="350" y1="50" x2="350" y2="650" stroke="#000" stroke-width="2"/>
   <line x1="50" y1="350" x2="650" y2="350" stroke="#000" stroke-width="2"/>
 
-  <!-- Flechas -->
-  <polygon points="345,50 355,50 350,35" fill="#000"/>
-  <polygon points="650,345 650,355 665,350" fill="#000"/>
+  <!-- ===== ETIQUETAS EJES ===== -->
 
-  <!-- Etiquetas ejes -->
-
-  <text x="360" y="680" font-size="12">Amplitud</text>
-  <text x="0" y="340" font-size="12">Definición</text>
-
-  <!-- Cuadrantes -->
-  <text x="200" y="200" font-size="16" text-anchor="middle">
-    General
+  <!-- Izquierda: eje Y -->
+  <text x="-90" y="350"
+        font-size="28"
+        fill="#1f4fd8"
+        font-weight="bold"
+        dominant-baseline="middle">
+    Definición
   </text>
-  <text x="200" y="220" font-size="14" text-anchor="middle">
+
+  <!-- Abajo: eje X -->
+  <text x="350" y="685"
+        font-size="28"
+        fill="orange"
+        font-weight="bold"
+        text-anchor="middle">
+    Ámbito
+  </text>
+
+  <!-- ===== CUADRANTES ===== -->
+
+  <!-- Arriba izquierda -->
+  <text x="200" y="220" font-size="30" text-anchor="middle" fill="#1f4fd8">
     Concreto
   </text>
-
-  <text x="500" y="200" font-size="16" text-anchor="middle">
-    Específico
+  <text x="200" y="255" font-size="30" text-anchor="middle" fill="orange">
+    Acotado
   </text>
-  <text x="500" y="220" font-size="14" text-anchor="middle">
+
+  <!-- Arriba derecha -->
+  <text x="500" y="220" font-size="30" text-anchor="middle" fill="#1f4fd8">
     Concreto
   </text>
-
-  <text x="200" y="500" font-size="16" text-anchor="middle">
+  <text x="500" y="255" font-size="30" text-anchor="middle" fill="orange">
     General
   </text>
-  <text x="200" y="520" font-size="14" text-anchor="middle">
+
+  <!-- Abajo izquierda -->
+  <text x="200" y="505" font-size="30" text-anchor="middle" fill="#1f4fd8">
     Abstracto
+  </text>
+  <text x="200" y="540" font-size="30" text-anchor="middle" fill="orange">
+    Acotado
   </text>
 
-  <text x="500" y="500" font-size="16" text-anchor="middle">
-    Específico
-  </text>
-  <text x="500" y="520" font-size="14" text-anchor="middle">
+  <!-- Abajo derecha -->
+  <text x="500" y="505" font-size="30" text-anchor="middle" fill="#1f4fd8">
     Abstracto
+  </text>
+  <text x="500" y="540" font-size="30" text-anchor="middle" fill="orange">
+    General
   </text>
 
 </svg>
-
 
 
 
