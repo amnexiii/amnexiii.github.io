@@ -1,6 +1,6 @@
 # Cuadrantes
 
-Por convención mía para esta página, el "cuadrante bueno"" es siempre arriba a la derecha 😊
+El "cuadrante bueno"" es siempre arriba a la derecha. Porque yo lo valgo 😊.
 
 ## Delimitación Vs. Concreción
 
