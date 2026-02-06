@@ -76,7 +76,7 @@
 <!-- Arriba izquierda -->
 <rect x="200" y="0" width="300" height="300" fill="#39ff14" opacity="0.03"/>
 <!-- Arriba derecha -->
-<rect x="500" y="0" width="300" height="300" fill="#7CFF7C" opacity="0.25"/>
+<rect x="500" y="0" width="300" height="300" fill="#7CFF7C" opacity="0.20"/>
 <!-- Abajo izquierda -->
 <rect x="200" y="300" width="300" height="300" fill="#ff4d4d" opacity="0.05"/>
 <!-- Abajo derecha -->
@@ -158,7 +158,7 @@ El cuadrante de arriba a la izquierda es contraintuitivo, pero existe. Dile a tu
 <!-- Arriba izquierda -->
 <rect x="200" y="0" width="300" height="300" fill="#ff4d4d" opacity="0.05"/>
 <!-- Arriba derecha -->
-<rect x="500" y="0" width="300" height="300" fill="#7CFF7C" opacity="0.25"/>
+<rect x="500" y="0" width="300" height="300" fill="#7CFF7C" opacity="0.20"/>
 <!-- Abajo izquierda -->
 <rect x="200" y="300" width="300" height="300" fill="#ff4d4d" opacity="0.05"/>
 <!-- Abajo derecha -->
