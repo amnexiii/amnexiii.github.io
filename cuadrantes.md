@@ -2,7 +2,7 @@
 
 ## Ámbito Vs. Concreción
 
-<svg viewBox="-150 0 820 700"
+<svg viewBox="-200 0 820 700"
      width="400"
      height="400"
      xmlns="http://www.w3.org/2000/svg"
@@ -38,34 +38,34 @@
   <!-- ===== CUADRANTES ===== -->
 
   <!-- Arriba izquierda -->
-  <text x="200" y="220" font-size="30" text-anchor="middle" fill="#1f4fd8">
+  <text x="200" y="220" font-size="30" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
     Concreto
   </text>
-  <text x="200" y="255" font-size="30" text-anchor="middle" fill="orange">
+  <text x="200" y="255" font-size="30" font-weight="bold" text-anchor="middle" fill="orange">
     Acotado
   </text>
 
   <!-- Arriba derecha -->
-  <text x="500" y="220" font-size="30" text-anchor="middle" fill="#1f4fd8">
+  <text x="500" y="220" font-size="30" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
     Concreto
   </text>
-  <text x="500" y="255" font-size="30" text-anchor="middle" fill="orange">
+  <text x="500" y="255" font-size="30" font-weight="bold" text-anchor="middle" fill="orange">
     General
   </text>
 
   <!-- Abajo izquierda -->
-  <text x="200" y="505" font-size="30" text-anchor="middle" fill="#1f4fd8">
+  <text x="200" y="505" font-size="30" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
     Abstracto
   </text>
-  <text x="200" y="540" font-size="30" text-anchor="middle" fill="orange">
+  <text x="200" y="540" font-size="30" font-weight="bold" text-anchor="middle" fill="orange">
     Acotado
   </text>
 
   <!-- Abajo derecha -->
-  <text x="500" y="505" font-size="30" text-anchor="middle" fill="#1f4fd8">
+  <text x="500" y="505" font-size="30" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
     Abstracto
   </text>
-  <text x="500" y="540" font-size="30" text-anchor="middle" fill="orange">
+  <text x="500" y="540" font-size="30" font-weight="bold" text-anchor="middle" fill="orange">
     General
   </text>
 
