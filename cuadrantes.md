@@ -1,10 +1,9 @@
 # Cuadrantes
 
-## Ámbito Vs. Concreción
+## Delimitación Vs. Concreción
 
 El cuadrante de arriba a la izquierda es contraintuitivo, pero existe. <br>
 Dile a tu jefe que concrete esa ambición generalista que tiene de cuadrante malo (inferior izquierda), que pa eso le pagan... 😈
-
 <svg viewBox="-150 50 900 700"
      width="400"
      height="400"
@@ -35,7 +34,7 @@ Dile a tu jefe que concrete esa ambición generalista que tiene de cuadrante mal
         fill="orange"
         font-weight="bold"
         text-anchor="middle">
-    Ámbito
+    Delimitación
   </text>
 
   <!-- ===== CUADRANTES ===== -->
