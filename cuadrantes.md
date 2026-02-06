@@ -2,7 +2,7 @@
 
 ## Ámbito Vs. Concreción
 
-<svg viewBox="-120 0 820 700"
+<svg viewBox="-150 0 820 700"
      width="400"
      height="400"
      xmlns="http://www.w3.org/2000/svg"
