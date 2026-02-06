@@ -173,7 +173,7 @@ El cuadrante de arriba a la izquierda es contraintuitivo, pero existe. Dile a tu
 
 Un proceso son entradas, pasos y salidas. Algunos procesos están orientados a máquinas, a código. Otros, los "procesos para humanos", están orientados a que los lean personas... o agentes de IA.
 
-**Definir un proceso para humanos no implica matar la flexibilidad.** Eso sólo ocurre si defines cada minúsculo detalle, si cubres todas las infinitas posibilidades. Pero eso no es un proceso; es o bien código, o bien un flujograma infumable que nadie va a leer. En el segundo caso, si es correcto, ¿a qué esperas a meterlo en algún software de workflows para que lo ejecute una máquina? Eso no se lo va a leer ni el tato 😎
+**Definir un proceso para humanos no implica matar la flexibilidad.** Eso sólo ocurre si defines cada minúsculo detalle, si cubres todas las infinitas posibilidades. Pero eso no es un proceso; es o bien código, o bien un flujograma infumable que nadie va a leer. En el segundo caso, si es correcto, ¿a qué esperas para meterlo en algún software de workflows para que lo ejecute una máquina? Eso no se lo va a leer ni el tato 😎
 
 Si lo haces a un nivel de abstracción adecuado, evitarás el caos. Si defines el "qué", dejando al mismo tiempo la flexibilidad de ejecutar cada paso de diferentes maneras —el "cómo"—, estarás en el cuadrante bueno 😉. Para ello, te puede ayudar aplicar el principio declarativo de desarrollo de código a procesos para humanos 👌... Es material buenísimo para un paper, ahí te lo dejo pa que brilles tú.
 
