@@ -3,8 +3,8 @@
 ## Amplitud Vs. Definición
 
 <svg viewBox="0 0 700 700"
-     width="200"
-     height="200"
+     width="400"
+     height="400"
      xmlns="http://www.w3.org/2000/svg"
      style="font-family:Arial,sans-serif">
 
