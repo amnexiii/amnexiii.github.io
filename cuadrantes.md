@@ -53,7 +53,7 @@ El "cuadrante bueno"" es siempre arriba a la derecha. Porque yo lo valgo 😊.
     Concreto
   </text>
   <text x="650" y="205" font-size="34" font-weight="bold" text-anchor="middle" fill="orange">
-    Acotado
+    Delimitado
   </text>
 
   <!-- Abajo izquierda -->
@@ -69,7 +69,7 @@ El "cuadrante bueno"" es siempre arriba a la derecha. Porque yo lo valgo 😊.
     Abstracto
   </text>
   <text x="650" y="490" font-size="34" font-weight="bold" text-anchor="middle" fill="orange">
-    Acotado
+    Delimitado
   </text>
 
 </svg>
