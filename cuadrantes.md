@@ -1,6 +1,5 @@
 # Cuadrantes
 
-El "cuadrante bueno" es siempre arriba a la derecha. Porque yo lo valgo 😊.
 
 ## Delimitación Vs. Concreción
 
@@ -75,9 +74,9 @@ El "cuadrante bueno" es siempre arriba a la derecha. Porque yo lo valgo 😊.
 <!-- ===== FONDOS CUADRANTES ===== -->
 
 <!-- Arriba izquierda -->
-<rect x="200" y="0" width="300" height="300" fill="#66ff66" opacity="0.2"/>
+<rect x="200" y="0" width="300" height="300" fill="#ff4d4d" opacity="0.2"/>
 <!-- Arriba derecha -->
-<rect x="500" y="0" width="300" height="300" fill="#39ff14" opacity="0.2"/>
+<rect x="500" y="0" width="300" height="300" fill="#7CFF7C" opacity="0.5"/>
 <!-- Abajo izquierda -->
 <rect x="200" y="300" width="300" height="300" fill="#7CFF7C" opacity="0.2"/>
 <!-- Abajo derecha -->
@@ -88,9 +87,10 @@ El "cuadrante bueno" es siempre arriba a la derecha. Porque yo lo valgo 😊.
 
 </svg>
 
+¡Hay que ser concretos en la vida! (vaaaale, salvo para el arte). <br>
 El cuadrante de arriba a la izquierda es contraintuitivo, pero existe. <br>
-Dile a tu jefe que lo use: que concrete esa ambición generalista de cuadrante malo (inferior izquierda) con la que te da la turra. Que pa eso le pagan... 😈😇 <br>
-A ti te toca empezar ahí y aterrizarlo hacia la derecha 😉
+Dile a tu jefe que lo use: que concrete esa ambición abstracta con la que te da tanto la turra. ¡Que pa eso le pagan! 😈😇 <br>
+Si lo consigues, te toca empezar ahí y aterrizarlo hacia la derecha... ¡suerte! 😉
 
 
 ## Estandarización Vs. Flexibilidad
