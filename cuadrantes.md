@@ -6,7 +6,7 @@ El cuadrante de arriba a la derecha es contraintuitivo, pero existe.
 
 Dile a tu jefe que concrete esa ambición generalista que tiene, que pa eso le pagan...
 
-<svg viewBox="-200 0 1000 700"
+<svg viewBox="-200 0 900 700"
      width="400"
      height="400"
      xmlns="http://www.w3.org/2000/svg"
