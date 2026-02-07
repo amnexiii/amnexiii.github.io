@@ -84,6 +84,15 @@
 
 El cuadrante de arriba a la izquierda es contraintuitivo, pero existe. Dile a tu jefe que lo use: que concrete esa ambición abstracta con la que te da tanto la turra. ¡Que pa eso le pagan! 😈😇 Si lo consigues, te toca empezar ahí y aterrizarlo hacia la derecha... ¡suerte! 😉
 
+## Ejemplo
+
+| Concreción ↓ / Delimitación → | General | Delimitado |
+|------------------------------|---------|------------|
+| **Concreto** | La IA generativa clasificará consultas, redactará respuestas y sugerirá soluciones técnicas. | La IA clasificará responderá tickets de primer nivel en el software X, en español e inglés, con referencias exclusivamente a la base de conocimiento interna y con validación humana obligatoria antes del envío. |
+| **Abstracto** | La empresa quiere usar IA generativa para mejorar la eficiencia operativa. | La empresa usará IA generativa únicamente para el soporte técnico de su producto principal. |
+
+
+
 <br>
 
 ___
