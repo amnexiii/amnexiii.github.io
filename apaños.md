@@ -1,6 +1,8 @@
 # Apaños
 
-![](apaños puerta 20260207_161005.jpg)
+![](apaños_puerta.jpg)
+
+<img src="apaños_puerta.jpg" width="300">
 
 <br>
 
