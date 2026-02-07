@@ -76,15 +76,15 @@
 - (2) Te lo ha mandado tu jefe "porque él sabe". Si realmente sabe, ¿qué pasará con ese conocimineto cuando se jubile o cuando le pille un tractor? Y si te ha mandado una soplapollez, ¿será porque no conoce [la mítica frase de "Esteban Curritos"](https://www.reddit.com/r/quotes/comments/1no01a4/it_doesnt_make_sense_to_hire_smart_people_and/?tl=es-419)? 😋
 - (3) **¡Un proceso para humanos bien definido y al mismo tiempo flexible, felicidades!**
 
-<mark>Trabajo en curso</mark>
-
 ## ¿Cómo estandarizar?
 
-Los cuadrantes de la derecha requieren más explicación. Ahí va.
+Los cuadrantes de la derecha requieren más explicación.
 
 La única manera de **estandarizar** es **definir procesos**. Un proceso son **entradas, pasos y salidas**. Diferenciemos **dos tipos de procesos**, según quién los consume:
 - **Procesos consumidos por máquinas**. Cuadrante de abajo a la derecha. O bien están implementados en código, o bien son flujogramas en un software de workflows que ejecuta automatismos. Definir bien el proceso aquí es el reto de toda la vida; si no entiendes los pasos correctos, no serás capaz de establecer los requisitos funcionales que después los desarrolladores van a implementar. Ya hay muchísima literatura y marcos de trabajo al respecto (Agile/Scrum/Kanban, DevOps, XP, BPMN, Lean, CMMI, etc etc etc...); no puedo aportar nada nuevo.
 - **Procesos consumidos por humanos**. Cuadrante de arriba a la derecha. Aquí es donde veo el mayor reto, y <span style="color:coral">veo mucho espacio de mejora</span>; o al menos, no soy capaz de encontrar papers sobre lo que tengo en la cabeza. Lo desarrollo en el siguiente apartado.
+
+<mark>Trabajo en curso a partitr de aquí...</mark>
 
 ## Procesos consumidos por humanos
 
