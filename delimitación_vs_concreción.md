@@ -21,7 +21,7 @@
         fill="#1f4fd8"
         font-weight="bold"
         dominant-baseline="middle">
-    Concreción (Detalle)
+    Concreción
   </text>
 
   <!-- Etiqueta eje X -->
