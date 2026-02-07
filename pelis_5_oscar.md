@@ -8,7 +8,6 @@ _Todas_ las premiadas de la historia son muchas, pero las que tienen 5 o más pr
 
 [https://ampasstorage.blob.core.windows.net/ampassearch/Gen-Films5awards.pdf](https://ampasstorage.blob.core.windows.net/ampassearch/Gen-Films5awards.pdf)
 
-De nada ☺️.
 
 <br>
 
