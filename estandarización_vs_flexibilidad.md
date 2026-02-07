@@ -92,10 +92,11 @@ La única manera de **estandarizar** es **definir procesos**. Un proceso son **e
 
 Si defines el proceso a un nivel de abstracción adecuado, evitarás el caos. Si defines el "qué", dejando al mismo tiempo la flexibilidad de ejecutar cada paso de diferentes maneras —el "cómo"—, estarás en el cuadrante bueno 😉. Para ello, te puede ayudar aplicar el principio declarativo de desarrollo de código a procesos para humanos/agentes 👌... 
 
-## El papel de la IA agéntica
+## El papel de la IA generativa y agéntica
 
-**Cómo encaja la IA agéntica en todo esto?**
-Desde 2023, la IA agéntica juega un interesante papel que oscila entre ambos cuadrantes. Una gaente de IA, siendo muy ambicioso, asume el rol de "humano", y por tanto puede leer Hay casos de uso con "mucho código y algo de agéntica para 
+**¿Cómo encaja la IA generativa y agéntica en todo esto?**
+
+Desde 2023, la IA agéntica juega un interesante papel que oscila entre todos los cuadrantes. Una agente de IA,  asume el rol de "humano", y por tanto puede leer Hay casos de uso con "mucho código y algo de agéntica para 
 
 
 <br>
