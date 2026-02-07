@@ -1,6 +1,6 @@
 # Apaños
 
-![](apaños_puerta.jpg)
+En el baño de un bar: intimidad total 🤣
 
 <img src="apaños_puerta.jpg" width="300">
 
