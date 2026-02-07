@@ -21,7 +21,7 @@
         fill="#1f4fd8"
         font-weight="bold"
         dominant-baseline="middle">
-    Concreción <br> (Detalle)
+    Concreción (Detalle)
   </text>
 
   <!-- Etiqueta eje X -->
@@ -30,7 +30,7 @@
         fill="orange"
         font-weight="bold"
         text-anchor="middle">
-    Delimitación <br> (Ámbito)
+    Delimitación (Ámbito)
   </text>
 
   <!-- ===== CUADRANTES ===== -->
