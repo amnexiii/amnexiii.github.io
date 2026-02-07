@@ -76,6 +76,8 @@
 - (2) Te lo ha mandado tu jefe "porque él sabe". Si realmente sabe, ¿qué pasará con ese conocimineto cuando se jubile o cuando le pille un tractor? Y si te ha mandado una soplapollez, ¿será porque no conoce [la mítica frase de "Esteban Curritos"](https://www.reddit.com/r/quotes/comments/1no01a4/it_doesnt_make_sense_to_hire_smart_people_and/?tl=es-419)? 😋
 - (3) **¡Un proceso para humanos bien definido y al mismo tiempo flexible, felicidades!**
 
+<mark>Trabajo en curso</mark>
+
 Los cuadrantes de la derecha requieren más explicación. Ahí va.
 
 La manera de **estandarizar** (nuestro eje X a la derecha) es **definir procesos**. Un proceso son entradas, pasos y salidas. Yo distingo dos grandes tipos de procesos
