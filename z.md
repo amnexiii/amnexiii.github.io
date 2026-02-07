@@ -2,7 +2,7 @@
 
 https://amnexiii.github.io/z.html
 
-https://amnexiii.github.io/cuadrantes.html
+  - [Estandarización Vs. Flexibilidad](https://amnexiii.github.io/estandarización_vs_flexibilidad.html)
 
 
 

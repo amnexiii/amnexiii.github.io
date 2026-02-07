@@ -8,7 +8,6 @@
   - [No Hello](https://amnexiii.github.io/no_hello.html)
 - **Procesos** 🤖 
   - [Delimitación Vs. Concreción](https://amnexiii.github.io/delimitación_vs_concreción.html)
-  - [Estandarización Vs. Flexibilidad](https://amnexiii.github.io/estandarización_vs_flexibilidad.html)
 - **Excelman** 💾 (a.k.a. "el listas") 
   - [Abathor: fases y trucos](https://amnexiii.github.io/abathor.html)
   - [D&D spells](https://amnexiii.github.io/d&d_spells.html)
