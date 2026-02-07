@@ -78,10 +78,10 @@
 
 Los cuadrantes de la derecha requieren más explicación. Ahí va.
 
-La manera de **estandarizar** (nuestro eje X a la derecha) es **definir procesos**. Un proceso son entradas, pasos y salidas (no olvides de definir responsables de todos ello; si no, cuando necesites cambiar el proceso, tendrás un problema).
-- Cuadrante de Algunos procesos están orientados a máquinas: o bien están representados en código, o bien lo están en un software de workflows que ejecuta automatismos.
+La manera de **estandarizar** (nuestro eje X a la derecha) es **definir procesos**. Un proceso son entradas, pasos y salidas. Yo distingo dos grandes tipos de procesos
+- Cuadrante de abajo a la derecha: algunos procesos están orientados a ser consumidos por máquinas: o bien están representados en código, o bien lo están en un software de workflows que ejecuta automatismos.
 - Otros procesos están orientados a que los lean humanos.
-Nota: desde 2023, la IA agéntica
+Nota: desde 2023, la IA agéntica juega un interesante papel entre estos
 
 **Definir un proceso para humanos/agentes no implica matar la flexibilidad.** Eso sólo ocurre si defines cada minúsculo detalle, si cubres todas las infinitas posibilidades. Pero eso no es un proceso; es o bien código, o bien un flujograma infumable. En el segundo caso, suponiendo que sea correcto y que sea automatizable, ¿a qué esperas para meterlo en algún software de workflows para que lo ejecute una máquina? Y si no es automatizable, más vale que lo sustituyas por un proceso declarativoa a más alto nivel, porque lo que tienes ahora no se lo va a leer ni el tato... 😎
 
