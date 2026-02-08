@@ -70,7 +70,7 @@
     Detallado
   </text>
   <text x="350" y="205" font-size="34" text-anchor="middle" fill="orange">
-    Ámbito delimitado
+    Ámbito abierto
   </text>
 
   <!-- Arriba derecha -->
@@ -81,7 +81,7 @@
     Detallado
   </text>
   <text x="650" y="205" font-size="34" text-anchor="middle" fill="orange">
-    Delimitado)
+    Ámbito delimitado)
   </text>
 
   <!-- Abajo izquierda -->
@@ -100,7 +100,7 @@
     Superficial
   </text>
   <text x="650" y="490" font-size="34" text-anchor="middle" fill="orange">
-    Delimitado
+    Ámbito delimitado
   </text>
 
   <!-- ===== FONDOS CUADRANTES ===== -->
