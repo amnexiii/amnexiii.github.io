@@ -1,6 +1,6 @@
 # ¡Hola!
 
-Todos moriremos. ¿No es muy triste que tus pensamientos se borren cuando palmes? Y los míos 😅... Escribamos, pues. Como no tenemos una [mente colmena](https://web.archive.org/web/20250908071806/https://enderverse.fandom.com/wiki/Formics) que actúe como almacenamiento compartido, emulemos el concepto con internet. He aquí mi granito de arena: esta web.
+Todos moriremos. ¿No es muy triste que tus pensamientos se borren cuando palmes? Y los míos 😅... Escribamos, pues. Como no tenemos una [mente colmena](https://web.archive.org/web/20250908071806/https://enderverse.fandom.com/wiki/Formics) que actúe como almacenamiento compartido, emulemos el concepto con internet. He aquí mi granito de arena.
 
 Pero hay un problema más gordo: aunque escribamos como locos, ¿perdurará nuestro conocimiento colectivo _para siempre_? Por ejemplo, nadie garantiza que GitHub Pages, que sustenta este contenido, siga funcionando después de que yo "cierre sesión". ¿Qué partes de internet tendrán más longevidad? Tienen papeletas [https://web.archive.org](https://web.archive.org) y [https://archive.today](https://archive.today), porque su propósito es perdurar. Esas webs guardan automáticamente muchas otras importantes..., pero en las cutres, el Diógenes digital nos toca defenderlo a mano 🥲. Si archivamos ahí morralla, como ésta, no garantizaremos su eternidad, pero alargaremos notablemente su "vida" tras la nuestra.
 
