@@ -18,7 +18,7 @@
   <!--<line x1="200" y1="300" x2="800" y2="300" stroke="#000" stroke-width="2"/>
 
   <!-- Diagonal de concretar -->
-
+  <line x1="500" y1="0" x2="500" y2="600" stroke="#000" stroke-width="2"/>
 
   <!-- ===== ETIQUETAS EJES ===== -->
 
@@ -28,7 +28,7 @@
         fill="#1f4fd8"
         font-weight="bold"
         dominant-baseline="middle">
-    Concreción
+    Detallar
   </text>
 
   <!-- Etiqueta eje X -->
@@ -37,7 +37,7 @@
         fill="orange"
         font-weight="bold"
         text-anchor="middle">
-    Delimitar (Ámbito)
+    Delimitar
   </text>
 
   <!-- ===== CUADRANTES ===== -->
@@ -47,7 +47,7 @@
     Detallado
   </text>
   <text x="350" y="205" font-size="34" text-anchor="middle" fill="orange">
-    General
+    Ámbito abierto
   </text>
 
   <!-- Arriba derecha -->
@@ -66,7 +66,7 @@
     Abstracto
   </text>
   <text x="350" y="490" font-size="34" text-anchor="middle" fill="orange">
-    General
+    Ámbito delimitado
   </text>
 
   <!-- Abajo derecha -->
@@ -96,7 +96,7 @@ El cuadrante de arriba a la izquierda es contraintuitivo, pero existe. Dile a tu
 
 ## Ejemplo
 
-| Detalle ↓ / Delimitación → | Abierto | Delimitado |
+| Detallar ↓ / Delimitar → | Ámbito abierto | Ámbito delimitado |
 |-|-|-|
 | **Detallado** | La IA generativa clasificará consultas, redactará respuestas y sugerirá soluciones técnicas. | La IA clasificará responderá tickets de primer nivel en el software X, para el producto Y, en español e inglés, con referencias exclusivamente a la base de conocimiento interna y con validación humana obligatoria antes del envío. |
 | **Genérico** | La empresa quiere usar IA generativa para mejorar la eficiencia operativa. | La empresa usará IA generativa para el soporte técnico de su producto principal. |
