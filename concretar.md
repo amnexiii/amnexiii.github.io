@@ -27,11 +27,11 @@
             markerWidth="6"
             markerHeight="6"
             orient="auto">
-      <path d="M 0 0 L 10 5 L 0 10 z" fill="#ea00ff"/>
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#8400ff"/>
     </marker>
   </defs>
 
-  <line x1="250" y1="550" x2="750" y2="50" stroke="#ea00ff" stroke-width="4" opacity="0.4" marker-end="url(#arrow)"/>
+  <line x1="250" y1="550" x2="750" y2="50" stroke="#8400ff" stroke-width="4" opacity="0.4" marker-end="url(#arrow)"/>
 
   <!-- ===== TEXTO EJES Y DIAGONAL ===== -->
 
