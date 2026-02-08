@@ -7,6 +7,7 @@
   - [Malditos adjuntos...](https://amnexiii.github.io/malditos_adjuntos.html)
   - [No Hello](https://amnexiii.github.io/no_hello.html)
 - **Modelos mentales** 🧠 
+  - [Lista de modelos mentales](https://amnexiii.github.io/concretar.html) (estos son de terceros; los siguientes son míos)
   - [Concretar = delimitar + detallar](https://amnexiii.github.io/concretar.html)  
 - **Excelman** 💾 (a.k.a. "el listas") 
   - [Abathor: fases y trucos](https://amnexiii.github.io/abathor.html)

@@ -8,11 +8,16 @@ Ahí te va una lista de modelos mentales que no son míos (los míos propios son
 
 ## Mis favoritos
 
-- [Principio de Paretoo](https://es.wikipedia.org/wiki/Principio_de_Pareto)
+- [Principio de Pareto](https://es.wikipedia.org/wiki/Principio_de_Pareto)
 
 
 
 ## Más
+
+- [Cuatro etapas de la competencia](https://es.wikipedia.org/wiki/Cuatro_etapas_de_la_competencia)
+- Lean Manufacturing de Toyota Production System (TPS):
+  - [Método 5S](https://blog.toyota-forklifts.es/el-verdadero-valor-5s)
+
 
 <br>
 
