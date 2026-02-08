@@ -31,7 +31,7 @@
     </marker>
   </defs>
 
-  <line x1="250" y1="550" x2="750" y2="50" stroke="#ea00ff" stroke-width="2" opacity="0.5" marker-end="url(#arrow)"/>
+  <line x1="250" y1="550" x2="750" y2="50" stroke="#ea00ff" stroke-width="3" opacity="0.5" marker-end="url(#arrow)"/>
 
   <!-- ===== TEXTO EJES Y DIAGONAL ===== -->
 
