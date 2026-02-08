@@ -9,7 +9,7 @@ Soy consciente de que algunas entradas no son exactamente "modelos" y se acercan
 ## Mis favoritos
 
 - [Auctoritas ✅](https://es.wikipedia.org/wiki/Auctoritas) VS. [Potestas ❌](https://es.wikipedia.org/wiki/Potestas)
-- [Efecto cobra](https://es.wikipedia.org/wiki/Efecto_cobra) y [Teoría del segundo mejor](https://es.wikipedia.org/wiki/Teor%C3%ADa_del_segundo_mejor)
+- [Decisiones tipo 1 y tipo 2](https://www.aprendizajeinfinito.com/p/lecciones-amazon) y [Regla 10-10-10](https://lamenteesmaravillosa.com/la-tecnica-del-10-10-10-para-tomar-decisiones/)- [Efecto cobra](https://es.wikipedia.org/wiki/Efecto_cobra) y [Teoría del segundo mejor](https://es.wikipedia.org/wiki/Teor%C3%ADa_del_segundo_mejor)
 - [Efecto Pigmalión positivo o efecto Rosenthal ✅](https://es.wikipedia.org/wiki/Efecto_Pigmalion) y [Profecía autocumplida ✅](https://es.wikipedia.org/wiki/Profec%C3%ADa_autocumplida)
  VS. [Efecto Pigmalión negativo o efecto Golem ❌](https://es.wikipedia.org/wiki/Efecto_Golem)
 - [Falacia del Concorde o falacia del coste hundido](https://es.wikipedia.org/wiki/Falacia_del_coste_hundido)
@@ -53,7 +53,6 @@ Soy consciente de que algunas entradas no son exactamente "modelos" y se acercan
 - [Paradoja de Jevons](https://es.wikipedia.org/wiki/Paradoja_de_Jevons)
 - [Problema del polizón](https://es.wikipedia.org/wiki/Problema_del_poliz%C3%B3n)
 - [Reflexividad](https://es.wikipedia.org/wiki/Reflexividad_(teor%C3%ADa_social))
-- [Regla 10-10-10](https://lamenteesmaravillosa.com/la-tecnica-del-10-10-10-para-tomar-decisiones/) y [Decisiones tipo 1 y tipo 2 de Jeff Bezos](https://www.aprendizajeinfinito.com/p/lecciones-amazon)
 - [Sesgo cognitivo](https://es.wikipedia.org/wiki/Sesgo_cognitivo)
 - [Sesgo de disponibilidad](https://es.wikipedia.org/wiki/Heur%C3%ADstica_de_disponibilidad)
 - [Síndrome de Estocolmo](https://es.wikipedia.org/wiki/S%C3%ADndrome_de_Estocolmo)
