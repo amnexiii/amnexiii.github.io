@@ -63,7 +63,7 @@
 
   <!-- Abajo izquierda -->
   <text x="350" y="455" font-size="34" text-anchor="middle" fill="#1f4fd8">
-    Abstracto
+    Superficial
   </text>
   <text x="350" y="490" font-size="34" text-anchor="middle" fill="orange">
     Ámbito delimitado
@@ -71,7 +71,7 @@
 
   <!-- Abajo derecha -->
   <text x="650" y="455" font-size="34" text-anchor="middle" fill="#1f4fd8">
-    Abstracto
+    Superficial
   </text>
   <text x="650" y="490" font-size="34" text-anchor="middle" fill="orange">
     Delimitado
@@ -80,19 +80,19 @@
   <!-- ===== FONDOS CUADRANTES ===== -->
 
   <!-- Arriba izquierda -->
-  <rect x="200" y="0" width="300" height="300" fill="#39ff14" opacity="0.03"/>
+  <rect x="200" y="0" width="300" height="300" fill="#39ff14" opacity="0.05"/>
   <!-- Arriba derecha -->
   <rect x="500" y="0" width="300" height="300" fill="#7CFF7C" opacity="0.20"/>
   <!-- Abajo izquierda -->
   <rect x="200" y="300" width="300" height="300" fill="#ff4d4d" opacity="0.05"/>
   <!-- Abajo derecha -->
-  <rect x="500" y="300" width="300" height="300" fill="#ff4d4d" opacity="0.05"/>
+  <rect x="500" y="300" width="300" height="300" fill="#39ff14" opacity="0.05"/>
 
 </svg>
 
 ¡Hay que ser concretos en la vida! (vaaaale, salvo para el arte).
 
-El cuadrante de arriba a la izquierda es contraintuitivo, pero existe. Dile a tu jefe que lo use: que concrete esa ambición abstracta con la que te da tanto la turra. ¡Que pa eso le pagan! 😈😇 Si lo consigues, te toca empezar ahí y aterrizarlo hacia la derecha... ¡suerte! 😉
+Dile a tu jefe que concrete algo esa ambición abstracta del cuadrante rojo con la que te da tanto la turra. ¡Que lo detalle o lo delimite un poco, que pa eso le pagan! 😈😇 Cuando lo consigas, te toca empezar ahí y llevarlo al cuadrante bueno... ¡suerte! 😉
 
 ## Ejemplo
 
