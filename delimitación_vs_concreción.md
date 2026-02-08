@@ -81,7 +81,7 @@
     Detallado
   </text>
   <text x="650" y="205" font-size="34" text-anchor="middle" fill="orange">
-    Ámbito delimitado)
+    Ámbito delimitado
   </text>
 
   <!-- Abajo izquierda -->
