@@ -22,7 +22,7 @@ Soy consciente de que algunas entradas no son exactamente "modelos" y se acercan
 - [Pirámide de Maslow](https://es.wikipedia.org/wiki/Pir%C3%A1mide_de_Maslow)
 - [Principio de Pareto](https://es.wikipedia.org/wiki/Principio_de_Pareto)
 - [Principio de Peter](https://es.wikipedia.org/wiki/Principio_de_Peter) y [Principio de Dilbert](https://es.wikipedia.org/wiki/Principio_de_Dilbert)
-- [Síndrome del impostor](https://es.wikipedia.org/wiki/S%C3%ADndrome_del_impostor)
+- [Síndrome del impostor ✅](https://es.wikipedia.org/wiki/S%C3%ADndrome_del_impostor) VS. [Efecto Dunning-Kruger ❌](https://es.wikipedia.org/wiki/Efecto_Dunning-Kruger)
 - [Técnica de Feynman](https://www.educalive.com/blog/tecnica-feynman-metodo-para-estudiar-mejor)
 
 ## Más
@@ -38,7 +38,6 @@ Soy consciente de que algunas entradas no son exactamente "modelos" y se acercan
 - [Dilema del prisionero](https://es.wikipedia.org/wiki/Dilema_del_prisionero)
 - [Disonancia cognitiva](https://es.wikipedia.org/wiki/Disonancia_cognitiva)
 - [Efecto Bannister](https://www.juancarloslopezpsicologo.com/2017/08/el-efecto-bannister.html)
-- [Efecto Dunning-Kruger](https://es.wikipedia.org/wiki/Efecto_Dunning-Kruger)
 - [Efecto espectador](https://es.wikipedia.org/wiki/Efecto_espectador)
 - [Efecto Mateo](https://es.wikipedia.org/wiki/Efecto_Mateo) y [Ley de Stigler](https://es.wikipedia.org/wiki/Ley_de_Stigler)
 - [Escucha activa](https://es.wikipedia.org/wiki/Escucha_activa)
