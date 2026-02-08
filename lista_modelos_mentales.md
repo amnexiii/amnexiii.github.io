@@ -9,23 +9,23 @@ Soy consciente de que algunas entradas no son exactamente "modelos" y se acercan
 ## Mis favoritos
 
 - [Auctoritas ✅](https://es.wikipedia.org/wiki/Auctoritas) VS. [Potestas ❌](https://es.wikipedia.org/wiki/Potestas)<span style="color:grey">: "Potestas sine auctoritate"</span>
-- [Decisiones tipo 1 y tipo 2](https://www.aprendizajeinfinito.com/p/lecciones-amazon) y [Regla 10-10-10](https://lamenteesmaravillosa.com/la-tecnica-del-10-10-10-para-tomar-decisiones/)
-- [Difusión de la responsabilidad](https://es.wikipedia.org/wiki/Difusi%C3%B3n_de_la_responsabilida) o [Efecto espectador](https://es.wikipedia.org/wiki/Efecto_espectador)
-- [Efecto cobra](https://es.wikipedia.org/wiki/Efecto_cobra) y [Teoría del segundo mejor](https://es.wikipedia.org/wiki/Teor%C3%ADa_del_segundo_mejor)
+- [Decisiones tipo 1 y tipo 2 ✅](https://www.aprendizajeinfinito.com/p/lecciones-amazon) y [Regla 10-10-10 ✅](https://lamenteesmaravillosa.com/la-tecnica-del-10-10-10-para-tomar-decisiones/)
+- [Difusión de la responsabilidad ❌](https://es.wikipedia.org/wiki/Difusi%C3%B3n_de_la_responsabilida) o [Efecto espectador ❌](https://es.wikipedia.org/wiki/Efecto_espectador)
+- [Efecto cobra ❌](https://es.wikipedia.org/wiki/Efecto_cobra)
 - [Efecto Pigmalión positivo o efecto Rosenthal ✅](https://es.wikipedia.org/wiki/Efecto_Pigmalion) y [Profecía autocumplida ✅](https://es.wikipedia.org/wiki/Profec%C3%ADa_autocumplida)
  VS. [Efecto Pigmalión negativo o efecto Golem ❌](https://es.wikipedia.org/wiki/Efecto_Golem)
-- [Falacia del Concorde o falacia del coste hundido](https://es.wikipedia.org/wiki/Falacia_del_coste_hundido)
-- [Garbage in, garbage out (GIGO)](https://es.wikipedia.org/wiki/Garbage_in,_garbage_out)
+- [Falacia del Concorde o falacia del coste hundido ❌](https://es.wikipedia.org/wiki/Falacia_del_coste_hundido)
+- [Garbage in, garbage out (GIGO) ❌](https://es.wikipedia.org/wiki/Garbage_in,_garbage_out)
 - [Método científico ✅](https://es.wikipedia.org/wiki/M%C3%A9todo_cient%C3%ADfico), [Falsacionismo ✅](https://es.wikipedia.org/wiki/Falsacionismo) y [Primer principio ✅](https://en.wikipedia.org/wiki/First_principles) VS. [Cámara de eco ❌](https://es.wikipedia.org/wiki/C%C3%A1mara_de_eco_(medios))
-- [Navaja de Alder](https://en.wikipedia.org/wiki/Newton%27s_flaming_laser_sword) y [Navaja de Hitchens](https://es.wikipedia.org/wiki/Navaja_de_Hitchens)
-- [Parálisis por análisis](https://es.wikipedia.org/wiki/Par%C3%A1lisis_del_an%C3%A1lisis) o [FOBO](https://dariusforoux.com/fear-of-better-options/)
-- [Pink: Autonomy, Mastery and Purpose Framework](https://www.bitesizelearning.co.uk/resources/autonomy-mastery-purpose-motivation-pink)
-- [Pirámide de Maslow](https://es.wikipedia.org/wiki/Pir%C3%A1mide_de_Maslow)
-- [Principio de Pareto](https://es.wikipedia.org/wiki/Principio_de_Pareto)
-- [Principio de Peter](https://es.wikipedia.org/wiki/Principio_de_Peter) y [Principio de Dilbert](https://es.wikipedia.org/wiki/Principio_de_Dilbert)
-- [Síndrome de Procusto](https://orientak.com/blog/que-es-el-sindrome-de-procusto)
+- [Navaja de Alder ✅](https://en.wikipedia.org/wiki/Newton%27s_flaming_laser_sword) y [Navaja de Hitchens ✅](https://es.wikipedia.org/wiki/Navaja_de_Hitchens)
+- [Parálisis por análisis ❌](https://es.wikipedia.org/wiki/Par%C3%A1lisis_del_an%C3%A1lisis) o [FOBO ❌](https://dariusforoux.com/fear-of-better-options/)
+- [Pink: Autonomy, Mastery and Purpose Framework ✅](https://www.bitesizelearning.co.uk/resources/autonomy-mastery-purpose-motivation-pink)
+- [Pirámide de Maslow ✅](https://es.wikipedia.org/wiki/Pir%C3%A1mide_de_Maslow)
+- [Principio de Pareto ✅](https://es.wikipedia.org/wiki/Principio_de_Pareto)
+- [Principio de Peter 😂](https://es.wikipedia.org/wiki/Principio_de_Peter) y [Principio de Dilbert 🤣](https://es.wikipedia.org/wiki/Principio_de_Dilbert)
+- [Síndrome de Procusto ❌](https://orientak.com/blog/que-es-el-sindrome-de-procusto)
 - [Síndrome del impostor ✅](https://es.wikipedia.org/wiki/S%C3%ADndrome_del_impostor) VS. [Efecto Dunning-Kruger ❌](https://es.wikipedia.org/wiki/Efecto_Dunning-Kruger)
-- [Técnica de Feynman](https://www.educalive.com/blog/tecnica-feynman-metodo-para-estudiar-mejor)
+- [Técnica de Feynman ✅](https://www.educalive.com/blog/tecnica-feynman-metodo-para-estudiar-mejor)
 
 ## Más
 
