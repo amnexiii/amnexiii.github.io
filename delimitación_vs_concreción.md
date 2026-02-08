@@ -54,7 +54,7 @@
   </text>
 
   <!-- Etiqueta diagonal-->
-  <text x="620" y="320"
+  <text x="520" y="320"
         font-size="22"
         fill="#ea00ff"
         font-weight="bold"
