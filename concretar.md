@@ -56,7 +56,7 @@
   <!-- Etiqueta diagonal-->
   <text x="515" y="320"
         font-size="22"
-        fill="#ea00ff"
+        fill="#8400ff"
         font-weight="bold"
         dominant-baseline="middle">
     Concretar
