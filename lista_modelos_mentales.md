@@ -6,18 +6,22 @@ No son la realidad, pero ayudan mucho a acercarnos a ella, y por ello son útile
 Soy consciente de que algunas entradas no son exactamente "modelos" y se acercan más a técnicas, métodos, marcos de trabajo (_frameworks_) o incluso metodologías... como las fronteras son difusas, no pienso clasificarlos. 😅 El fondo es el mismo: son herramientas para ordenar ideas y acercarnos a la realidad.
 
 
-## Mis favorito
+## Mis favoritos
 
-- [Efecto cobra](https://es.wikipedia.org/wiki/Efecto_cobra)
-- [Efecto Pigmalión positivo o efecto Rosenthal](https://es.wikipedia.org/wiki/Efecto_Pigmalion) / [Profecía autocumplida](https://es.wikipedia.org/wiki/Profec%C3%ADa_autocumplida)
- VS. [Efecto Pigmalión negativo o efecto Golem](https://es.wikipedia.org/wiki/Efecto_Golem)
+- [Auctoritas ✅](https://es.wikipedia.org/wiki/Auctoritas) VS. [Potestas ❌](https://es.wikipedia.org/wiki/Potestas)
+- [Efecto cobra](https://es.wikipedia.org/wiki/Efecto_cobra) y [Teoría del segundo mejor](https://es.wikipedia.org/wiki/Teor%C3%ADa_del_segundo_mejor)
+- [Efecto Pigmalión positivo o efecto Rosenthal ✅](https://es.wikipedia.org/wiki/Efecto_Pigmalion) y [Profecía autocumplida ✅](https://es.wikipedia.org/wiki/Profec%C3%ADa_autocumplida)
+ VS. [Efecto Pigmalión negativo o efecto Golem ❌](https://es.wikipedia.org/wiki/Efecto_Golem)
 - [Falacia del Concorde o falacia del coste hundido](https://es.wikipedia.org/wiki/Falacia_del_coste_hundido)
 - [Garbage in, garbage out (GIGO)](https://es.wikipedia.org/wiki/Garbage_in,_garbage_out)
-- [Método científico](https://es.wikipedia.org/wiki/M%C3%A9todo_cient%C3%ADfico) / [Falsacionismo](https://es.wikipedia.org/wiki/Falsacionismo) VS. [Cámara de eco](https://es.wikipedia.org/wiki/C%C3%A1mara_de_eco_(medios))
-- [Navaja de Alder](https://en.wikipedia.org/wiki/Newton%27s_flaming_laser_sword) / [Navaja de Hitchens](https://es.wikipedia.org/wiki/Navaja_de_Hitchens)
-- [Parálisis por análisis](https://es.wikipedia.org/wiki/Par%C3%A1lisis_del_an%C3%A1lisis) / [FOBO](https://dariusforoux.com/fear-of-better-options/)
+- [Método científico ✅](https://es.wikipedia.org/wiki/M%C3%A9todo_cient%C3%ADfico), [Falsacionismo ✅](https://es.wikipedia.org/wiki/Falsacionismo) y [Primer principio ✅](https://en.wikipedia.org/wiki/First_principles) VS. [Cámara de eco ❌](https://es.wikipedia.org/wiki/C%C3%A1mara_de_eco_(medios))
+- [Navaja de Alder](https://en.wikipedia.org/wiki/Newton%27s_flaming_laser_sword) y [Navaja de Hitchens](https://es.wikipedia.org/wiki/Navaja_de_Hitchens)
+- [Parálisis por análisis](https://es.wikipedia.org/wiki/Par%C3%A1lisis_del_an%C3%A1lisis) o [FOBO](https://dariusforoux.com/fear-of-better-options/)
+- [Pink: Autonomy, Mastery and Purpose Framework](https://www.bitesizelearning.co.uk/resources/autonomy-mastery-purpose-motivation-pink)
 - [Principio de Pareto](https://es.wikipedia.org/wiki/Principio_de_Pareto)
+- [Principio de Peter](https://es.wikipedia.org/wiki/Principio_de_Peter) y [Principio de Dilbert](https://es.wikipedia.org/wiki/Principio_de_Dilbert)
 - [Regla 10-10-10](https://lamenteesmaravillosa.com/la-tecnica-del-10-10-10-para-tomar-decisiones/)
+- [Síndrome del impostor](https://es.wikipedia.org/wiki/S%C3%ADndrome_del_impostor)
 - [Técnica de Feynman](https://www.educalive.com/blog/tecnica-feynman-metodo-para-estudiar-mejor)
 
 ## Más
@@ -48,33 +52,21 @@ Soy consciente de que algunas entradas no son exactamente "modelos" y se acercan
 - [Niksen](https://en.wikipedia.org/wiki/Niksen)
 - [Paradoja de Jevons](https://es.wikipedia.org/wiki/Paradoja_de_Jevons)
 - [Pirámide de Maslow](https://es.wikipedia.org/wiki/Pir%C3%A1mide_de_Maslow)
-- [Reflexividad](https://es.wikipedia.org/wiki/Reflexividad_(teor%C3%ADa_social))
-- [Toyota Production System (TPS) / Lean Manufacturing](https://es.wikipedia.org/wiki/Sistema_de_producci%C3%B3n_Toyota) <span style="color:grey">(Éste tiene muchos sub-métodos/procesos/principios: Kaizen, Genba / Genchi Genbutsu, Just-in-Time (JIT), Jidōka, 5S, Kanban, Muda/Mura/Muri), etc...  explóralo tú mismo.)</span>
-
-REVISANDO
-
-- [Teoría de la autodeterminación](https://es.wikipedia.org/wiki/Teor%C3%ADa_de_la_autodeterminaci%C3%B3n)
-- [Teoría del proceso dual](https://es.wikipedia.org/wiki/Teor%C3%ADa_del_proceso_dual)
-- [Auctoritas](https://es.wikipedia.org/wiki/Auctoritas)
-- [Principio de Dilbert](https://es.wikipedia.org/wiki/Principio_de_Dilbert)
-- [Falsacionismo](https://es.wikipedia.org/wiki/Falsacionismo)
-- [Principio de Pareto](https://es.wikipedia.org/wiki/Principio_de_Pareto)
-- [Principio de Peter](https://es.wikipedia.org/wiki/Principio_de_Peter)
 - [Problema del polizón](https://es.wikipedia.org/wiki/Problema_del_poliz%C3%B3n)
-- [Primer principio](https://en.wikipedia.org/wiki/First_principles)
+- [Reflexividad](https://es.wikipedia.org/wiki/Reflexividad_(teor%C3%ADa_social))
 - [Sesgo cognitivo](https://es.wikipedia.org/wiki/Sesgo_cognitivo)
 - [Sesgo de disponibilidad](https://es.wikipedia.org/wiki/Heur%C3%ADstica_de_disponibilidad)
 - [Síndrome de Estocolmo](https://es.wikipedia.org/wiki/S%C3%ADndrome_de_Estocolmo)
 - [Síndrome de Procusto](https://es.wikipedia.org/wiki/S%C3%ADndrome_de_Procusto)
-- [Síndrome del impostor](https://es.wikipedia.org/wiki/S%C3%ADndrome_del_impostor)
 - [Skin in the game](https://en.wikipedia.org/wiki/Skin_in_the_game)
-- [SNAFU](https://es.wikipedia.org/wiki/SNAFU)
-- [Solve et coagula](https://es.wikipedia.org/wiki/Solve_et_coagula)
-- [Teoría del cisne negro](https://es.wikipedia.org/wiki/Cisne_negro_(teor%C3%ADa))
-- [Teoría del segundo mejor](https://es.wikipedia.org/wiki/Teor%C3%ADa_del_segundo_mejor)
+- [SNAFU](https://en.wikipedia.org/wiki/SNAFU)
+- [Solve et coagula](https://es.wikipedia.org/wiki/Astrolog%C3%ADa_y_alquimia#La_alquimia_como_disciplina_filos%C3%B3fica_y_espiritual)
+- [Teoría del cisne negro](https://es.wikipedia.org/wiki/Teor%C3%ADa_del_cisne_negro)
+- [Teoría del proceso dual](https://es.wikipedia.org/wiki/Teor%C3%ADa_del_proceso_dual)
+- [Toyota Production System (TPS) / Lean Manufacturing](https://es.wikipedia.org/wiki/Sistema_de_producci%C3%B3n_Toyota) <span style="color:grey">(Éste tiene muchos sub-métodos/procesos/principios: Kaizen, Genba / Genchi Genbutsu, Just-in-Time (JIT), Jidōka, 5S, Kanban, Muda/Mura/Muri), etc...  explóralo tú mismo.)</span>
 - [Ventana de Johari](https://es.wikipedia.org/wiki/Ventana_de_Johari)
-- [Visualización negativa](https://en.wikipedia.org/wiki/Negative_visualization)
-- [VUCA](https://es.wikipedia.org/wiki/VUCA)
+- [Visualización negativa](https://es.wikipedia.org/wiki/Visualizaci%C3%B3n_negativa)
+- [VUCA](https://es.wikipedia.org/wiki/VICA)
 
 <br>
 
