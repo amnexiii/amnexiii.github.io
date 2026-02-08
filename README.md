@@ -9,7 +9,7 @@
 - **Modelos mentales** 🧠 
   - [Lista de modelos mentales](https://amnexiii.github.io/modelos_mentales.html) <span style="color:grey">(de terceros)</span>
   - [Concretar = delimitar + detallar](https://amnexiii.github.io/concretar.html)  
-- **Excelman** 💾 (a.k.a. "el listas") 
+- **Excelman** 💾 <span style="color:grey">(a.k.a. "el listas")</span>
   - [Abathor: fases y trucos](https://amnexiii.github.io/abathor.html)
   - [D&D spells](https://amnexiii.github.io/d&d_spells.html)
   - [Checklist para hacer la maleta](https://amnexiii.github.io/checklist_maleta.html)
