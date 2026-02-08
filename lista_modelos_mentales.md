@@ -71,5 +71,5 @@ Soy consciente de que algunas entradas no son exactamente "modelos" y se acercan
 <br>
 
 ___
-8 feb 2026
-(realmente empecé a hacer mi lista de modelos mentales en junio de 2022, inspirado por [el podcast Kaizen](https://open.spotify.com/show/09sG9kGWkQTmcraZSPiglB)
+8 feb 2026+ <br>
+(fecha de primera publicación aquí; pero empecé a hacer mi lista de modelos mentales en junio de 2022, inspirado por [el podcast Kaizen](https://open.spotify.com/show/09sG9kGWkQTmcraZSPiglB).)
