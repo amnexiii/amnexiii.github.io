@@ -31,7 +31,7 @@
     </marker>
   </defs>
 
-  <line x1="250" y1="550" x2="750" y2="50" stroke="#8400ff" stroke-width="4" opacity="0.4" marker-end="url(#arrow)"/>
+  <line x1="250" y1="550" x2="750" y2="50" stroke="#8400ff" stroke-width="4" opacity="0.5" marker-end="url(#arrow)"/>
 
   <!-- ===== TEXTO EJES Y DIAGONAL ===== -->
 
@@ -58,7 +58,7 @@
         font-size="22"
         fill="#8400ff"
         font-weight="bold"
-        opacity="0.4"
+        opacity="0.6"
         dominant-baseline="middle">
     Concretar
   </text>
