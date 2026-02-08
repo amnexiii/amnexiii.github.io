@@ -18,7 +18,20 @@
   <line x1="500" y1="0" x2="500" y2="600" stroke="#000" stroke-width="2"/>
   
   <!-- Diagonal de concretar -->
-  <line x1="250" y1="750" x2="750" y2="50" stroke="#000000" stroke-width="2" opacity="0.05"/>
+ 
+  <defs>
+    <marker id="arrow"
+            viewBox="0 0 10 10"
+            refX="10"
+            refY="5"
+            markerWidth="6"
+            markerHeight="6"
+            orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="black"/>
+    </marker>
+  </defs>
+
+  <line x1="250" y1="550" x2="750" y2="50" stroke="#000000" stroke-width="2" opacity="0.5" marker-end="url(#arrow)"/>
 
   <!-- ===== ETIQUETAS EJES ===== -->
 
