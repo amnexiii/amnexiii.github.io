@@ -31,7 +31,7 @@
     </marker>
   </defs>
 
-  <line x1="250" y1="550" x2="750" y2="50" stroke="#000000" stroke-width="2" opacity="0.5" marker-end="url(#arrow)"/>
+  <line x1="250" y1="550" x2="750" y2="50" stroke="#ea00ff" stroke-width="2" opacity="0.5" marker-end="url(#arrow)"/>
 
   <!-- ===== ETIQUETAS EJES ===== -->
 
@@ -60,18 +60,18 @@
     Detallado
   </text>
   <text x="350" y="205" font-size="34" text-anchor="middle" fill="orange">
-    Ámbito abierto
+    Ámbito delimitado
   </text>
 
   <!-- Arriba derecha -->
-  <text x="650" y="135" font-size="34" font-weight="bold" text-anchor="middle" fill="#1f4fd8">
+  <text x="650" y="135" font-size="34" font-weight="bold" text-anchor="middle" fill="#000000">
     Concreto
   </text>
   <text x="650" y="170" font-size="34" text-anchor="middle" fill="#1f4fd8">
-    (detallado +
+    Detallado
   </text>
   <text x="650" y="205" font-size="34" text-anchor="middle" fill="orange">
-    delimitado)
+    Delimitado)
   </text>
 
   <!-- Abajo izquierda -->
@@ -79,10 +79,12 @@
     Superficial
   </text>
   <text x="350" y="490" font-size="34" text-anchor="middle" fill="orange">
-    Ámbito delimitado
+    Ámbito abierto
   </text>
 
   <!-- Abajo derecha -->
+  <text x="650" y="135" font-size="34" font-weight="bold" text-anchor="middle" fill="#000000">
+    Abstracto
   <text x="650" y="455" font-size="34" text-anchor="middle" fill="#1f4fd8">
     Superficial
   </text>
@@ -112,7 +114,7 @@ Dile a tu jefe que concrete algo esa ambición abstracta del cuadrante rojo con 
 | Detallar ↓ / Delimitar → | Ámbito abierto | Ámbito delimitado |
 |-|-|-|
 | **Detallado** | La IA generativa clasificará consultas, redactará respuestas y sugerirá soluciones técnicas. | La IA clasificará responderá tickets de primer nivel en el software X, para el producto Y, en español e inglés, con referencias exclusivamente a la base de conocimiento interna y con validación humana obligatoria antes del envío. |
-| **Genérico** | La empresa quiere usar IA generativa para mejorar la eficiencia operativa. | La empresa usará IA generativa para el soporte técnico de su producto principal. |
+| **Superficial** | La empresa quiere usar IA generativa para mejorar la eficiencia operativa. | La empresa usará IA generativa para el soporte técnico de su producto principal. |
 
 
 
