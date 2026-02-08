@@ -27,7 +27,7 @@
             markerWidth="6"
             markerHeight="6"
             orient="auto">
-      <path d="M 0 0 L 10 5 L 0 10 z" fill="black"/>
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#ea00ff"/>
     </marker>
   </defs>
 
@@ -85,6 +85,9 @@
   </text>
 
   <!-- Abajo izquierda -->
+  <text x="350" y="420" font-size="34" font-weight="bold" text-anchor="middle" fill="#000000">
+    Abstracto
+  </text>
   <text x="350" y="455" font-size="34" text-anchor="middle" fill="#1f4fd8">
     Superficial
   </text>
@@ -93,9 +96,6 @@
   </text>
 
   <!-- Abajo derecha -->
-  <text x="650" y="135" font-size="34" font-weight="bold" text-anchor="middle" fill="#000000">
-    Abstracto
-  </text>
   <text x="650" y="455" font-size="34" text-anchor="middle" fill="#1f4fd8">
     Superficial
   </text>
