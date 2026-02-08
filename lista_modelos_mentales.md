@@ -8,7 +8,7 @@ Soy consciente de que algunas entradas no son exactamente "modelos" y se acercan
 
 ## Mis favoritos
 
-- [Auctoritas ✅](https://es.wikipedia.org/wiki/Auctoritas) VS. [Potestas ❌](https://es.wikipedia.org/wiki/Potestas)<span style="color:grey">: "Potestas sine auctoritate"</span>
+- [Auctoritas](https://es.wikipedia.org/wiki/Auctoritas) VS. [Potestas](https://es.wikipedia.org/wiki/Potestas): Potestas sine auctoritate ✅</span>
 - [Decisiones tipo 1 y tipo 2 ✅](https://www.aprendizajeinfinito.com/p/lecciones-amazon) y [Regla 10-10-10 ✅](https://lamenteesmaravillosa.com/la-tecnica-del-10-10-10-para-tomar-decisiones/)
 - [Difusión de la responsabilidad ❌](https://es.wikipedia.org/wiki/Difusi%C3%B3n_de_la_responsabilida) o [Efecto espectador ❌](https://es.wikipedia.org/wiki/Efecto_espectador)
 - [Efecto cobra ❌](https://es.wikipedia.org/wiki/Efecto_cobra)
