@@ -16,4 +16,4 @@ Eventualmente me pasan estas chorradas por la cabeza 😅.
 <br>
 
 ___
-<span style="color:grey">Desde 10 ene 2026</span>
+<span style="color:grey">10 ene 2026+</span>
