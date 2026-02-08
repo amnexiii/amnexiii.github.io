@@ -1,4 +1,5 @@
 # Apaños
+<span style="color:grey">(a.k.a. workarounds)</span>
 
 El interior del baño de un bar. ¡Intimidad total! 😅
 
