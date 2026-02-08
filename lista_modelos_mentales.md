@@ -9,7 +9,7 @@ Algunas entradas no son exactamente "modelos" y se acercan más a técnicas o m�
 ## Mis favoritos
 
 - [Principio de Pareto](https://es.wikipedia.org/wiki/Principio_de_Pareto)
-- [Lean Manufacturing / Toyota Production System (TPS)](https://es.wikipedia.org/wiki/Sistema_de_producci%C3%B3n_Toyota) Éste tiene muuuchos sub-métodos/procesos/principios como Kaizen (mejora continua), Genba (estar donde ocurren las cosas), Just-in-Time (JIT), Jidōka (no dejar que el error pase), 5S (organización del lugar de trabajo), Kanban (tableros/tarjetas), evitar desperdicio (Muda, Mura, Muri), etc... No sirve sólo para las fábricas, sino para cualquier empleo y para la vida. Si no lo conoces, explóralo tú mismo.
+- [Lean Manufacturing / Toyota Production System (TPS)](https://es.wikipedia.org/wiki/Sistema_de_producci%C3%B3n_Toyota) <span style="color:grey">(Éste tiene muchos sub-métodos/procesos/principios: Kaizen, Genba, Just-in-Time (JIT), Jidōka, 5S, Kanban, Muda/Mura/Muri), etc...  explóralo tú mismo.)</span>
 
 
 ## Más
