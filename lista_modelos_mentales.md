@@ -9,7 +9,8 @@ Soy consciente de que algunas entradas no son exactamente "modelos" y se acercan
 ## Mis favoritos
 
 - [Auctoritas ✅](https://es.wikipedia.org/wiki/Auctoritas) VS. [Potestas ❌](https://es.wikipedia.org/wiki/Potestas)
-- [Decisiones tipo 1 y tipo 2](https://www.aprendizajeinfinito.com/p/lecciones-amazon) y [Regla 10-10-10](https://lamenteesmaravillosa.com/la-tecnica-del-10-10-10-para-tomar-decisiones/)- [Efecto cobra](https://es.wikipedia.org/wiki/Efecto_cobra) y [Teoría del segundo mejor](https://es.wikipedia.org/wiki/Teor%C3%ADa_del_segundo_mejor)
+- [Decisiones tipo 1 y tipo 2](https://www.aprendizajeinfinito.com/p/lecciones-amazon) y [Regla 10-10-10](https://lamenteesmaravillosa.com/la-tecnica-del-10-10-10-para-tomar-decisiones/)
+- [Efecto cobra](https://es.wikipedia.org/wiki/Efecto_cobra) y [Teoría del segundo mejor](https://es.wikipedia.org/wiki/Teor%C3%ADa_del_segundo_mejor)
 - [Efecto Pigmalión positivo o efecto Rosenthal ✅](https://es.wikipedia.org/wiki/Efecto_Pigmalion) y [Profecía autocumplida ✅](https://es.wikipedia.org/wiki/Profec%C3%ADa_autocumplida)
  VS. [Efecto Pigmalión negativo o efecto Golem ❌](https://es.wikipedia.org/wiki/Efecto_Golem)
 - [Falacia del Concorde o falacia del coste hundido](https://es.wikipedia.org/wiki/Falacia_del_coste_hundido)
