@@ -6,8 +6,8 @@
   - [Bandeja vacía + backlog = paz mental + resultados](https://amnexiii.github.io/bandeja_vacía_1.html)
   - [Malditos adjuntos...](https://amnexiii.github.io/malditos_adjuntos.html)
   - [No Hello](https://amnexiii.github.io/no_hello.html)
-- **Procesos** 🤖 
-  - [Concretar = delimitar + detallar](https://amnexiii.github.io/concretar.html)
+- **Modelos mentales** 🧠 
+  - [Concretar = delimitar + detallar](https://amnexiii.github.io/concretar.html)  
 - **Excelman** 💾 (a.k.a. "el listas") 
   - [Abathor: fases y trucos](https://amnexiii.github.io/abathor.html)
   - [D&D spells](https://amnexiii.github.io/d&d_spells.html)
