@@ -127,8 +127,8 @@ Cuando lo consigas, te toca empezar ahí y acercarlo lo más posible a la esquin
 
 | Detallar ↓ / Delimitar → | Ámbito abierto | Ámbito delimitado |
 |-|-|-|
-| **Detallado** | La IA generativa clasificará consultas, redactará respuestas y sugerirá soluciones técnicas. | La IA clasificará y responderá tickets de primer nivel para el producto X, en español e inglés, con referencias exclusivamente a la base de conocimiento interna X<sup>32</sup> y con validación humana obligatoria antes del envío por parte del equipo X<sup>3</sup>. Se implementará en el software X<sup>4</sup> que se integrará con el sistema de ticketing X<sup>5</sup> por el protocolo X<sup>6</sup>... etc. etc. |
-| **Superficial** | La empresa quiere usar IA generativa para mejorar la eficiencia operativa. | La empresa usará IA generativa para el soporte técnico de su producto principal. |
+| **Detallado** | La IA generativa clasificará consultas, redactará respuestas y sugerirá soluciones técnicas. | La IA clasificará y responderá tickets de primer nivel para el producto X, en español e inglés, con referencias exclusivamente a la base de conocimiento interna X<sup>2</sup> y con validación humana obligatoria antes del envío por parte del equipo X<sup>3</sup>. Se implementará en el software X<sup>4</sup> que se integrará con el sistema de ticketing X<sup>5</sup> por el protocolo X<sup>6</sup>... etc, etc. |
+| **Superficial** | La empresa quiere usar IA generativa para mejorar la eficiencia operativa. | La empresa usará IA generativa para el soporte técnico de su producto X. |
 
 
 
