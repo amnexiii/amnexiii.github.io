@@ -21,7 +21,6 @@ Soy consciente de que algunas entradas no son exactamente "modelos" y se acercan
 - [Pirámide de Maslow](https://es.wikipedia.org/wiki/Pir%C3%A1mide_de_Maslow)
 - [Principio de Pareto](https://es.wikipedia.org/wiki/Principio_de_Pareto)
 - [Principio de Peter](https://es.wikipedia.org/wiki/Principio_de_Peter) y [Principio de Dilbert](https://es.wikipedia.org/wiki/Principio_de_Dilbert)
-- [Regla 10-10-10](https://lamenteesmaravillosa.com/la-tecnica-del-10-10-10-para-tomar-decisiones/)
 - [Síndrome del impostor](https://es.wikipedia.org/wiki/S%C3%ADndrome_del_impostor)
 - [Técnica de Feynman](https://www.educalive.com/blog/tecnica-feynman-metodo-para-estudiar-mejor)
 
@@ -54,6 +53,7 @@ Soy consciente de que algunas entradas no son exactamente "modelos" y se acercan
 - [Paradoja de Jevons](https://es.wikipedia.org/wiki/Paradoja_de_Jevons)
 - [Problema del polizón](https://es.wikipedia.org/wiki/Problema_del_poliz%C3%B3n)
 - [Reflexividad](https://es.wikipedia.org/wiki/Reflexividad_(teor%C3%ADa_social))
+- [Regla 10-10-10](https://lamenteesmaravillosa.com/la-tecnica-del-10-10-10-para-tomar-decisiones/) y [Decisiones tipo 1 y tipo 2 de Jeff Bezos](https://www.aprendizajeinfinito.com/p/lecciones-amazon)
 - [Sesgo cognitivo](https://es.wikipedia.org/wiki/Sesgo_cognitivo)
 - [Sesgo de disponibilidad](https://es.wikipedia.org/wiki/Heur%C3%ADstica_de_disponibilidad)
 - [Síndrome de Estocolmo](https://es.wikipedia.org/wiki/S%C3%ADndrome_de_Estocolmo)
