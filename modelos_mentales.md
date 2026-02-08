@@ -17,10 +17,10 @@ Soy consciente de que algunas entradas no son exactamente "modelos" y se acercan
 - [❌ Falacia del Concorde o falacia del coste hundido](https://es.wikipedia.org/wiki/Falacia_del_coste_hundido)
 - [❌ Garbage in, garbage out (GIGO)](https://es.wikipedia.org/wiki/Garbage_in,_garbage_out)
 - [❌ Los 5 monos y el plátano](https://www.youtube.com/watch?v=LSp8n78ONNA)
-- [✅ Método científico](https://es.wikipedia.org/wiki/M%C3%A9todo_cient%C3%ADfico), [✅ Falsacionismo](https://es.wikipedia.org/wiki/Falsacionismo), [✅ Falibilismo](https://es.wikipedia.org/wiki/Falibilismo) y [✅ Primer principio](https://en.wikipedia.org/wiki/First_principles) VS. [❌ Cámara de eco](https://es.wikipedia.org/wiki/C%C3%A1mara_de_eco_(medios))
+- [✅ Método científico](https://es.wikipedia.org/wiki/M%C3%A9todo_cient%C3%ADfico), [✅ Falsacionismo](https://es.wikipedia.org/wiki/Falsacionismo), [✅ Falibilismo](https://es.wikipedia.org/wiki/Falibilismo), [✅ Primer principio](https://es.wikipedia.org/wiki/Primer_principio)... VS. [❌ Cámara de eco](https://es.wikipedia.org/wiki/C%C3%A1mara_de_eco_(medios))
 - [✅ Navaja de Alder](https://en.wikipedia.org/wiki/Newton%27s_flaming_laser_sword) y [✅ Navaja de Hitchens](https://es.wikipedia.org/wiki/Navaja_de_Hitchens)
 - [❌ Parálisis por análisis](https://es.wikipedia.org/wiki/Par%C3%A1lisis_del_an%C3%A1lisis) o [❌ FOBO](https://dariusforoux.com/fear-of-better-options/)
-- [✅ Pink: Autonomy, Mastery and Purpose Framework](https://www.bitesizelearning.co.uk/resources/autonomy-mastery-purpose-motivation-pink)
+- [✅ Pink: Autonomy, Mastery and Purpose](https://www.bitesizelearning.co.uk/resources/autonomy-mastery-purpose-motivation-pink)
 - [✅ Pirámide de Maslow](https://es.wikipedia.org/wiki/Pir%C3%A1mide_de_Maslow)
 - [✅ Principio de Pareto](https://es.wikipedia.org/wiki/Principio_de_Pareto)
 - [😂 Principio de Peter](https://es.wikipedia.org/wiki/Principio_de_Peter) y [🤣 Principio de Dilbert](https://es.wikipedia.org/wiki/Principio_de_Dilbert)
@@ -72,4 +72,5 @@ Soy consciente de que algunas entradas no son exactamente "modelos" y se acercan
 
 ___
 <span style="color:grey">8 feb 2026+ <br>
+
 (fecha de primera publicación, aunque empecé a hacer mi lista de modelos mentales en junio de 2022, inspirado por [el podcast Kaizen](https://open.spotify.com/show/09sG9kGWkQTmcraZSPiglB).)</span>
