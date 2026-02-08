@@ -116,7 +116,7 @@
 
 </svg>
 
-¡Hay que ser concretos en la vida! (vaaaale, salvo para el arte).
+**¡Hay que ser concretos en la vida!** (traaaaanquilo artista 🧑‍🎨, que a ti no te aplica).
 
 Dile a tu jefe que su punto de partida no está en el cuadrante rojo, sino en los verdes clarito. ¡Que aterrice algo esa ambición abstracta con la que te da tanto la turra, que pa eso le pagan! 😝😈 
 
