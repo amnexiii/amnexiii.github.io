@@ -10,6 +10,7 @@ Soy consciente de que algunas entradas no son exactamente "modelos" y se acercan
 
 - [Auctoritas ✅](https://es.wikipedia.org/wiki/Auctoritas) VS. [Potestas ❌](https://es.wikipedia.org/wiki/Potestas)
 - [Decisiones tipo 1 y tipo 2](https://www.aprendizajeinfinito.com/p/lecciones-amazon) y [Regla 10-10-10](https://lamenteesmaravillosa.com/la-tecnica-del-10-10-10-para-tomar-decisiones/)
+- [Difusión de la responsabilidad](https://es.wikipedia.org/wiki/Difusi%C3%B3n_de_la_responsabilida) o [Efecto espectador](https://es.wikipedia.org/wiki/Efecto_espectador)
 - [Efecto cobra](https://es.wikipedia.org/wiki/Efecto_cobra) y [Teoría del segundo mejor](https://es.wikipedia.org/wiki/Teor%C3%ADa_del_segundo_mejor)
 - [Efecto Pigmalión positivo o efecto Rosenthal ✅](https://es.wikipedia.org/wiki/Efecto_Pigmalion) y [Profecía autocumplida ✅](https://es.wikipedia.org/wiki/Profec%C3%ADa_autocumplida)
  VS. [Efecto Pigmalión negativo o efecto Golem ❌](https://es.wikipedia.org/wiki/Efecto_Golem)
@@ -38,7 +39,6 @@ Soy consciente de que algunas entradas no son exactamente "modelos" y se acercan
 - [Dilema del prisionero](https://es.wikipedia.org/wiki/Dilema_del_prisionero)
 - [Disonancia cognitiva](https://es.wikipedia.org/wiki/Disonancia_cognitiva)
 - [Efecto Bannister](https://www.juancarloslopezpsicologo.com/2017/08/el-efecto-bannister.html)
-- [Efecto espectador](https://es.wikipedia.org/wiki/Efecto_espectador)
 - [Efecto Mateo](https://es.wikipedia.org/wiki/Efecto_Mateo) y [Ley de Stigler](https://es.wikipedia.org/wiki/Ley_de_Stigler)
 - [Escucha activa](https://es.wikipedia.org/wiki/Escucha_activa)
 - [FOMO](https://es.wikipedia.org/wiki/S%C3%ADndrome_FOMO)
