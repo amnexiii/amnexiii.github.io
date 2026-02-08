@@ -24,7 +24,7 @@ Soy consciente de que algunas entradas no son exactamente "modelos" y se acercan
 - [✅ Pirámide de Maslow](https://es.wikipedia.org/wiki/Pir%C3%A1mide_de_Maslow)
 - [✅ Principio de Pareto](https://es.wikipedia.org/wiki/Principio_de_Pareto)
 - [😂 Principio de Peter](https://es.wikipedia.org/wiki/Principio_de_Peter) y [🤣 Principio de Dilbert](https://es.wikipedia.org/wiki/Principio_de_Dilbert)
-- [❌ Síndrome de Procusto](https://orientak.com/blog/que-es-el-sindrome-de-procusto)
+- [❌ Síndrome de Procusto](https://www.mundopsicologos.com/articulos/sindrome-de-procusto-por-que-odiamos-al-que-sobresale)
 - [✅ Síndrome del impostor](https://es.wikipedia.org/wiki/S%C3%ADndrome_del_impostor) VS. [❌ Efecto Dunning-Kruger](https://es.wikipedia.org/wiki/Efecto_Dunning-Kruger)
 - [✅ Técnica de Feynman](https://www.educalive.com/blog/tecnica-feynman-metodo-para-estudiar-mejor)
 
@@ -71,6 +71,7 @@ Soy consciente de que algunas entradas no son exactamente "modelos" y se acercan
 <br>
 
 ___
-<span style="color:grey">8 feb 2026+ <br>
+<span style="color:grey">8 feb 2026+</span> <br>
 
-(fecha de primera publicación, aunque empecé a hacer mi lista de modelos mentales en junio de 2022, inspirado por [el podcast Kaizen](https://open.spotify.com/show/09sG9kGWkQTmcraZSPiglB).)</span>
+<span style="color:grey">(fecha de primera publicación, aunque empecé a hacer mi lista de modelos mentales en junio de 2022, inspirado por [el podcast Kaizen](https://open.spotify.com/show/09sG9kGWkQTmcraZSPiglB).)</span>
+
