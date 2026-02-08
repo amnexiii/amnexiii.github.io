@@ -12,4 +12,4 @@ _Todas_ las premiadas de la historia son muchas, pero las que tienen 5 o más pr
 <br>
 
 ___
-27 dic 2025
+<span style="color:grey">27 dic 2025</span>

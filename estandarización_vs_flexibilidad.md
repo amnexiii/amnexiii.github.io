@@ -108,4 +108,4 @@ Desde 2023, la IA agéntica juega un interesante papel que oscila entre todos lo
 <br>
 
 ___
-6 feb 2026+
+<span style="color:grey">xxx 2026</span>

@@ -29,4 +29,4 @@
 <br>
 
 ___
-25 ene 2026
+<span style="color:grey">25 ene 2026</span>

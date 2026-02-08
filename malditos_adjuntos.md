@@ -40,4 +40,4 @@ Lo más probable es que ya la conozcas, ¡sólo úsala! 🙏
 <br>
 
 ___
-17 sep 2025
+<span style="color:grey">17 sep 2025</span>

@@ -7,4 +7,4 @@
 <br>
 
 ___
-7 sep 2025
+<span style="color:grey">7 sep 2025</span>

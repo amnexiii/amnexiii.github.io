@@ -7,4 +7,4 @@ El interior del baño de un bar. ¡Intimidad total! 😅
 <br>
 
 ___
-7 feb 2026+
+<span style="color:grey">7 feb 2026+</span>

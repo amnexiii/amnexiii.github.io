@@ -135,4 +135,4 @@ Cuando lo consigas, te toca empezar ahí y acercarlo lo más posible a la esquin
 <br>
 
 ___
-8 feb 2026
+<span style="color:grey">8 feb 2026</span>

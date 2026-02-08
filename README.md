@@ -24,4 +24,4 @@
 
 ___
 
-_Web creada el 6 de septiembre de 2025._
+<span style="color:grey">Web creada el 6 de septiembre de 2025.</span>

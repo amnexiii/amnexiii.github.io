@@ -22,4 +22,4 @@ Si, por el contrario, sabes que esa acción guarda el fichero en tu carpeta OneD
 <br>
 
 ___
-17 sep 2025
+<span style="color:grey">17 sep 2025</span>

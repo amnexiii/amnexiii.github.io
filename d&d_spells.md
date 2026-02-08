@@ -16,4 +16,4 @@ De nada 😊.
 <br>
 
 ___
-8 sep 2025
+<span style="color:grey">8 sep 2025</span>

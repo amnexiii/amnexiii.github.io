@@ -22,5 +22,5 @@ Diciembre | ▪️El cliente dice que funciona regulero, que es más caro de lo 
 <br>
 
 ___
-10 ene 2026
+<span style="color:grey">10 ene 2026</span>
 

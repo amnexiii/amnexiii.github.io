@@ -13,7 +13,7 @@ Por tanto: ¿perdurará el conocimiento de la humanidad cerca del fin de los tie
 <br>
 
 ___
-6 sep 2025
+<span style="color:grey">6 sep 2025</span>
 
 
 

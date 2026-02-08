@@ -15,4 +15,4 @@ De nada 😊.
 <br>
 
 ___
-24 dic 2025
+<span style="color:grey">24 dic 2025</span>

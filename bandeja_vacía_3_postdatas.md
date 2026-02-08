@@ -21,4 +21,4 @@ También puedes trabajar en **eliminar parte de lo que te llega**, de manera que
 - Recomendación adicional, sobre todo para GenZ/GenAlpha 😇: date de baja de esa cantidad infinita de contenido basura. Si tu vida es un tsunami de infoxicación digital por suscripción, tendrás _demasiado que leer, incluso en diagonal_. Para lo que mantengas, controla tú cuándo consumirlo: quita las notificaciones, quita los banners que saltan en el escritorio y quita esos iconos rojos que indican el nº de elementos sin leer. No estés todo el día consumiendo, que construir es también gratificante... [no todo va a ser dopamina en la vida](https://www.youtube.com/watch?v=jHPfM7GIAxY) 😋.
 
 ___
-25 ene 2026
+<span style="color:grey">25 ene 2026</span>
