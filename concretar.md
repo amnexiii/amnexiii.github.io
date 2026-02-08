@@ -58,6 +58,7 @@
         font-size="22"
         fill="#8400ff"
         font-weight="bold"
+        opacity="0.4"
         dominant-baseline="middle">
     Concretar
   </text>
