@@ -1,6 +1,6 @@
 # Apaños
 
-En el baño de un bar: intimidad total 🤣
+Es el baño de un bar. ¡Intimidad total! 😅
 
 <img src="apaños_puerta.jpg" width="300">
 
