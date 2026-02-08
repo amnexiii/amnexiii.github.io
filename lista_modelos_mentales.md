@@ -1,7 +1,7 @@
 # Modelos mentales, principios o técnicas interesantes
 
-Los modelos mentales son mecanismos del pensamiento mediante los cuales se intenta explicar cómo funciona el mundo real.
-No son la realidad, pero ayudan mucho a acercarnos a la realidad, y por ello son útiles si los recuerdas y aplicas.
+Los modelos mentales son mecanismos del pensamiento mediante los cuales se intenta explicar cómo funciona el mundo real. <br>
+No son la realidad, pero ayudan mucho a acercarnos a ella, y por ello son útiles si los recuerdas y aplicas.
 
 Algunas entradas no son exactamente "modelos" y se acercan más a técnicas o métodos, pero las fronteras son difusas, no pienso clasificarlos. 😅
 
