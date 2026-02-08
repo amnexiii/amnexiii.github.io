@@ -118,16 +118,16 @@
 
 ¡Hay que ser concretos en la vida! (vaaaale, salvo para el arte).
 
-Dile a tu jefe que su punto de partida no es el cuadrante rojo, es uno de los verdes clarito. ¡Que aterrice algo esa ambición abstracta con la que te da tanto la turra, que pa eso le pagan! 😝😈 
+Dile a tu jefe que su punto de partida no es el cuadrante rojo, sino algún punto en los verdes. ¡Que aterrice algo esa ambición abstracta con la que te da tanto la turra, que pa eso le pagan! 😝😈 
 
-Cuando lo consigas, te toca empezar ahí y llevarlo al cuadrante bueno... ¡suerte! 😉
+Cuando lo consigas, te toca empezar ahí y acercarlo lo más posible a la esquina superior derecha... ¡suerte! 😉
 
 
 ## Ejemplo
 
 | Detallar ↓ / Delimitar → | Ámbito abierto | Ámbito delimitado |
 |-|-|-|
-| **Detallado** | La IA generativa clasificará consultas, redactará respuestas y sugerirá soluciones técnicas. | La IA clasificará responderá tickets de primer nivel en el software X, para el producto Y, en español e inglés, con referencias exclusivamente a la base de conocimiento interna y con validación humana obligatoria antes del envío. |
+| **Detallado** | La IA generativa clasificará consultas, redactará respuestas y sugerirá soluciones técnicas. | La IA clasificará y responderá tickets de primer nivel para el producto X, en español e inglés, con referencias exclusivamente a la base de conocimiento interna X' y con validación humana obligatoria antes del envío por parte del equipo X''. Se implementará en el software X''' X<sup>3</sup> que se integrará con el sistema de ticketing X'' por el protocolo X'''... etc. |
 | **Superficial** | La empresa quiere usar IA generativa para mejorar la eficiencia operativa. | La empresa usará IA generativa para el soporte técnico de su producto principal. |
 
 
