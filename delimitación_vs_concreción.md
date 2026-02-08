@@ -11,14 +11,14 @@
   <!-- Marco -->
   <rect x="200" y="0" width="600" height="600" fill="#ffffff" stroke="#000"/>
 
+  <!-- Eje X -->
+  <line x1="200" y1="300" x2="800" y2="300" stroke="#000" stroke-width="2"/
+
   <!-- Eje Y -->
   <line x1="500" y1="0" x2="500" y2="600" stroke="#000" stroke-width="2"/>
-
-  <!-- Eje Y -->
-  <!--<line x1="200" y1="300" x2="800" y2="300" stroke="#000" stroke-width="2"/>
-
+  
   <!-- Diagonal de concretar -->
-  <line x1="500" y1="0" x2="500" y2="600" stroke="#000" stroke-width="2"/>
+  <line x1="250" y1="750" x2="750" y2="50" stroke="#000000" stroke-width="2" opacity="0.05"/>
 
   <!-- ===== ETIQUETAS EJES ===== -->
 
