@@ -7,7 +7,7 @@
   - [Malditos adjuntos...](https://amnexiii.github.io/malditos_adjuntos.html)
   - [No Hello](https://amnexiii.github.io/no_hello.html)
 - **Procesos** 🤖 
-  - [Delimitación Vs. Concreción](https://amnexiii.github.io/delimitación_vs_concreción.html)
+  - [Concretar = delimitar + detallar](https://amnexiii.github.io/concretar.html)
 - **Excelman** 💾 (a.k.a. "el listas") 
   - [Abathor: fases y trucos](https://amnexiii.github.io/abathor.html)
   - [D&D spells](https://amnexiii.github.io/d&d_spells.html)

@@ -1,4 +1,4 @@
-# Delimitación Vs. Concreción
+# Concretar = delimitar + detallar
 
 <svg viewBox="0 0 900 700"
      width="400"
@@ -118,7 +118,10 @@
 
 ¡Hay que ser concretos en la vida! (vaaaale, salvo para el arte).
 
-Dile a tu jefe que concrete algo esa ambición abstracta del cuadrante rojo con la que te da tanto la turra. ¡Que lo detalle o lo delimite un poco, que pa eso le pagan! 😈😇 Cuando lo consigas, te toca empezar ahí y llevarlo al cuadrante bueno... ¡suerte! 😉
+Dile a tu jefe que su punto de partida no es el cuadrante rojo, es uno de los verdes clarito. ¡Que aterrice algo esa ambición abstracta con la que te da tanto la turra, que pa eso le pagan! 😝😈 
+
+Cuando lo consigas, te toca empezar ahí y llevarlo al cuadrante bueno... ¡suerte! 😉
+
 
 ## Ejemplo
 
