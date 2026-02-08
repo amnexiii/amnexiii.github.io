@@ -36,7 +36,7 @@
   <!-- ===== TEXTO EJES Y DIAGONAL ===== -->
 
   <!-- Etiqueta eje Y -->
-  <text x="0" y="300"
+  <text x="50" y="300"
         font-size="34"
         fill="#1f4fd8"
         font-weight="bold"
@@ -54,7 +54,7 @@
   </text>
 
   <!-- Etiqueta diagonal-->
-  <text x="0" y="300"
+  <text x="620" y="320"
         font-size="22"
         fill="#ea00ff"
         font-weight="bold"
