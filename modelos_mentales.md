@@ -13,8 +13,7 @@ Soy consciente de que algunas entradas no son exactamente "modelos" y se acercan
 - [❌ Difusión de la responsabilidad](https://es.wikipedia.org/wiki/Difusi%C3%B3n_de_la_responsabilidad) o [❌ Efecto espectador](https://es.wikipedia.org/wiki/Efecto_espectador)
 - [✅ Divergencia y Convergencia](https://asdesignudl.wordpress.com/wp-content/uploads/2022/06/image.png)  <span style="color:grey">(usados en "Design Thinking" y "Double diamond")</span>
 - [❌ Efecto cobra](https://es.wikipedia.org/wiki/Efecto_cobra)
-- [✅ Efecto Pigmalión positivo o efecto Rosenthal](https://es.wikipedia.org/wiki/Efecto_Pigmalion) y [✅ Profecía autocumplida](https://es.wikipedia.org/wiki/Profec%C3%ADa_autocumplida)
- VS. [❌ Efecto Pigmalión negativo o efecto Golem](https://es.wikipedia.org/wiki/Efecto_Golem)
+- [✅ Profecía autocumplida, incluyendo ✅ Efecto Pigmalión positivo o efecto Rosenthal y ✅ Efecto Galatea](https://narapsicologia.es/articulos/la-profecia-autocumplida-el-efecto-pigmalion-y-el-efecto-galatea-como-influyen-nuestras-interacciones-en-la-autoimagen-de-la-infancia/) VS. [❌ Efecto Pigmalión negativo o efecto Golem](https://es.wikipedia.org/wiki/Efecto_Golem)
 - [❌ Falacia del Concorde o falacia del coste hundido](https://es.wikipedia.org/wiki/Falacia_del_coste_hundido)
 - [❌ Garbage in, garbage out (GIGO)](https://es.wikipedia.org/wiki/Garbage_in,_garbage_out)
 - [❌ Los  monos y el plátano](https://www.youtube.com/watch?v=LSp8n78ONNA)
