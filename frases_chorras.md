@@ -6,10 +6,10 @@
     - _"Todo ser humano, si se lo propone, puede ser escultor de su propio cerebro."_ — Santiago Ramón y Cajal.
   - Más vale tarde que nunca, **pero  no es excusa para planificar mejor**.
 - Eres más...:
-  - Eres más **triste** que mover las pegatinas de un cubo de Rubik.
-  - Eres más **inútil** que lo verde del puerro.
-  - Eres más **desordenado** que la carpeta de descargas.
-  - Eres más **viejo** que el icono de guardar.
+  - ...**triste** que mover las pegatinas de un cubo de Rubik.
+  - ...**inútil** que lo verde del puerro.
+  - ...**desordenado** que la carpeta de descargas.
+  - ...**viejo** que el icono de guardar.
 
 Eventualmente me pasan estas chorradas por la cabeza 😅.
 
