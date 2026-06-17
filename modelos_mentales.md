@@ -8,7 +8,7 @@ Soy consciente de que algunas entradas no son exactamente "modelos" y se acercan
 
 ## Mis favoritos
 
-- [✅ Auctoritas](https://es.wikipedia.org/wiki/Auctoritas) sin [❌ Potestas](https://es.wikipedia.org/wiki/Potestas)
+- [✅ Auctoritas](https://es.wikipedia.org/wiki/Auctoritas) sin [❌ Potestas](https://es.wikipedia.org/wiki/Potestas) <span style="color:grey">(me refiero a "autoridad sin poder")</span>
 - [✅ Decisiones tipo 1 y tipo 2](https://www.aprendizajeinfinito.com/p/lecciones-amazon) y [✅ Regla 10-10-10](https://lamenteesmaravillosa.com/la-tecnica-del-10-10-10-para-tomar-decisiones/)
 - [❌ Difusión de la responsabilidad](https://es.wikipedia.org/wiki/Difusi%C3%B3n_de_la_responsabilidad) o [❌ Efecto espectador](https://es.wikipedia.org/wiki/Efecto_espectador)
 - [✅ Divergencia y Convergencia](https://asdesignudl.wordpress.com/wp-content/uploads/2022/06/image.png)  <span style="color:grey">(usados en "Design Thinking" y "Double diamond")</span>
