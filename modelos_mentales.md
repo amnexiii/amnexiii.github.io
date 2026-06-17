@@ -3,7 +3,7 @@
 **Los modelos mentales son mecanismos del pensamiento mediante los cuales se intenta explicar cómo funciona el mundo real.** <br>
 No son la realidad, pero te pueden ayudar a acercarte a ella, y por ello son útiles si los recuerdas y aplicas.
 
-Soy consciente de que algunas entradas no son exactamente "modelos" y se acercan más a técnicas, métodos, marcos de trabajo (_frameworks_) o incluso metodologías... Como las fronteras son difusas, no pienso clasificarlos. 😅 El fondo es el mismo: son herramientas para ordenar ideas y acercarnos a la realidad.
+Soy consciente de que algunas entradas no son exactamente "modelos" y se acercan más a técnicas, métodos, marcos de trabajo (_frameworks_) o incluso metodologías... Pero como las fronteras son difusas y todas tienen la utilidad comentada, no pienso clasificarlos 😅. 
 
 
 ## Mis favoritos
