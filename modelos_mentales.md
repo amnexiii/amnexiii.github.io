@@ -66,6 +66,7 @@ Soy consciente de que algunas entradas no son exactamente "modelos" y se acercan
 - [Teoría del proceso dual](https://es.wikipedia.org/wiki/Teor%C3%ADa_del_proceso_dual)
 - [Toyota Production System (TPS) / Lean Manufacturing](https://es.wikipedia.org/wiki/Sistema_de_producci%C3%B3n_Toyota) <span style="color:grey">(Éste tiene muchos sub-métodos/procesos/principios: Kaizen, Genba / Genchi Genbutsu, Just-in-Time (JIT), Jidōka, 5S, Kanban, Muda/Mura/Muri, etc.)</span>
 - [Ventana de Johari](https://es.wikipedia.org/wiki/Ventana_de_Johari)
+- [Ventana de Overton](https://es.wikipedia.org/wiki/Ventana_de_Overton)
 - [Visualización negativa](https://es.wikipedia.org/wiki/Visualizaci%C3%B3n_negativa)
 - [VUCA](https://es.wikipedia.org/wiki/VICA) / [BANI](https://www.iebschool.com/hub/que-es-entorno-bani-management/)
 
