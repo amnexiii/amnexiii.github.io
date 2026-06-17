@@ -124,10 +124,12 @@ Suerte en tu viaje a la esquina superior derecha... 😉
 
 ## Ejemplo
 
+Cómo detallar un caso de uso de IA generativa/agéntica:
+
 | Detallar ↓ / Delimitar → | Ámbito abierto | Ámbito delimitado |
 |-|-|-|
-| **Detallado** | <span style="color:grey">La IA generativa clasificará consultas y redactará respuestas.</span> | <span style="color:green">La IA clasificará y responderá tickets de primer nivel para el producto X, en español e inglés, con referencias exclusivamente a la base de conocimiento interna X<sup>2</sup> y con validación humana obligatoria antes del envío por parte del equipo X<sup>3</sup>. Se implementará en el software X<sup>4</sup> que se integrará con el sistema de ticketing X<sup>5</sup> por el protocolo X<sup>6</sup>... etc, etc.</span> |
-| **Superficial** | <span style="color:red">La empresa quiere usar IA generativa para mejorar la eficiencia operativa.</span> | <span style="color:grey">La empresa usará IA generativa para el soporte técnico de su producto X.</span> |
+| **Detallado** | <span style="color:grey">Usaremos IA generativa para mejorar la eficiencia operativa mediante la clasificación de consultas y la redacción de respuestas.</span> | <span style="color:green">Usaremos IA generativa para mejorar la eficiencia operativa mediante la clasificación de consultas y la redacción de respuestas en tickets de primer nivel para el producto X, integrándose con el sistema de ticketing X<sup>1</sup> mediante el protocolo X<sup>2</sup>, garantizando respuesta en idiomas español e inglés, con referencias exclusivamente a la base de conocimiento interna X<sup>3</sup>, con validación humana obligatoria antes del envío por parte de cualquier miembro del equipo X<sup>4</sup> (human in the loop) utilizando el sistema de autorización X<sup>5</sup>, todo mediante un agente implementado en el software X<sup>6</sup> con el lenguaje de programación X<sup>7</sup>,orquestado por la plataforma de IA agéntica X<sup>8</sup>.</span> |
+| **Superficial** | <span style="color:red">Usaremos IA generativa para mejorar la eficiencia operativa.</span> | <span style="color:grey">Usaremos IA generativa para mejorar la eficiencia operativa en el soporte técnico del producto X.</span> |
 
 
 
