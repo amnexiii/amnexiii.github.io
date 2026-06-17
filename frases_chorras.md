@@ -7,7 +7,7 @@
   - Más vale tarde que nunca, **pero  no es excusa para planificar mejor**.
 - Eres más...:
   - ...**triste** que mover las pegatinas de un cubo de Rubik.
-  - ...**inútil** que lo verde del puerro.
+  - ...**inútil** que lo verde del puerro. <span style="color:grey">(sabes que es mentira, pero aún así ¡lo tiras! 🤨)</span>
   - ...**desordenado** que la carpeta de descargas.
   - ...**viejo** que el icono de guardar.
 
